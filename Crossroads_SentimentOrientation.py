@@ -59,53 +59,37 @@ import os
 my_api_key = os.environ['GOOGLE_CSE_API_KEY']
 my_cse_id = os.environ['GOOGLE_CSE_ID']
 
-
 # Defining the search function
-# Important here might be the return – the string in the brackets pre-selects JSON keys
-def google_search(search_term, api_key, cse_id, **kwargs):
-    service = build("customsearch", "v1", developerKey=api_key)
-    response = service.cse().list(q=search_term, cx=cse_id, **kwargs).execute()
-    return response['searchInformation']
-
+# Return value as total restuls for the given term
+def google_search(search_term, **kwargs):
+    service = build("customsearch", "v1", developerKey=my_api_key)
+    response = service.cse().list(q=search_term, cx=my_cse_id, **kwargs).execute()
+    return int(response['searchInformation']['totalResults'])
 
 # Looping the searches for each option
 for option in options:
 
-	# Plain Positive
-	# Perform the Google search
-	response_google = google_search(positive_attribute, my_api_key, my_cse_id)
-
-	# Extract the number of results of the Google search
-	num_results_google_plainpositive = int(response_google['totalResults'])
-	print(num_results_google_plainpositive) # Just for testing
+    # Plain Positive
+    num_results_google_plainpositive = google_search(positive_attribute)
+    print(num_results_google_plainpositive) # Just for testing
 
 
-	# Option + Positive
-	# Perform the Google search
-	response_google = google_search(f'{option} {positive_attribute}', my_api_key, my_cse_id)
+    # Option + Positive
+    num_results_google_positive = google_search(f'{option} {positive_attribute}')
+    print(num_results_google_positive) # Just for testing
 
-	# Extract the number of results of the Google search
-	num_results_google_positive = int(response_google['totalResults'])
-	print(num_results_google_positive) # Just for testing
+    # Option + Negative
+    num_results_google_negative = google_search(f'{option} {negative_attribute}')
+    print(num_results_google_negative) # Just for testing
 
+    # Calculate Sentiment Orientiation Score
+    SentimentOrientation = math.log(num_results_google_positive / num_results_google_plainpositive / num_results_google_negative / num_results_google_plainpositive)
 
-	# Option + Negative
-	# Perform the Google search
-	response_google = google_search(f'{option} {negative_attribute}', my_api_key, my_cse_id)
+    # Append list with Orientations
+    SentimentOrientations.append(SentimentOrientation)
 
-	# Extract the number of results of the Google search
-	num_results_google_negative = int(response_google['totalResults'])
-	print(num_results_google_negative) # Just for testing
-
-
-	# Calculate Sentiment Orientiation Score
-	SentimentOrientation = math.log(num_results_google_positive / num_results_google_plainpositive / num_results_google_negative / num_results_google_plainpositive)
-
-	# Append list with Orientations
-	SentimentOrientations.append(SentimentOrientation)
-
-	# Output the Score
-	print("Sentiment Score for " + option + " is: " + str(SentimentOrientation))
+    # Output the Score
+    print("Sentiment Score for " + option + " is: " + str(SentimentOrientation))
 
 
 
