@@ -71,11 +71,9 @@ def google_search(search_term, api_key, cse_id, **kwargs):
 # Looping the searches for each option
 for option in options:
 
-
 	# Plain Positive
 	# Perform the Google search
-	current_search_term = positive_attribute
-	response_google = google_search(current_search_term, my_api_key, my_cse_id)
+	response_google = google_search(positive_attribute, my_api_key, my_cse_id)
 
 	# Extract the number of results of the Google search
 	num_results_google_plainpositive = int(response_google['totalResults'])
@@ -84,8 +82,7 @@ for option in options:
 
 	# Option + Positive
 	# Perform the Google search
-	current_search_term = option + " " + positive_attribute
-	response_google = google_search(current_search_term, my_api_key, my_cse_id)
+	response_google = google_search(f'{option} {positive_attribute}', my_api_key, my_cse_id)
 
 	# Extract the number of results of the Google search
 	num_results_google_positive = int(response_google['totalResults'])
@@ -94,8 +91,7 @@ for option in options:
 
 	# Option + Negative
 	# Perform the Google search
-	current_search_term = option + " " + negative_attribute
-	response_google = google_search(current_search_term, my_api_key, my_cse_id)
+	response_google = google_search(f'{option} {negative_attribute}', my_api_key, my_cse_id)
 
 	# Extract the number of results of the Google search
 	num_results_google_negative = int(response_google['totalResults'])
