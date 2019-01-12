@@ -54,19 +54,19 @@ def google_search(search_term, **kwargs):
 for option in options:
 
     # Plain Positive
-    num_results_google_plainpositive = google_search(positive_attribute)
-    print(num_results_google_plainpositive) # Just for testing
+    plainpositive_results = google_search(positive_attribute)
+    print(plainpositive_results) # Just for testing
 
     # Option + Positive
-    num_results_google_positive = google_search(f'{option} {positive_attribute}')
-    print(num_results_google_positive) # Just for testing
+    positive_results = google_search(f'{option} {positive_attribute}')
+    print(positive_results) # Just for testing
 
     # Option + Negative
-    num_results_google_negative = google_search(f'{option} {negative_attribute}')
-    print(num_results_google_negative) # Just for testing
+    negative_results = google_search(f'{option} {negative_attribute}')
+    print(negative_results) # Just for testing
 
     # Calculate Sentiment Orientiation Score
-    SentimentOrientation = math.log(num_results_google_positive / num_results_google_plainpositive / num_results_google_negative / num_results_google_plainpositive)
+    SentimentOrientation = math.log(positive_results / plainpositive_results / negative_results / plainpositive_results)
 
     # Append list with Orientations
     SentimentOrientations.append(SentimentOrientation)
