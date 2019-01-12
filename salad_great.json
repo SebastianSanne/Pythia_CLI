@@ -1,0 +1,1807 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - salad great",
+                "totalResults": "195000000",
+                "searchTerms": "salad great",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "010300063145966968924:s_c2a7abb_e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - salad great",
+                "totalResults": "195000000",
+                "searchTerms": "salad great",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "010300063145966968924:s_c2a7abb_e"
+            }
+        ]
+    },
+    "context": {
+        "title": "test"
+    },
+    "searchInformation": {
+        "searchTime": 0.55132,
+        "formattedSearchTime": "0.55",
+        "totalResults": "195000000",
+        "formattedTotalResults": "195,000,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "18 Best Salad Recipes - Cafe Delites",
+            "htmlTitle": "18 <b>Best Salad</b> Recipes - Cafe Delites",
+            "link": "https://cafedelites.com/18-best-salad-recipes/",
+            "displayLink": "cafedelites.com",
+            "snippet": "May 14, 2018 ... 18 BEST salad recipes that are quick and easy on Cafe Delites! All made in 15 \nminutes or less without compromising on flavour, these salads\u00a0...",
+            "htmlSnippet": "May 14, 2018 <b>...</b> 18 <b>BEST salad</b> recipes that are quick and easy on Cafe Delites! All made in 15 <br>\nminutes or less without compromising on flavour, these <b>salads</b>&nbsp;...",
+            "cacheId": "3_7i09xucI8J",
+            "formattedUrl": "https://cafedelites.com/18-best-salad-recipes/",
+            "htmlFormattedUrl": "https://cafedelites.com/18-<b>best</b>-<b>salad</b>-recipes/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "183",
+                        "height": "275",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEgZmUCcTozsTFukaWtdteLdM2c1R28z657pwBBkyROfJKrcIc_Q2AM5U"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:site_name": "Cafe Delites",
+                        "og:type": "article",
+                        "og:url": "https://cafedelites.com/18-best-salad-recipes/",
+                        "og:title": "18 Best Salad Recipes",
+                        "og:description": "18 Best Salad Recipes that are quick and easy on Cafe Delites! All made in 15\u00a0minutes or less without compromising on flavour! The salads in this round up have been made time and time again",
+                        "og:updated_time": "2018-05-14T20:45:30+00:00",
+                        "article:published_time": "2018-05-14T19:23:59+00:00",
+                        "article:modified_time": "2018-05-14T20:45:30+00:00",
+                        "og:image": "https://cafedelites.com/wp-content/uploads/2016/08/Balsamic-Chicken-Avocado-Caprese-Salad-32.jpg",
+                        "og:image:width": "800",
+                        "og:image:height": "1200",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "18 Best Salad Recipes",
+                        "twitter:description": "18 Best Salad Recipes that are quick and easy on Cafe Delites! All made in 15\u00a0minutes or less without compromising on flavour! The salads in this round up have been made time and time again",
+                        "twitter:image": "https://cafedelites.com/wp-content/uploads/2016/08/Balsamic-Chicken-Avocado-Caprese-Salad-32.jpg",
+                        "pinterest-rich-pin": "false",
+                        "p:domain_verify": "50bd2f71ca6a5dd5524969ef93959327",
+                        "og:locale": "en_US",
+                        "article:publisher": "https://www.facebook.com/CafeDelites",
+                        "article:author": "https://www.facebook.com/CafeDelites",
+                        "article:tag": "recipe round up",
+                        "article:section": "Round Ups",
+                        "og:image:secure_url": "https://cafedelites.com/wp-content/uploads/2016/08/Balsamic-Chicken-Avocado-Caprese-Salad-32.jpg",
+                        "og:image:alt": "Balsamic Chicken Avocado Caprese Salad is a quick and easy meal in a salad drizzled with a balsamic dressing that doubles as a marinade! | https://cafedelites.com",
+                        "twitter:site": "@KarinaCarrel",
+                        "twitter:creator": "@karinacarrel",
+                        "msapplication-tileimage": "https://cafedelites.com/wp-content/uploads/2015/06/favicon-grey-400x170-3-5578a3bcv1_site_icon-300x300.png"
+                    }
+                ],
+                "creativework": [
+                    {
+                        "datepublished": "2018-05-14T19:23:59+00:00",
+                        "headline": "18 Best Salad Recipes",
+                        "text": "18 Best Salad Recipes that are quick and easy on Cafe Delites! All made in 15 minutes or less without compromising on flavour! The salads in this round up have been made time and time again..."
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "url": "Recipe Index",
+                        "name": "Recipe Index"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Home",
+                        "name": "Home",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Round Ups",
+                        "name": "Round Ups",
+                        "position": "2"
+                    }
+                ],
+                "person": [
+                    {
+                        "url": "Karina",
+                        "name": "Karina"
+                    },
+                    {
+                        "name": "Micheal Ronel",
+                        "url": "Micheal Ronel"
+                    },
+                    {
+                        "name": "Karina"
+                    },
+                    {
+                        "name": "Sue"
+                    },
+                    {
+                        "name": "Karina"
+                    },
+                    {
+                        "name": "Liath"
+                    },
+                    {
+                        "name": "Karina"
+                    },
+                    {
+                        "name": "Margaret"
+                    },
+                    {
+                        "name": "Joy"
+                    },
+                    {
+                        "name": "Tymeron Smith"
+                    },
+                    {
+                        "name": "Jacinta Crenshaw"
+                    },
+                    {
+                        "name": "Sheryl Chrisman"
+                    },
+                    {
+                        "name": "Karina",
+                        "url": "Karina"
+                    },
+                    {
+                        "name": "Hanifa"
+                    },
+                    {
+                        "name": "cindy kersley"
+                    },
+                    {
+                        "name": "shar"
+                    },
+                    {
+                        "name": "Mary"
+                    }
+                ],
+                "comment": [
+                    {
+                        "datepublished": "2018-06-18T07:59:11+00:00",
+                        "url": "June 18, 2018 at",
+                        "text": "Good to see this salad idea. So happy to get the idea from you. Can\u2019t wait to try."
+                    },
+                    {
+                        "datepublished": "2018-06-18T10:38:42+00:00",
+                        "url": "June 18, 2018 at",
+                        "text": "AW! That is great to hear! Enjoy your salad!!"
+                    },
+                    {
+                        "datepublished": "2018-05-17T04:37:26+00:00",
+                        "url": "May 17, 2018 at",
+                        "text": "I love your recipes and your food always looks delicious. Always. The pictures are so mouth watering. Your ingredients are everything that I love. You do a fantastic job all around. Thank you!"
+                    },
+                    {
+                        "datepublished": "2018-05-18T02:39:30+00:00",
+                        "url": "May 18, 2018 at",
+                        "text": "AWE!! That is so sweet and kind of you! Thank you so much for seeing the detail and time I take on my recipes. I really appreciate it! I am so glad to have you following along with me! Thank..."
+                    },
+                    {
+                        "datepublished": "2018-05-15T06:59:21+00:00",
+                        "url": "May 15, 2018 at",
+                        "text": "I love salads and I love avocado. Unfortunately my boyfriend can\u2019t stand it! I would be eternally grateful for more avocado free salad recipes, or suggestions for substitutions. Going to..."
+                    },
+                    {
+                        "datepublished": "2018-05-15T14:35:20+00:00",
+                        "url": "May 15, 2018 at",
+                        "text": "You are always welcome to omit the avocado in any recipe that I make and make any of them your own. Thanks so much for following along with me!"
+                    },
+                    {
+                        "datepublished": "2018-04-16T01:16:40+00:00",
+                        "url": "April 16, 2018 at",
+                        "text": "Hi Karina. Absolutely LOVE your web site with the most amazing recipes. Living here in Spain we have an abundance of fresh salad vegetables available from our local market. (They grow and sell..."
+                    },
+                    {
+                        "datepublished": "2018-02-04T13:46:52+00:00",
+                        "url": "February 4, 2018 at",
+                        "text": "Oh my goodness\u2026 I\u2019ve loved salads for as long as I can remember and rarely get salad at a restaurant because I\u2019ve been disappointed too many times while wishing I were eating my own...."
+                    },
+                    {
+                        "datepublished": "2018-02-05T18:58:21+00:00",
+                        "url": "February 5, 2018 at",
+                        "text": "Oh you are SO sweet! I love salad too! I hope you are able to find the one you absolutely love! Thanks so much for following along with me!"
+                    },
+                    {
+                        "datepublished": "2017-12-27T09:05:45+00:00",
+                        "url": "December 27, 2017 at",
+                        "text": "I love love..this Web site\u2026."
+                    },
+                    {
+                        "datepublished": "2017-11-30T11:10:16+00:00",
+                        "url": "November 30, 2017 at",
+                        "text": "Do you have a cook book with all your salad recipes, they look delicious!"
+                    },
+                    {
+                        "datepublished": "2017-12-02T21:17:10+00:00",
+                        "url": "December 2, 2017 at",
+                        "text": "Hi Sheryl! Not at the moment but hopefully soon!"
+                    },
+                    {
+                        "datepublished": "2017-11-29T17:28:55+00:00",
+                        "url": "November 29, 2017 at",
+                        "text": "Wow just loved this site each and every one was a winner ,,,,"
+                    },
+                    {
+                        "datepublished": "2017-03-21T11:17:49+00:00",
+                        "url": "March 21, 2017 at",
+                        "text": "hi l love this site l would like to make the honey mustard chicken bacon avocado salad but l can not find any where the written ingredients could you help me out please lm a bit of a dinosaur..."
+                    },
+                    {
+                        "datepublished": "2017-01-11T09:58:29+00:00",
+                        "url": "January 11, 2017 at",
+                        "text": "I just discovered your website. I am big into salads. Thank you for creating some very delicious salads. I look forward to trying other comfort food recipes, this winter. Shar"
+                    },
+                    {
+                        "datepublished": "2016-08-15T02:31:52+00:00",
+                        "url": "August 15, 2016 at",
+                        "text": "FANTASTIC post! Love your salads so much\u2026makes life pleasurable! Pinned. Thanks for sharing."
+                    }
+                ],
+                "webpage": [
+                    {
+                        "image": "https://cafedelites.com/wp-content/uploads/2019/01/Cauliflower-Soup-IMAGE-93-250x198.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cafedelites.com/wp-content/uploads/2016/08/Balsamic-Chicken-Avocado-Caprese-Salad-32.jpg"
+                    }
+                ],
+                "wpheader": [
+                    {
+                        "headline": "Cafe Delites",
+                        "description": "for good food lovers"
+                    }
+                ],
+                "wpsidebar": [
+                    {
+                        "image": "https://cafedelites.com/wp-content/uploads/2018/09/180CBD6C-A7A9-4754-8E16-1658775B4BF2-150x150.jpeg"
+                    }
+                ],
+                "searchaction": [
+                    {
+                        "query-input": "name=s",
+                        "target": "https://cafedelites.com/?s={s}"
+                    },
+                    {
+                        "query-input": "name=s",
+                        "target": "https://cafedelites.com/?s={s}"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Last Great Tomato Salad of the Year - The New York Times",
+            "htmlTitle": "The Last <b>Great</b> Tomato <b>Salad</b> of the Year - The New York Times",
+            "link": "https://www.nytimes.com/2018/09/26/magazine/the-last-great-tomato-salad-of-the-year.html",
+            "displayLink": "www.nytimes.com",
+            "snippet": "Sep 26, 2018 ... For the chef Preeti Mistry, cooking is a way to express her complex perspective \nas a first-generation Indian-American.",
+            "htmlSnippet": "Sep 26, 2018 <b>...</b> For the chef Preeti Mistry, cooking is a way to express her complex perspective <br>\nas a first-generation Indian-American.",
+            "formattedUrl": "https://www.nytimes.com/.../the-last-great-tomato-salad-of-the-year.html",
+            "htmlFormattedUrl": "https://www.nytimes.com/.../the-last-<b>great</b>-tomato-<b>salad</b>-of-the-year.html",
+            "pagemap": {
+                "thumbnail": [
+                    {
+                        "src": "https://static01.nyt.com/images/2018/09/30/magazine/30mag-eat-alpha/30mag-eat-image1-thumbStandard.jpg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "article:published": "2018-09-26T12:52:35.000Z",
+                        "article:modified": "2018-11-01T20:36:47.322Z",
+                        "articleid": "100000006115262",
+                        "nyt_uri": "nyt://article/8d61f25e-262a-5ed3-b332-fbd67cc52043",
+                        "pubp_event_id": "pubp://event/f778f1edb00744e897b291247b4a7a8f",
+                        "image": "https://static01.nyt.com/images/2018/09/30/magazine/30mag-eat-alpha/30mag-eat-image1-facebookJumbo.jpg",
+                        "byl": "By Tejal Rao",
+                        "thumbnail": "https://static01.nyt.com/images/2018/09/30/magazine/30mag-eat-alpha/30mag-eat-image1-thumbStandard.jpg",
+                        "news_keywords": "Cooking,Restaurant,Indian Food,Salad,Salad Dressing,Preeti Mistry",
+                        "usageterms": "http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html",
+                        "pdate": "20180926",
+                        "og:url": "https://www.nytimes.com/2018/09/26/magazine/the-last-great-tomato-salad-of-the-year.html",
+                        "og:type": "article",
+                        "og:title": "The Last Great Tomato Salad of the Year",
+                        "og:image": "https://static01.nyt.com/images/2018/09/30/magazine/30mag-eat-alpha/30mag-eat-image1-facebookJumbo.jpg",
+                        "og:description": "For the chef Preeti Mistry, cooking is a way to express her complex perspective as a first-generation Indian-American.",
+                        "twitter:url": "https://www.nytimes.com/2018/09/26/magazine/the-last-great-tomato-salad-of-the-year.html",
+                        "twitter:title": "The Last Great Tomato Salad of the Year",
+                        "twitter:description": "For the chef Preeti Mistry, cooking is a way to express her complex perspective as a first-generation Indian-American.",
+                        "twitter:image": "https://static01.nyt.com/images/2018/09/30/magazine/30mag-eat-alpha/30mag-eat-image1-videoSixteenByNineJumbo1600-v2.jpg",
+                        "twitter:card": "summary_large_image",
+                        "article:section": "Magazine",
+                        "article:tag": "Cooking and Cookbooks",
+                        "cg": "magazine",
+                        "cn": "magazine-eat",
+                        "pt": "article",
+                        "pst": "News",
+                        "genre": "News",
+                        "url": "https://www.nytimes.com/2018/09/26/magazine/the-last-great-tomato-salad-of-the-year.html",
+                        "msapplication-starturl": "https://www.nytimes.com",
+                        "al:android:url": "nytimes://reader/id/100000006115262",
+                        "al:android:package": "com.nytimes.android",
+                        "al:android:app_name": "NYTimes",
+                        "twitter:app:name:googleplay": "NYTimes",
+                        "twitter:app:id:googleplay": "com.nytimes.android",
+                        "twitter:app:url:googleplay": "nytimes://reader/id/100000006115262",
+                        "al:iphone:url": "nytimes://www.nytimes.com/2018/09/26/magazine/the-last-great-tomato-salad-of-the-year.html",
+                        "al:iphone:app_store_id": "284862083",
+                        "al:iphone:app_name": "NYTimes",
+                        "al:ipad:url": "nytimes://www.nytimes.com/2018/09/26/magazine/the-last-great-tomato-salad-of-the-year.html",
+                        "al:ipad:app_store_id": "357066198",
+                        "al:ipad:app_name": "NYTimes",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "fb:app_id": "9869919170"
+                    }
+                ],
+                "newsarticle": [
+                    {
+                        "inlanguage": "en-US",
+                        "datepublished": "2018-09-26T12:52:35.000Z",
+                        "datemodified": "2018-11-01T20:36:47.322Z",
+                        "identifier": "100000006115262",
+                        "description": "For the chef Preeti Mistry, cooking is a way to express her complex perspective as a first-generation Indian-American.",
+                        "image": "https://static01.nyt.com/images/2018/09/30/magazine/30mag-eat-alpha/30mag-eat-image1-facebookJumbo.jpg",
+                        "thumbnailurl": "https://static01.nyt.com/images/2018/09/30/magazine/30mag-eat-alpha/30mag-eat-image1-thumbStandard.jpg",
+                        "usageterms": "http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html",
+                        "articlesection": "Magazine",
+                        "genre": "News",
+                        "url": "https://www.nytimes.com/2018/09/26/magazine/the-last-great-tomato-salad-of-the-year.html",
+                        "headline": "The Last Great Tomato Salad of the YearThe Last Great Tomato Salad of the Year",
+                        "copyrightholder": "CreditGentl and Hyers for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Rebecca Bartoshesky",
+                        "name": "Tejal Rao",
+                        "articlebody": "Certain clich\u00e9s, some more tenacious than others, define generations of Indian restaurants in the United States. It\u2019s a font, the type stylized with curly, pointy-ended serifs. It\u2019s a...",
+                        "copyrightyear": "2019"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://static01.nyt.com/images/2018/09/30/magazine/30mag-eat-image1/30mag-eat-image1-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                        "caption": "CreditCreditGentl and Hyers for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Rebecca Bartoshesky",
+                        "description": "CreditCreditGentl and Hyers for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Rebecca Bartoshesky",
+                        "copyrightholder": "CreditCreditGentl and Hyers for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Rebecca Bartoshesky"
+                    },
+                    {
+                        "url": "https://static01.nyt.com/images/2018/09/30/magazine/30mag-eat-image3/30mag-eat-image3-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                        "caption": "CreditGentl and Hyers for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Rebecca Bartoshesky.",
+                        "description": "CreditGentl and Hyers for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Rebecca Bartoshesky.",
+                        "copyrightholder": "CreditGentl and Hyers for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Rebecca Bartoshesky."
+                    },
+                    {
+                        "url": "https://static01.nyt.com/images/2018/09/30/magazine/30mag-eat-image1/30mag-eat-image1-thumbLarge.jpg?quality=75&auto=webp&disable=upscale"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "The New York Times Company"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static01.nyt.com/images/2018/09/30/magazine/30mag-eat-alpha/30mag-eat-image1-thumbStandard.jpg",
+                        "type": "1",
+                        "width": "75",
+                        "height": "75"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Mediterranean Bean Salad | The View from Great Island",
+            "htmlTitle": "Mediterranean Bean <b>Salad</b> | The View from <b>Great</b> Island",
+            "link": "https://theviewfromgreatisland.com/mediterranean-bean-salad-recipe/",
+            "displayLink": "theviewfromgreatisland.com",
+            "snippet": "Mar 24, 2017 ... My colorful and crunchy Mediterranean Bean Salad is the perfect side salad ~ it'll \ntake you through picnic and barbecue season with ease, and\u00a0...",
+            "htmlSnippet": "Mar 24, 2017 <b>...</b> My colorful and crunchy Mediterranean Bean <b>Salad</b> is the perfect side <b>salad</b> ~ it&#39;ll <br>\ntake you through picnic and barbecue season with ease, and&nbsp;...",
+            "cacheId": "wYoo2PAfsMAJ",
+            "formattedUrl": "https://theviewfromgreatisland.com/mediterranean-bean-salad-recipe/",
+            "htmlFormattedUrl": "https://theviewfrom<b>great</b>island.com/mediterranean-bean-<b>salad</b>-recipe/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "258",
+                        "height": "196",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVgRTXhMk5sW9pSRXSRopoLyhjp9wQKUQUIwN4ml2Q9ij2kxZ46VPhhs"
+                    }
+                ],
+                "aggregaterating": [
+                    {
+                        "worstrating": "1",
+                        "bestrating": "5",
+                        "ratingvalue": "3.5",
+                        "ratingcount": "66"
+                    }
+                ],
+                "recipe": [
+                    {
+                        "preptime": "15 min",
+                        "totaltime": "15 min",
+                        "calories": "265",
+                        "votes": "66",
+                        "ratingstars": "3.5",
+                        "image_url": "https://i0.wp.com/theviewfromgreatisland.com/wp-content/uploads/2017/03/Mediterranean-bean-salad-6026-March-07-2017-e1488990161988.jpg?fit=650%2C975&ssl=1"
+                    },
+                    {
+                        "name": "Mediterranean Bean Salad",
+                        "preptime": "PT15M",
+                        "totaltime": "PT0H15M",
+                        "recipecategory": "appetizer, salad",
+                        "recipecuisine": "Mediterranean",
+                        "recipeyield": "serves 8",
+                        "image": "https://i0.wp.com/theviewfromgreatisland.com/wp-content/uploads/2017/03/Mediterranean-bean-salad-6026-March-07-2017-e1488990161988.jpg?fit=650%2C975&ssl=1",
+                        "recipeingredient": "1 15 ounce can of cannellini beans, drained and well rinsed",
+                        "recipeinstructions": "Whisk the dressing ingredients together and taste to adjust any of them. Add more vinegar if you want a tangier flavor. Set aside.",
+                        "copyrightholder": "*Recipe from [The View from Great Island|http://theviewfromgreatisland.com] All images and content are copyright protected. If you want to use this recipe, please link back to this page."
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "pinterest-rich-pin": "false",
+                        "p:domain_verify": "8fa1b6d617467f88d750820853c3227d",
+                        "og:type": "article",
+                        "og:title": "Mediterranean Bean Salad",
+                        "og:description": "Mediterranean Bean Salad is the perfect picnic and barbecue side ~ make up a big batch to keep in the fridge for quick and healthy lunches, too!",
+                        "og:image": "https://theviewfromgreatisland.com/wp-content/uploads/2017/03/Mediterranean-bean-salad-6019-March-07-2017-4.jpg",
+                        "og:image:width": "1300",
+                        "og:image:height": "988",
+                        "og:url": "https://theviewfromgreatisland.com/mediterranean-bean-salad-recipe/",
+                        "og:site_name": "The View from Great Island",
+                        "article:author": "TheViewFromGreatIsland",
+                        "article:publisher": "http://facebook.com/TheViewFromGreatIsland",
+                        "article:published_time": "2017-03-24T02:59:22+00:00",
+                        "article:modified_time": "2018-12-27T17:17:03+00:00",
+                        "og:updated_time": "2018-12-27T17:17:03+00:00",
+                        "fb:app_id": "529576650555031",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Mediterranean Bean Salad",
+                        "twitter:description": "Mediterranean Bean Salad is the perfect picnic and barbecue side ~ make up a big batch to keep in the fridge for quick and healthy lunches, too!",
+                        "twitter:image": "https://theviewfromgreatisland.com/wp-content/uploads/2017/03/Mediterranean-bean-salad-6019-March-07-2017-4.jpg",
+                        "twitter:site": "@TVFGI",
+                        "twitter:creator": "@TVFGI"
+                    }
+                ],
+                "nutritioninformation": [
+                    {
+                        "calories": "265"
+                    }
+                ],
+                "hrecipe": [
+                    {
+                        "fn": "Mediterranean Bean Salad",
+                        "photo": "https://i0.wp.com/theviewfromgreatisland.com/wp-content/uploads/2017/03/Mediterranean-bean-salad-6026-March-07-2017-e1488990161988.jpg?fit=650%2C975&ssl=1",
+                        "yield": "serves 8",
+                        "calories": "265"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://theviewfromgreatisland.com/wp-content/uploads/2017/03/Mediterranean-bean-salad-6019-March-07-2017-4.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "20 Epic Salad Recipes - Cookie and Kate",
+            "htmlTitle": "20 Epic <b>Salad</b> Recipes - Cookie and Kate",
+            "link": "https://cookieandkate.com/2017/20-epic-salad-recipes/",
+            "displayLink": "cookieandkate.com",
+            "snippet": "Remember, salads keep best when the dressing is stored separately from the \nrest. I like to make a big batch of salad and keep it in the fridge for whenever\u00a0...",
+            "htmlSnippet": "Remember, <b>salads</b> keep <b>best</b> when the dressing is stored separately from the <br>\nrest. I like to make a big batch of <b>salad</b> and keep it in the fridge for whenever&nbsp;...",
+            "cacheId": "B51TvME2MnsJ",
+            "formattedUrl": "https://cookieandkate.com/2017/20-epic-salad-recipes/",
+            "htmlFormattedUrl": "https://cookieandkate.com/2017/20-epic-<b>salad</b>-recipes/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "191",
+                        "height": "263",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTArL4A2VlcfjFxIPTxS87JZvkWAhRXL7oE_i19xx4wKbQgJaMa5o69pvCD"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:type": "article",
+                        "og:title": "20 Epic Salad Recipes - Cookie and Kate",
+                        "og:description": "Craving fresh, healthy, delicious salads? Find 20 epic salad recipes here! All vegetarian; many are vegan and gluten free. Enjoy as-is or add extra protein.",
+                        "og:url": "https://cookieandkate.com/2017/20-epic-salad-recipes/",
+                        "og:site_name": "Cookie and Kate",
+                        "article:publisher": "https://www.facebook.com/cookieandkate",
+                        "article:section": "tips and resources",
+                        "article:published_time": "2017-05-21T16:12:33+00:00",
+                        "article:modified_time": "2017-09-02T23:18:20+00:00",
+                        "og:updated_time": "2017-09-02T23:18:20+00:00",
+                        "og:image": "https://cookieandkate.com/images/2017/05/20-epic-salad-recipes-2.jpg",
+                        "og:image:secure_url": "https://cookieandkate.com/images/2017/05/20-epic-salad-recipes-2.jpg",
+                        "og:image:width": "1100",
+                        "og:image:height": "1513",
+                        "og:image:alt": "Craving fresh salads this time of year? Find 20 delicious and healthy salad recipes at cookieandkate.com",
+                        "twitter:card": "summary_large_image",
+                        "twitter:description": "Craving fresh, healthy, delicious salads? Find 20 epic salad recipes here! All vegetarian; many are vegan and gluten free. Enjoy as-is or add extra protein.",
+                        "twitter:title": "20 Epic Salad Recipes - Cookie and Kate",
+                        "twitter:site": "@cookieandkate",
+                        "twitter:image": "https://cookieandkate.com/images/2017/05/20-epic-salad-recipes-2.jpg",
+                        "twitter:creator": "@cookieandkate",
+                        "p:domain_verify": "e48f70f221d645c3b9b8e82f2b8765a9",
+                        "msvalidate.01": "3C33B06721B23420A6037BF6C7D84447"
+                    }
+                ],
+                "creativework": [
+                    {
+                        "headline": "20 Epic Salad Recipes",
+                        "text": "25 CommentsHappy Sunday! This time of year, all I want to eat are big, fresh, colorful salads. I\u2019m still finalizing the details on my next \u201cgiant salad challenge\u201d recipe but enjoyed the..."
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "name": "ALL RECIPES",
+                        "url": "VIEW ALL"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Sarah"
+                    },
+                    {
+                        "name": "Kate"
+                    },
+                    {
+                        "name": "Deborah @ The Harvest Kitchen"
+                    },
+                    {
+                        "name": "Kate"
+                    },
+                    {
+                        "name": "Marcia"
+                    },
+                    {
+                        "name": "Kate"
+                    },
+                    {
+                        "name": "Jan"
+                    },
+                    {
+                        "name": "Kate"
+                    },
+                    {
+                        "name": "Shamila"
+                    },
+                    {
+                        "name": "Kate"
+                    },
+                    {
+                        "name": "Maeve"
+                    },
+                    {
+                        "name": "Kate"
+                    },
+                    {
+                        "name": "Keri"
+                    },
+                    {
+                        "name": "Kate"
+                    },
+                    {
+                        "name": "Tina Basu"
+                    },
+                    {
+                        "name": "Kate"
+                    },
+                    {
+                        "name": "Kelli @ Hungry Hobby"
+                    },
+                    {
+                        "name": "Kate"
+                    },
+                    {
+                        "name": "James | Thyme to Mango"
+                    },
+                    {
+                        "name": "Kate"
+                    },
+                    {
+                        "name": "Saurav Manandhar"
+                    },
+                    {
+                        "name": "Kate",
+                        "url": "Kate"
+                    },
+                    {
+                        "name": "Jolia"
+                    },
+                    {
+                        "name": "Kate",
+                        "url": "Kate"
+                    },
+                    {
+                        "name": "Kelsey Smith"
+                    }
+                ],
+                "comment": [
+                    {
+                        "datepublished": "2017-05-21T12:45:56+00:00",
+                        "text": "Yessssss! We have been loving big dinner salads lately. We have tried two from your book already (roasted veggie chipolte salad and taco salad from the cover, both delicious) and plan to try..."
+                    },
+                    {
+                        "datepublished": "2017-05-23T16:30:14+00:00",
+                        "text": "Big dinner salads are always a great idea. I hope you enjoy the book, and have fun with the ones I\u2019ve listed here!"
+                    },
+                    {
+                        "datepublished": "2017-05-21T13:05:24+00:00",
+                        "text": "Beautiful collection of salads (made me hungry)! They\u2019re all perfect for summer! Congratulations on the release of your book \u2013 can\u2019t wait for my copy to arrive!"
+                    },
+                    {
+                        "datepublished": "2017-05-23T16:30:35+00:00",
+                        "text": "I hope you love it, Deborah! Thanks!"
+                    },
+                    {
+                        "datepublished": "2017-05-21T14:59:47+00:00",
+                        "text": "All of these are beautiful! I don\u2019t know which I like most! With warm weather finally here (in San Diego, at least), I\u2019m sure to being making many if not all of these over the next weeks..."
+                    },
+                    {
+                        "datepublished": "2017-05-24T11:00:11+00:00",
+                        "text": "You lucky duck! It\u2019s still drizzly and cool here in KC. I hope you enjoy the book on a nice, warm day!"
+                    },
+                    {
+                        "datepublished": "2017-05-21T15:13:34+00:00",
+                        "text": "I just wanted to say, I can\u2019t wait to dive into some of these yummy looking salads!! And, I ordered my copy of \u201cLove Real Food\u201d on Friday\u2026. I super excited to get it, I\u2019ve yet to..."
+                    },
+                    {
+                        "datepublished": "2017-05-24T11:00:24+00:00",
+                        "text": "Thank you, Jan! I hope you love the book."
+                    },
+                    {
+                        "datepublished": "2017-05-21T15:57:39+00:00",
+                        "text": "I have been following your online newsletter for two years and your recipes have filled our home with joy and tasty goodness! My husband loves vegetarian food now and your creativity with vegetable..."
+                    },
+                    {
+                        "datepublished": "2017-05-24T11:01:42+00:00",
+                        "text": "I love that way of thinking about it, Shamila! It sounds like you put together some colorful, nutritious dishes. I\u2019m so glad my recipes were a part of that!"
+                    },
+                    {
+                        "datepublished": "2017-05-21T16:49:19+00:00",
+                        "text": "Hi Kate Thank you for all your hard work and recipes. I became vegetarian some years ago and this re-kindled my love of cooking. I found your website and subscribed, your recipes are full of..."
+                    },
+                    {
+                        "datepublished": "2017-05-24T11:02:37+00:00",
+                        "text": "Ooh, that is a challenge, Maeve. I\u2019ve made note of it\u2013 I\u2019m sure I can have some fun coming up with recipes that fit the criteria!"
+                    },
+                    {
+                        "datepublished": "2017-05-21T23:15:55+00:00",
+                        "text": "Thank you for this collection of salad recipes! I am always trying to find ways to make unique salads so that my veggies don\u2019t get boring :)"
+                    },
+                    {
+                        "datepublished": "2017-05-24T11:09:15+00:00",
+                        "text": "You\u2019re welcome, Keri! I hope this spices things up."
+                    },
+                    {
+                        "datepublished": "2017-05-23T00:47:53+00:00",
+                        "text": "Wow, they are seriously epic. I am going to try the Greek Wedge Salad ASAP coz I have all the ingredients"
+                    },
+                    {
+                        "datepublished": "2017-05-24T11:28:32+00:00",
+                        "text": "Perfect!"
+                    },
+                    {
+                        "datepublished": "2017-05-24T10:37:15+00:00",
+                        "text": "Making your own salad dressing seems so intimidating sometimes! I feel like I\u2019m just getting the hang of it!"
+                    },
+                    {
+                        "datepublished": "2017-05-24T11:37:04+00:00",
+                        "text": "I totally understand that, Kelli, but I hope you step out of your comfort zone and try it out! It took me a few times to get it right, so don\u2019t be hard on yourself."
+                    },
+                    {
+                        "datepublished": "2017-06-02T01:33:33+00:00",
+                        "text": "Oh my, so many amazing salads here. I really wish I wasn\u2019t stuck in freezing winter temperatures right now because I want to eat them all.Oh, and I have ordered my copy of Love Real Food...."
+                    },
+                    {
+                        "datepublished": "2017-06-06T17:03:52+00:00",
+                        "text": "Pin them for later, for sure! I hope you adore the book, James. Let me know which recipes you try!"
+                    },
+                    {
+                        "datepublished": "2018-07-08T05:40:00+00:00",
+                        "text": "wow, amazing how salad is so healthy for us"
+                    },
+                    {
+                        "datepublished": "2018-07-12T10:46:51+00:00",
+                        "text": "I\u2019m happy you think so!"
+                    },
+                    {
+                        "datepublished": "2018-10-29T19:14:38+00:00",
+                        "text": "Excellent sauce recipes ! Didn\u2019t have dates so used prunes instead and came out great."
+                    },
+                    {
+                        "datepublished": "2018-10-30T10:36:50+00:00",
+                        "text": "Thanks for sharing!"
+                    },
+                    {
+                        "datepublished": "2019-01-02T19:00:13+00:00",
+                        "text": "Hi Kate! My name is Kelsey Smith (male). In the last couple years, I have been on a mission to learn how to cook well, and you have been my culinary guru on this journey ;) I have used so many..."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cookieandkate.com/images/2017/05/20-epic-salad-recipes-2.jpg"
+                    }
+                ],
+                "wpheader": [
+                    {
+                        "headline": "Cookie and Kate",
+                        "description": "Whole Foods and Vegetarian Recipe Blog"
+                    }
+                ],
+                "wpsidebar": [
+                    {
+                        "image": "https://cookieandkate.com/images/2018/11/best-cauliflower-soup-recipe-2-80x110.jpg"
+                    }
+                ],
+                "searchaction": [
+                    {
+                        "query-input": "name=s",
+                        "target": "https://cookieandkate.com/?s={s}"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Feel-Good Fall Salad | Gimme Some Oven",
+            "htmlTitle": "Feel-<b>Good</b> Fall <b>Salad</b> | Gimme Some Oven",
+            "link": "https://www.gimmesomeoven.com/feel-good-fall-salad/",
+            "displayLink": "www.gimmesomeoven.com",
+            "snippet": "Nov 5, 2018 ... This Feel-Good Fall Salad recipe is made with the most delicious collection of \nvibrant, seasonal, simple ingredients. It's great as a main dish or\u00a0...",
+            "htmlSnippet": "Nov 5, 2018 <b>...</b> This Feel-<b>Good</b> Fall <b>Salad</b> recipe is made with the most delicious collection of <br>\nvibrant, seasonal, simple ingredients. It&#39;s <b>great</b> as a main dish or&nbsp;...",
+            "cacheId": "-0xC_eaTBH4J",
+            "formattedUrl": "https://www.gimmesomeoven.com/feel-good-fall-salad/",
+            "htmlFormattedUrl": "https://www.gimmesomeoven.com/feel-<b>good</b>-fall-<b>salad</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "183",
+                        "height": "275",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCPIEOeMu1HDxAAyzxTCv0DAQRbFPHVxog_kphFXkTMtCy6GBSVWfxg8O4"
+                    }
+                ],
+                "aggregaterating": [
+                    {
+                        "ratingvalue": "5",
+                        "reviewcount": "10"
+                    }
+                ],
+                "recipe": [
+                    {
+                        "preptime": "10 min",
+                        "cooktime": "30 min",
+                        "ratingcount": "10",
+                        "ratingstars": "5.0",
+                        "image_url": "https://www.gimmesomeoven.com/wp-content/uploads/2018/11/Autumn-Harvest-Salad-Recipe-with-Sweet-Potatoes-Avocado-Cranberries-and-Pecans-1-1-360x360.jpg"
+                    },
+                    {
+                        "url": "https://www.gimmesomeoven.com/feel-good-fall-salad",
+                        "image": "https://www.gimmesomeoven.com/wp-content/uploads/2018/11/Autumn-Harvest-Salad-Recipe-with-Sweet-Potatoes-Avocado-Cranberries-and-Pecans-1-1-360x360.jpg",
+                        "name": "Feel-Good Fall Salad",
+                        "recipeyield": "Yield: 4-6 servings",
+                        "description": "This Feel-Good Fall Salad recipe is made with the most delicious collection of vibrant, seasonal, simple ingredients.",
+                        "totaltime": "PT40M",
+                        "preptime": "PT10M",
+                        "cooktime": "PT30M",
+                        "ingredients": "1 tablespoon olive oil",
+                        "recipeinstructions": "To Make The Dressing: Whisk all ingredients together in a bowl (or shake together in a mason jar) until combined. Use immediately or refrigerate in a sealed container for up to 3 days. To Roast...",
+                        "author": "Gimme Some Oven"
+                    }
+                ],
+                "rating": [
+                    {
+                        "worstrating": "1",
+                        "ratingvalue": "5",
+                        "bestrating": "5"
+                    },
+                    {
+                        "worstrating": "1",
+                        "ratingvalue": "5",
+                        "bestrating": "5"
+                    },
+                    {
+                        "worstrating": "1",
+                        "ratingvalue": "5",
+                        "bestrating": "5"
+                    },
+                    {
+                        "worstrating": "1",
+                        "ratingvalue": "4",
+                        "bestrating": "5"
+                    },
+                    {
+                        "worstrating": "1",
+                        "ratingvalue": "4",
+                        "bestrating": "5"
+                    },
+                    {
+                        "worstrating": "1",
+                        "ratingvalue": "5",
+                        "bestrating": "5"
+                    },
+                    {
+                        "worstrating": "1",
+                        "ratingvalue": "5",
+                        "bestrating": "5"
+                    },
+                    {
+                        "worstrating": "1",
+                        "ratingvalue": "5",
+                        "bestrating": "5"
+                    },
+                    {
+                        "worstrating": "1",
+                        "ratingvalue": "5",
+                        "bestrating": "5"
+                    },
+                    {
+                        "worstrating": "1",
+                        "ratingvalue": "5",
+                        "bestrating": "5"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                        "og:locale": "en_US",
+                        "og:type": "article",
+                        "og:title": "Feel-Good Fall Salad | Gimme Some Oven",
+                        "og:description": "This Feel-Good Fall Salad recipe is made with roasted sweet potatoes, avocado, arugula, nuts, cheese and an easy lemon dressing. So delicious!!",
+                        "og:url": "https://www.gimmesomeoven.com/feel-good-fall-salad/",
+                        "og:site_name": "Gimme Some Oven",
+                        "article:publisher": "https://www.facebook.com/GimmeSomeOvenBlog/",
+                        "article:section": "Entrees / Main Dishes",
+                        "article:published_time": "2018-11-05T04:04:32-06:00",
+                        "article:modified_time": "2018-11-05T05:21:39-06:00",
+                        "og:updated_time": "2018-11-05T05:21:39-06:00",
+                        "og:image": "https://www.gimmesomeoven.com/wp-content/uploads/2018/11/Autumn-Harvest-Salad-Recipe-with-Sweet-Potatoes-Avocado-Cranberries-and-Pecans-1-1.jpg",
+                        "og:image:secure_url": "https://www.gimmesomeoven.com/wp-content/uploads/2018/11/Autumn-Harvest-Salad-Recipe-with-Sweet-Potatoes-Avocado-Cranberries-and-Pecans-1-1.jpg",
+                        "og:image:width": "1392",
+                        "og:image:height": "2088"
+                    }
+                ],
+                "review": [
+                    {
+                        "itemreviewed": "Feel-Good Fall Salad",
+                        "author": "Aliz Foods",
+                        "datepublished": "2018-11-05",
+                        "description": "which olive oil is should use extra virgin or pomace olive oil"
+                    },
+                    {
+                        "itemreviewed": "Feel-Good Fall Salad",
+                        "author": "Cathy",
+                        "datepublished": "2018-11-05",
+                        "description": "Made this tonight for my husband and me and we both agreed it was delicious! Thanks!"
+                    },
+                    {
+                        "itemreviewed": "Feel-Good Fall Salad",
+                        "author": "Rhonda Bolt Chesson",
+                        "datepublished": "2018-11-11",
+                        "description": "This is a delicious salad! The dressing provides just enough tartness. I used roasted beets instead of sweet potatoes because that is what I had. Everyone loved it!!"
+                    },
+                    {
+                        "itemreviewed": "Feel-Good Fall Salad",
+                        "author": "Eileen",
+                        "datepublished": "2018-11-12",
+                        "description": "When you say \u201cserve immediately,\u201d you mean it! The flavors in this salad are wonderful, but mine became gloppy in the few minutes it sat on the table while we ate our soup. Everyone loved..."
+                    },
+                    {
+                        "itemreviewed": "Feel-Good Fall Salad",
+                        "author": "Sara",
+                        "datepublished": "2018-11-19",
+                        "description": "LOVED this. Perfect combination of flavors."
+                    },
+                    {
+                        "itemreviewed": "Feel-Good Fall Salad",
+                        "author": "Rachel",
+                        "datepublished": "2018-11-23",
+                        "description": "We like a complex in terms of texture salad for Thanksgiving. This one delivered. Not hard to make and easy to adjust to preferences (feta vs goat cheese). Very tasty as breakfast with a fried egg."
+                    },
+                    {
+                        "itemreviewed": "Feel-Good Fall Salad",
+                        "author": "Kerim",
+                        "datepublished": "2018-12-03",
+                        "description": "I\u2019m very curious about the taste of scrumptious appearance. thanks"
+                    },
+                    {
+                        "itemreviewed": "Feel-Good Fall Salad",
+                        "author": "Crystal Dunn",
+                        "datepublished": "2018-12-17",
+                        "description": "Certainly deserves the name! This salad is delicious, and its fantastic mix of ingredients make it . I love that it it is so easy to make, and the ingredients are easy to gather and the nutritional..."
+                    },
+                    {
+                        "itemreviewed": "Feel-Good Fall Salad",
+                        "author": "Sarah",
+                        "datepublished": "2019-01-02",
+                        "description": "I have made this several times now and it\u2019s always a hit! Anything with sweet potatoes, avocado, and goat cheese has to be a winner!"
+                    },
+                    {
+                        "itemreviewed": "Feel-Good Fall Salad",
+                        "author": "Jennifer",
+                        "datepublished": "2019-01-04",
+                        "description": "This recipe was delicious! I tweaked it a little \u2013 used a 50/50 mix of arugula and spinach, added red onion and sundried tomatoes, and I used pine nuts instead of pecans (I had them in the..."
+                    }
+                ],
+                "hreview": [
+                    {
+                        "dtreviewed": "2018-11-05",
+                        "description": "which olive oil is should use extra virgin or pomace olive oil"
+                    },
+                    {
+                        "dtreviewed": "2018-11-05",
+                        "description": "Made this tonight for my husband and me and we both agreed it was delicious! Thanks!"
+                    },
+                    {
+                        "dtreviewed": "2018-11-11",
+                        "description": "This is a delicious salad! The dressing provides just enough tartness. I used roasted beets instead of sweet potatoes because that is what I had. Everyone loved it!!"
+                    },
+                    {
+                        "dtreviewed": "2018-11-12",
+                        "description": "When you say \u201cserve immediately,\u201d you mean it! The flavors in this salad are wonderful, but mine became gloppy in the few minutes it sat on the table while we ate our soup. Everyone loved..."
+                    },
+                    {
+                        "dtreviewed": "2018-11-19",
+                        "description": "LOVED this. Perfect combination of flavors."
+                    },
+                    {
+                        "dtreviewed": "2018-11-23",
+                        "description": "We like a complex in terms of texture salad for Thanksgiving. This one delivered. Not hard to make and easy to adjust to preferences (feta vs goat cheese). Very tasty as breakfast with a fried egg."
+                    },
+                    {
+                        "dtreviewed": "2018-12-03",
+                        "description": "I\u2019m very curious about the taste of scrumptious appearance. thanks"
+                    },
+                    {
+                        "dtreviewed": "2018-12-17",
+                        "description": "Certainly deserves the name! This salad is delicious, and its fantastic mix of ingredients make it . I love that it it is so easy to make, and the ingredients are easy to gather and the nutritional..."
+                    },
+                    {
+                        "dtreviewed": "2019-01-02",
+                        "description": "I have made this several times now and it\u2019s always a hit! Anything with sweet potatoes, avocado, and goat cheese has to be a winner!"
+                    },
+                    {
+                        "dtreviewed": "2019-01-04",
+                        "description": "This recipe was delicious! I tweaked it a little \u2013 used a 50/50 mix of arugula and spinach, added red onion and sundried tomatoes, and I used pine nuts instead of pecans (I had them in the..."
+                    }
+                ],
+                "hrecipe": [
+                    {
+                        "fn": "Feel-Good Fall Salad",
+                        "summary": "This Feel-Good Fall Salad recipe is made with the most delicious collection of vibrant, seasonal, simple ingredients.",
+                        "photo": "https://www.gimmesomeoven.com/wp-content/uploads/2018/11/Autumn-Harvest-Salad-Recipe-with-Sweet-Potatoes-Avocado-Cranberries-and-Pecans-1-1-360x360.jpg",
+                        "yield": "Yield: 4-6 servings",
+                        "author": "Gimme Some Oven"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.gimmesomeoven.com/wp-content/uploads/2018/11/Autumn-Harvest-Salad-Recipe-with-Sweet-Potatoes-Avocado-Cranberries-and-Pecans-1-1.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Delicious Egg Salad for Sandwiches Recipe - Allrecipes.com",
+            "htmlTitle": "Delicious Egg <b>Salad</b> for Sandwiches Recipe - Allrecipes.com",
+            "link": "https://www.allrecipes.com/recipe/147103/delicious-egg-salad-for-sandwiches/",
+            "displayLink": "www.allrecipes.com",
+            "snippet": "288. Recipe by: wifeyluvs2cook. \"This is a wonderful-tasting egg salad sandwich \nthat you will definitely devour. It's really good on rye.\" Featured in Allrecipes\u00a0...",
+            "htmlSnippet": "288. Recipe by: wifeyluvs2cook. &quot;This is a <b>wonderful</b>-tasting egg <b>salad</b> sandwich <br>\nthat you will definitely devour. It&#39;s really <b>good</b> on rye.&quot; Featured in Allrecipes&nbsp;...",
+            "cacheId": "si8q2i9OqpcJ",
+            "formattedUrl": "https://www.allrecipes.com/.../delicious-egg-salad-for-sandwiches/",
+            "htmlFormattedUrl": "https://www.allrecipes.com/.../delicious-egg-<b>salad</b>-for-sandwiches/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQUwwPrM-VM0RGLSavfc9kuO1F6ydwpxAyL5P-hng1vo5Ci9McJbBm21M"
+                    }
+                ],
+                "aggregaterating": [
+                    {
+                        "ratingvalue": "4.62",
+                        "reviewcount": "1075"
+                    }
+                ],
+                "recipe": [
+                    {
+                        "url": "https://www.allrecipes.com/recipe/147103/delicious-egg-salad-for-sandwiches/",
+                        "mainentityofpage": "True",
+                        "recipecategory": "Salad",
+                        "image": "https://images.media-allrecipes.com/userphotos/560x315/4537151.jpg",
+                        "name": "Delicious Egg Salad for Sandwiches",
+                        "author": "wifeyluvs2cook",
+                        "description": "\"This is a wonderful-tasting egg salad sandwich that you will definitely devour. It's really good on rye.\"",
+                        "recipeyield": "4",
+                        "recipeingredient": "8 eggs",
+                        "preptime": "PT10M",
+                        "cooktime": "PT15M",
+                        "totaltime": "PT35M",
+                        "recipeinstructions": "Place egg in a saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water,..."
+                    }
+                ],
+                "rating": [
+                    {
+                        "ratingvalue": "5"
+                    },
+                    {
+                        "ratingvalue": "3"
+                    },
+                    {
+                        "ratingvalue": "5"
+                    },
+                    {
+                        "ratingvalue": "5"
+                    },
+                    {
+                        "ratingvalue": "5"
+                    },
+                    {
+                        "ratingvalue": "5"
+                    },
+                    {
+                        "ratingvalue": "4"
+                    },
+                    {
+                        "ratingvalue": "5"
+                    },
+                    {
+                        "ratingvalue": "5"
+                    },
+                    {
+                        "ratingvalue": "3"
+                    },
+                    {
+                        "ratingvalue": "5"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:title": "Delicious Egg Salad for Sandwiches Recipe",
+                        "og:site_name": "Allrecipes",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:description": "Make the perfect egg salad for sandwiches!",
+                        "og:url": "https://www.allrecipes.com/recipe/147103/delicious-egg-salad-for-sandwiches/",
+                        "og:type": "article",
+                        "og:image": "https://images.media-allrecipes.com/userphotos/560x315/4537151.jpg",
+                        "fb:app_id": "66102450266",
+                        "fb:pages": "71158748377",
+                        "msapplication-tilecolor": "#ffffff",
+                        "correlationid": "fc160650-cbfa-40d6-9f9a-e9411db74630",
+                        "og:rating": "4.61969089508057",
+                        "og:rating_scale": "5"
+                    }
+                ],
+                "videoobject": [
+                    {
+                        "thumbnailurl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/952e480b-889d-4527-8f06-537723f5f600/6782e254-4a33-424c-aa2f-e9e2a2d770b5/160x90/match/image.jpg",
+                        "embedurl": "https://sadmin.brightcove.com/viewer/us20160520.1717/BrightcoveBootloader.swf?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1892556557001&autoStart=true&debuggerID=",
+                        "name": "Delicious Egg Salad for Sandwiches",
+                        "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/952e480b-889d-4527-8f06-537723f5f600/dc9f0925-7fe3-4e43-aa34-14d4f1f18b1d/1280x720/match/image.jpg",
+                        "description": "This is a wonderful-tasting egg salad sandwich that you will definitely devour. It's really good on rye.",
+                        "interactionstatistic": "269423",
+                        "duration": "PT2M31.485S",
+                        "contenturl": "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/1033249144001/92b35c9e-efe1-471c-9c2a-05e2fa944ad3/10s/master.m3u8?fastly_token=1892556557001&pubId=1033249144001",
+                        "uploaddate": "2018-06-08 06:48:39"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "name": "Home",
+                        "position": "1"
+                    },
+                    {
+                        "name": "Recipes",
+                        "position": "2"
+                    },
+                    {
+                        "name": "Salad",
+                        "position": "3"
+                    },
+                    {
+                        "name": "Egg Salad",
+                        "position": "4"
+                    }
+                ],
+                "nutritioninformation": [
+                    {
+                        "calories": "344 calories;",
+                        "fatcontent": "31.9",
+                        "carbohydratecontent": "2.3",
+                        "proteincontent": "13",
+                        "cholesterolcontent": "382",
+                        "sodiumcontent": "351"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://images.media-allrecipes.com/ar-images/arlogo-20x20.png",
+                        "width": "20",
+                        "height": "20"
+                    }
+                ],
+                "review": [
+                    {
+                        "author": "wifeyluvs2cook",
+                        "datecreated": "2008-03-22",
+                        "reviewbody": "This is my recipe, and it states 1/4 cup of green onion, but my recipe is only about 2tbs or to your preference. Oh and its a simple recipe, open to add any other things you would like to it if ..."
+                    },
+                    {
+                        "author": "FrankieNeedlz",
+                        "datecreated": "2008-03-25",
+                        "reviewbody": "it was ok. i would consider it a base recipe. my egg salad was begging for additions, i.e., celery, red bell peppers, or anything with more flavor and color"
+                    },
+                    {
+                        "author": "wifeyluvs2cook",
+                        "datecreated": "2008-03-22",
+                        "reviewbody": "This is my recipe, and it states 1/4 cup of green onion, but my recipe is only about 2tbs or to your preference. Oh and its a simple recipe, open to add any other things you would like to it if ..."
+                    },
+                    {
+                        "author": "Susan May",
+                        "datecreated": "2008-05-22",
+                        "reviewbody": "Very good! I subbed pickels for the green onion and used dijon mustard. I liked the addition of paprika. Served it on a bun with lettuce, tomato, and a few more pickle planks. Thanks Wifey!!"
+                    },
+                    {
+                        "author": "crazycatlady - \"CCL\"",
+                        "datecreated": "2008-05-26",
+                        "reviewbody": "Wonderful recipe starting with a good base that is great \"as is\" or with additions. The ratio of egg/mayo/mustard are perfect in this. I have had this twice. The first try was just as the rec..."
+                    },
+                    {
+                        "author": "Melinda Prewitt Scurlock",
+                        "datecreated": "2009-03-07",
+                        "reviewbody": "My Mother taught me the secret to great egg salad is to mix the cold mayo with the still hot yolks. This makes a much creamier base to add the rest of the ingredients to."
+                    },
+                    {
+                        "author": "naples34102",
+                        "datecreated": "2012-06-12",
+                        "reviewbody": "My original plan was for an egg salad recipe I had chosen that was a little fussier than this. However, after an earlier experience today with a recipe with a more \"complicated flavor,\" I decid..."
+                    },
+                    {
+                        "author": "tiffjergy",
+                        "datecreated": "2010-04-05",
+                        "reviewbody": "Perfect...... after some tweaking. I hate when people drastically change recipes, but I couldnt find anything on here with all the KEY ingredients for great egg salad. This recipe had a great ..."
+                    },
+                    {
+                        "author": "Tanaquil",
+                        "datecreated": "2008-06-09",
+                        "reviewbody": "Update: left in the frig for a bit, but I wouldn't suggest this because it got very runny. It was best when I first mixed it up. Still, a great egg salad/spread! I am going to use the filling fo..."
+                    },
+                    {
+                        "author": "FrankieNeedlz",
+                        "datecreated": "2008-03-25",
+                        "reviewbody": "it was ok. i would consider it a base recipe. my egg salad was begging for additions, i.e., celery, red bell peppers, or anything with more flavor and color"
+                    },
+                    {
+                        "author": "Lena",
+                        "datecreated": "2008-03-23",
+                        "reviewbody": "Great egg salad recipe & so easy to make! I made 2 different egg salad recipes to use up the Easter eggs and this one was the definite winner!"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "Allrecipes"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.media-allrecipes.com/userphotos/560x315/4537151.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Great Depression Cooking - Dandelion Salad - YouTube",
+            "htmlTitle": "<b>Great</b> Depression Cooking - Dandelion <b>Salad</b> - YouTube",
+            "link": "https://www.youtube.com/watch?v=51VhG8MKxJY",
+            "displayLink": "www.youtube.com",
+            "snippet": "Aug 14, 2009 ... Clara's Official Website: www.welcometoclaraskitchen.com Clara is back!!! 94 \nyear old cook and great grandmother, Clara, recounts her\u00a0...",
+            "htmlSnippet": "Aug 14, 2009 <b>...</b> Clara&#39;s Official Website: www.welcometoclaraskitchen.com Clara is back!!! 94 <br>\nyear old cook and <b>great</b> grandmother, Clara, recounts her&nbsp;...",
+            "cacheId": "Y0RvUBYKUKUJ",
+            "formattedUrl": "https://www.youtube.com/watch?v=51VhG8MKxJY",
+            "htmlFormattedUrl": "https://www.youtube.com/watch?v=51VhG8MKxJY",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7P7DlgqjTclrZClhHMb8wggeXCygFvNBU_crlc9-i5LbHHDBQ8HVal1HD"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "title": "Great Depression Cooking - Dandelion Salad",
+                        "theme-color": "#ff0000",
+                        "og:site_name": "YouTube",
+                        "og:url": "https://www.youtube.com/watch?v=51VhG8MKxJY",
+                        "og:title": "Great Depression Cooking - Dandelion Salad",
+                        "og:image": "https://i.ytimg.com/vi/51VhG8MKxJY/maxresdefault.jpg",
+                        "og:description": "Clara's Official Website: www.welcometoclaraskitchen.com Clara is back!!! 94 year old cook and great grandmother, Clara, recounts her childhood during the Gr...",
+                        "al:ios:app_store_id": "544007664",
+                        "al:ios:app_name": "YouTube",
+                        "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=51VhG8MKxJY&feature=applinks",
+                        "al:android:url": "vnd.youtube://www.youtube.com/watch?v=51VhG8MKxJY&feature=applinks",
+                        "al:android:app_name": "YouTube",
+                        "al:android:package": "com.google.android.youtube",
+                        "al:web:url": "https://www.youtube.com/watch?v=51VhG8MKxJY&feature=applinks",
+                        "og:type": "video.other",
+                        "og:video:url": "https://www.youtube.com/embed/51VhG8MKxJY",
+                        "og:video:secure_url": "https://www.youtube.com/embed/51VhG8MKxJY",
+                        "og:video:type": "text/html",
+                        "og:video:width": "1280",
+                        "og:video:height": "720",
+                        "og:video:tag": "Great",
+                        "fb:app_id": "87741124305",
+                        "twitter:card": "player",
+                        "twitter:site": "@youtube",
+                        "twitter:url": "https://www.youtube.com/watch?v=51VhG8MKxJY",
+                        "twitter:title": "Great Depression Cooking - Dandelion Salad",
+                        "twitter:description": "Clara's Official Website: www.welcometoclaraskitchen.com Clara is back!!! 94 year old cook and great grandmother, Clara, recounts her childhood during the Gr...",
+                        "twitter:image": "https://i.ytimg.com/vi/51VhG8MKxJY/maxresdefault.jpg",
+                        "twitter:app:name:iphone": "YouTube",
+                        "twitter:app:id:iphone": "544007664",
+                        "twitter:app:name:ipad": "YouTube"
+                    }
+                ],
+                "videoobject": [
+                    {
+                        "url": "https://www.youtube.com/watch?v=51VhG8MKxJY",
+                        "name": "Great Depression Cooking - Dandelion Salad",
+                        "description": "Clara's Official Website: www.welcometoclaraskitchen.com Clara is back!!! 94 year old cook and great grandmother, Clara, recounts her childhood during the Gr...",
+                        "paid": "False",
+                        "channelid": "UCRKls2LLMqU-uK2csT6FOKw",
+                        "videoid": "51VhG8MKxJY",
+                        "duration": "PT5M40S",
+                        "unlisted": "False",
+                        "thumbnailurl": "https://i.ytimg.com/vi/51VhG8MKxJY/maxresdefault.jpg",
+                        "embedurl": "https://www.youtube.com/embed/51VhG8MKxJY",
+                        "playertype": "HTML5 Flash",
+                        "width": "1280",
+                        "height": "720",
+                        "isfamilyfriendly": "True",
+                        "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+                        "interactioncount": "681637",
+                        "datepublished": "2009-08-14",
+                        "genre": "Shows"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://i.ytimg.com/vi/51VhG8MKxJY/maxresdefault.jpg",
+                        "width": "1280",
+                        "height": "720"
+                    }
+                ],
+                "person": [
+                    {
+                        "url": "http://www.youtube.com/user/DepressionCooking"
+                    },
+                    {
+                        "url": "https://plus.google.com/113882207224790525897"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i.ytimg.com/vi/51VhG8MKxJY/maxresdefault.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Great American Potato Salad - Kraft Recipes",
+            "htmlTitle": "<b>Great</b> American Potato <b>Salad</b> - Kraft Recipes",
+            "link": "https://www.kraftrecipes.com/recipe/051027/great-american-potato-salad",
+            "displayLink": "www.kraftrecipes.com",
+            "snippet": "Watch and learn everything you need for the Great American Potato Salad recipe\n, including potato selection. This potato salad recipe is as easy as it is perfect.",
+            "htmlSnippet": "Watch and learn everything you need for the <b>Great</b> American Potato <b>Salad</b> recipe<br>\n, including potato selection. This potato <b>salad</b> recipe is as easy as it is perfect.",
+            "cacheId": "V4k0ywdRSjMJ",
+            "formattedUrl": "https://www.kraftrecipes.com/recipe/.../great-american-potato-salad",
+            "htmlFormattedUrl": "https://www.kraftrecipes.com/recipe/.../<b>great</b>-american-potato-<b>salad</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "275",
+                        "height": "183",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKOPpSbZXcAd6jqiGNDdMZE1THQn_re3GWMJMGKr5OWbK_RR9XbvI49vw"
+                    }
+                ],
+                "rating": [
+                    {
+                        "ratingvalue": "5",
+                        "bestrating": "5"
+                    },
+                    {
+                        "ratingvalue": "5",
+                        "bestrating": "5"
+                    },
+                    {
+                        "ratingvalue": "5",
+                        "bestrating": "5"
+                    },
+                    {
+                        "ratingvalue": "5",
+                        "bestrating": "5"
+                    },
+                    {
+                        "ratingvalue": "5",
+                        "bestrating": "5"
+                    },
+                    {
+                        "ratingvalue": "5",
+                        "bestrating": "5"
+                    },
+                    {
+                        "ratingvalue": "5",
+                        "bestrating": "5"
+                    },
+                    {
+                        "ratingvalue": "4",
+                        "bestrating": "5"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "x-yottaa-metrics": "3221a5fec6f6/[772,722,-]",
+                        "x-yottaa-optimizations": "ob/0 si/32D1a5fec6e7-1537542716-742050914 tts/1547187830275 ti/5637a31d312e585f7100087b ai/5637a31d312e585f7100086c",
+                        "profile.id": "5637a31d312e585f7100086c",
+                        "tod.id": "5637a31d312e585f7100087b",
+                        "profile.name": "Default Profile",
+                        "resource.version": "v~4b.34d.0.0",
+                        "adn.id": "5637a31d312e585f7100086c",
+                        "shard.size": "0",
+                        "cdn.hostname": "//cdn-us-ec.yottaa.net",
+                        "viewport": "width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0",
+                        "title": "Great American Potato Salad - Kraft Recipes",
+                        "metacategory": "kids",
+                        "msapplication-config": "none",
+                        "fb:app_id": "130791333621603",
+                        "fb:site_name": "kraftrecipes.com",
+                        "og:type": "food",
+                        "og:site_name": "Recipes",
+                        "og:url": "https://www.kraftrecipes.com/recipe/051027/great-american-potato-salad",
+                        "twitter:card": "summary",
+                        "twitter:site": "@kraftfoods",
+                        "twitter:url": "https://www.kraftrecipes.com/recipe/051027/great-american-potato-salad",
+                        "og:title": "Great American Potato Salad",
+                        "og:description": "Watch and learn everything you need for the Great American Potato Salad recipe, including potato selection. This potato salad recipe is as easy as it is perfect.",
+                        "og:image:width": "200",
+                        "og:image:height": "200",
+                        "og:image": "http://assets.kraftfoods.com/recipe_images/opendeploy/51027_640x428.jpg",
+                        "twitter:title": "Great American Potato Salad",
+                        "twitter:description": "Watch and learn everything you need for the Great American Potato Salad recipe, including potato selection. This potato salad recipe is as easy as it is perfect.",
+                        "twitter:image": "http://assets.kraftfoods.com/recipe_images/opendeploy/51027_640x428.jpg",
+                        "pageimage": "http://assets.kraftfoods.com/recipe_images/opendeploy/51027_640x428.jpg"
+                    }
+                ],
+                "review": [
+                    {
+                        "reviewer": "winniethepoohfan",
+                        "reviewdate": "2018-10-26",
+                        "ratingstars": "5.0"
+                    },
+                    {
+                        "itemreviewed": "Great American Potato Salad",
+                        "author": "winniethepoohfan",
+                        "datecreated": "2004-01-18",
+                        "datepublished": "2018-10-26",
+                        "headline": "I LOVE this Great American Potato Salad recipe!",
+                        "reviewbody": "I LOVE this Great American Potato Salad recipe!!*SMILE* I like to add one green pepper finely chopped into bite sized pieces to my potato salad recipe. The one ingredient that I have ALWAYS..."
+                    },
+                    {
+                        "itemreviewed": "Great American Potato Salad",
+                        "author": "myblissfulmess",
+                        "datecreated": "2018-07-09",
+                        "datepublished": "2018-10-26",
+                        "headline": "Perfect Balanced Flavors",
+                        "reviewbody": "This potato salad is easy to make, although potato salads aren't usually very difficult. This one really has a wonderful flavor. I used Yukon gold potatoes, and I'm certain red potatoes would..."
+                    },
+                    {
+                        "itemreviewed": "Great American Potato Salad",
+                        "author": "threnodynx",
+                        "datecreated": "2009-09-26",
+                        "datepublished": "2018-10-26",
+                        "headline": "I've always wanted to make potato salad, but have been afraid to try, since other members of my...",
+                        "reviewbody": "I've always wanted to make potato salad, but have been afraid to try, since other members of my family make it so well. I decided to give this a shot and am glad I did - it's fantastic! Be..."
+                    },
+                    {
+                        "itemreviewed": "Great American Potato Salad",
+                        "author": "CherokeeQueen",
+                        "datecreated": "2005-03-19",
+                        "datepublished": "2018-10-26",
+                        "headline": "I really like this potato salad recipe alot however I have made some changes to it to make it even...",
+                        "reviewbody": "I really like this potato salad recipe alot however I have made some changes to it to make it even better!! I have omitted the onion,celery,and pickle relish since my family and I don't care..."
+                    },
+                    {
+                        "itemreviewed": "Great American Potato Salad",
+                        "author": "kerryforristall",
+                        "datecreated": "2010-05-27",
+                        "datepublished": "2018-10-26",
+                        "headline": "I'm not known in my family for being a good cook.",
+                        "reviewbody": "I'm not known in my family for being a good cook. Usually, when we are invited to bring something to a bbq, my family suggests I bring a watermelon. I found this recipe and tried it before..."
+                    },
+                    {
+                        "itemreviewed": "Great American Potato Salad",
+                        "author": "Ruby Floyd",
+                        "datecreated": "2009-07-01",
+                        "datepublished": "2018-10-26",
+                        "headline": "I am 81 years old and this is the way I have always made potato salad, the same way my mother and...",
+                        "reviewbody": "I am 81 years old and this is the way I have always made potato salad, the same way my mother and grandmother made it. My daughter made it and complained that hers did not taste as good as..."
+                    },
+                    {
+                        "itemreviewed": "Great American Potato Salad",
+                        "author": "Khristinia",
+                        "datecreated": "2010-06-30",
+                        "datepublished": "2018-10-26",
+                        "headline": "My family has always made potato salad like this without the dill pickle& just one stalk of...",
+                        "reviewbody": "My family has always made potato salad like this without the dill pickle& just one stalk of celery.Everywhere I take this salad people love it,we don't mash or use alot of mustard this is the..."
+                    },
+                    {
+                        "itemreviewed": "Great American Potato Salad",
+                        "author": "abbysmom14",
+                        "datecreated": "2010-07-01",
+                        "datepublished": "2018-10-26",
+                        "headline": "I have used this basic recipe for years.",
+                        "reviewbody": "I have used this basic recipe for years. However... if I made potato salad w/ 4 cups of potatoes my husband would NOT be happy. I actually start w/ 5# of potatoes! (some has to go to my Dad..."
+                    }
+                ],
+                "hreview": [
+                    {
+                        "dtreviewed": "2018-10-26",
+                        "description": "I LOVE this Great American Potato Salad recipe!!*SMILE* I like to add one green pepper finely chopped into bite sized pieces to my potato salad recipe. The one ingredient that I have ALWAYS..."
+                    },
+                    {
+                        "dtreviewed": "2018-10-26",
+                        "description": "This potato salad is easy to make, although potato salads aren't usually very difficult. This one really has a wonderful flavor. I used Yukon gold potatoes, and I'm certain red potatoes would..."
+                    },
+                    {
+                        "dtreviewed": "2018-10-26",
+                        "description": "I've always wanted to make potato salad, but have been afraid to try, since other members of my family make it so well. I decided to give this a shot and am glad I did - it's fantastic! Be..."
+                    },
+                    {
+                        "dtreviewed": "2018-10-26",
+                        "description": "I really like this potato salad recipe alot however I have made some changes to it to make it even better!! I have omitted the onion,celery,and pickle relish since my family and I don't care..."
+                    },
+                    {
+                        "dtreviewed": "2018-10-26",
+                        "description": "I'm not known in my family for being a good cook. Usually, when we are invited to bring something to a bbq, my family suggests I bring a watermelon. I found this recipe and tried it before..."
+                    },
+                    {
+                        "dtreviewed": "2018-10-26",
+                        "description": "I am 81 years old and this is the way I have always made potato salad, the same way my mother and grandmother made it. My daughter made it and complained that hers did not taste as good as..."
+                    },
+                    {
+                        "dtreviewed": "2018-10-26",
+                        "description": "My family has always made potato salad like this without the dill pickle& just one stalk of celery.Everywhere I take this salad people love it,we don't mash or use alot of mustard this is the..."
+                    },
+                    {
+                        "dtreviewed": "2018-10-26",
+                        "description": "I have used this basic recipe for years. However... if I made potato salad w/ 4 cups of potatoes my husband would NOT be happy. I actually start w/ 5# of potatoes! (some has to go to my Dad..."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://assets.kraftfoods.com/recipe_images/opendeploy/51027_640x428.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Four steps to making a great grain salad, every time - The ...",
+            "htmlTitle": "Four steps to making a <b>great</b> grain <b>salad</b>, every time - The ...",
+            "link": "https://www.washingtonpost.com/news/voraciously/wp/2018/06/08/four-steps-to-making-a-great-grain-salad-every-time/",
+            "displayLink": "www.washingtonpost.com",
+            "snippet": "Jun 8, 2018 ... Lots of variety in your pantry and solid kitchen skills come with your learning how \nto put together a great grain salad.",
+            "htmlSnippet": "Jun 8, 2018 <b>...</b> Lots of variety in your pantry and solid kitchen skills come with your learning how <br>\nto put together a <b>great</b> grain <b>salad</b>.",
+            "formattedUrl": "https://www.washingtonpost.com/.../four-steps-to-making-a-great-grain-salad -every-time/",
+            "htmlFormattedUrl": "https://www.washingtonpost.com/.../four-steps-to-making-a-<b>great</b>-grain-<b>salad</b> -every-time/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "299",
+                        "height": "168",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzxvN9f8wCSyMD9-1ZuUFFQvbo0Pd_AAJovnyzI96dkFyXVb8rvDxiyRc"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "object-hash": "1528469616",
+                        "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.5, maximum-scale=2.0",
+                        "referrer": "unsafe-url",
+                        "news_keywords": "grain salad recipes, how to use whole grains, simple salad recipes, easy grain salads, what to put on grain salads, grains to use in salads, voraciously recipes",
+                        "twitter:card": "summary_large_image",
+                        "og:type": "article",
+                        "og:site_name": "Washington Post",
+                        "article:publisher": "https://www.facebook.com/washingtonpost",
+                        "fb:app_id": "41245586762",
+                        "fb:admins": "4403963",
+                        "article:content_tier": "metered",
+                        "zeusads": "true",
+                        "og:url": "https://www.washingtonpost.com/news/voraciously/wp/2018/06/08/four-steps-to-making-a-great-grain-salad-every-time/",
+                        "og:image": "https://www.washingtonpost.com/resizer/5LOsIMZbR8mDGJ9qM_DDmmNsgq8=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SFGJX65IJI5OXJTAAFWV7Z3T2A.jpg",
+                        "og:title": "Four steps to making a great grain salad, every time",
+                        "og:description": "Lots of variety in your pantry and solid kitchen skills come with your learning how to put together a great grain salad.",
+                        "theme": "normal"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://www.washingtonpost.com/pb/resources/img/thewashingtonpost-white-2x.png",
+                        "width": "200",
+                        "height": "40"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "washingtonpost"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.washingtonpost.com/resizer/5LOsIMZbR8mDGJ9qM_DDmmNsgq8=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SFGJX65IJI5OXJTAAFWV7Z3T2A.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Best Greek Salad (with Pearl Pasta) | The Caf\u00e9 Sucre Farine",
+            "htmlTitle": "<b>Best</b> Greek <b>Salad</b> (with Pearl Pasta) | The Caf\u00e9 Sucre Farine",
+            "link": "https://thecafesucrefarine.com/best-greek-salad/",
+            "displayLink": "thecafesucrefarine.com",
+            "snippet": "Mar 4, 2018 ... Tons of fresh veggies, Feta, olives, pearl pasta, and a vibrant, easy dressing - this \nmight be the best Greek salad you've ever had!",
+            "htmlSnippet": "Mar 4, 2018 <b>...</b> Tons of fresh veggies, Feta, olives, pearl pasta, and a vibrant, easy dressing - this <br>\nmight be the <b>best</b> Greek <b>salad</b> you&#39;ve ever had!",
+            "cacheId": "F-Q7e2MIEOsJ",
+            "formattedUrl": "https://thecafesucrefarine.com/best-greek-salad/",
+            "htmlFormattedUrl": "https://thecafesucrefarine.com/<b>best</b>-greek-<b>salad</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "183",
+                        "height": "275",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBypRROy73_3_5U3x_EiwLKuq5uV_DIYa4HnhpZHHd5yHgKBpgyai16KQb"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:type": "article",
+                        "og:title": "Best Greek Salad",
+                        "og:description": "Fresh veggies, Feta, olives, cannellini beans, pearl pasta, and a vibrant, easy dressing - this might be the best Greek salad ever!",
+                        "og:image": "https://thecafesucrefarine.com/wp-content/uploads/Best-Ever-Greek-Salad-2.jpg",
+                        "og:url": "https://thecafesucrefarine.com/best-greek-salad/",
+                        "og:site_name": "The Caf\u00e9 Sucre Farine",
+                        "article:author": "https://www.facebook.com/pages/The-Caf\u00e9-Sucr\u00e9-Farine/248382451840319",
+                        "article:publisher": "https://www.facebook.com/pages/The-Caf\u00e9-Sucr\u00e9-Farine/248382451840319",
+                        "article:published_time": "2018-03-04T09:53:54+00:00",
+                        "article:modified_time": "2018-04-05T10:53:32+00:00",
+                        "og:updated_time": "2018-04-05T10:53:32+00:00",
+                        "fb:app_id": "1926061917677850",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Best Greek Salad",
+                        "twitter:description": "Fresh veggies, Feta, olives, cannellini beans, pearl pasta, and a vibrant, easy dressing - this might be the best Greek salad ever!",
+                        "twitter:image": "https://thecafesucrefarine.com/wp-content/uploads/Best-Ever-Greek-Salad-2.jpg",
+                        "twitter:site": "@cafesucrefarine",
+                        "twitter:creator": "@cafesucrefarine",
+                        "msapplication-tileimage": "https://thecafesucrefarine.com/wp-content/uploads/cropped-cropped-the-cafe-sucre-farine-circle-copy-1-270x270.jpg"
+                    }
+                ],
+                "creativework": [
+                    {
+                        "datepublished": "2018-03-04T09:53:54+00:00",
+                        "headline": "Best Greek Salad (with Pearl Pasta)",
+                        "text": "Total Time: 33 minutesJump to RecipePrint RecipePinShareYum790 SharesFresh veggies, Feta, olives, cannellini beans, pearl pasta, and a vibrant, easy dressing \u2013 this might be the best Greek..."
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "url": "Home",
+                        "name": "Home"
+                    },
+                    {
+                        "url": "About",
+                        "name": "About"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Home",
+                        "name": "Home",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Salads",
+                        "name": "Salads",
+                        "position": "2"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Ruth Riley"
+                    },
+                    {
+                        "name": "John / Kitchen Riffs",
+                        "url": "John / Kitchen Riffs"
+                    },
+                    {
+                        "name": "Susan",
+                        "url": "Susan"
+                    },
+                    {
+                        "name": "Susan",
+                        "url": "Susan"
+                    },
+                    {
+                        "name": "Vicki Bensinger",
+                        "url": "Vicki Bensinger"
+                    },
+                    {
+                        "name": "Abbe@This is How I Cook",
+                        "url": "Abbe@This is How I Cook"
+                    },
+                    {
+                        "name": "Maggie"
+                    },
+                    {
+                        "name": "Chris Scheuer",
+                        "url": "Chris Scheuer"
+                    },
+                    {
+                        "name": "Monique"
+                    },
+                    {
+                        "name": "Liz",
+                        "url": "Liz"
+                    },
+                    {
+                        "name": "Mary Ann | The Beach House Kitchen",
+                        "url": "Mary Ann | The Beach House Kitchen"
+                    },
+                    {
+                        "name": "Jennifer @ Seasons and Suppers",
+                        "url": "Jennifer @ Seasons and Suppers"
+                    },
+                    {
+                        "name": "Ginny Hartzler"
+                    },
+                    {
+                        "name": "Angie@Angie's Recipes",
+                        "url": "Angie@Angie's Recipes"
+                    },
+                    {
+                        "name": "Tricia @ Saving Room for Dessert",
+                        "url": "Tricia @ Saving Room for Dessert"
+                    }
+                ],
+                "comment": [
+                    {
+                        "datepublished": "2018-07-27T20:27:15+00:00",
+                        "url": "July 27, 2018 at 8:27 pm",
+                        "text": "I want to try this soon. Wish I could get more Greek salad recipes because I love them and especially with the Kalamata olives."
+                    },
+                    {
+                        "datepublished": "2018-03-07T09:53:41+00:00",
+                        "url": "March 7, 2018 at 9:53 am",
+                        "text": "What a great salad! So much flavor and goodness going on in this dish. And it\u2019s pretty! Always a good thing. \ud83d\ude42 Thanks!"
+                    },
+                    {
+                        "datepublished": "2018-03-07T09:36:20+00:00",
+                        "url": "March 7, 2018 at 9:36 am",
+                        "text": "I love the addition of the Israeli Couscous in your Greek salad, Chris! We\u2019ve been eating a lot of salads since we\u2019ve returned from our trip as we MAY have eaten a little too much \ud83d\ude42..."
+                    },
+                    {
+                        "datepublished": "2018-03-07T09:37:27+00:00",
+                        "url": "March 7, 2018 at 9:37 am",
+                        "text": "Forgot to mention that gorgeous napkin! It looks like an heirloom."
+                    },
+                    {
+                        "datepublished": "2018-03-06T15:54:45+00:00",
+                        "url": "March 6, 2018 at 3:54 pm",
+                        "text": "This looks wonderful Chris. I just made a greek all veggie salad last night for dinner. I love the flavor combinations and it always feels so healthy. Your salad looks beautiful and light!"
+                    },
+                    {
+                        "datepublished": "2018-03-06T00:52:42+00:00",
+                        "url": "March 6, 2018 at 12:52 am",
+                        "text": "My favorite salad is a Greek salad and this version looks so tasty! They just opened a Zoe\u2019s Kitchen near us and now I\u2019ll have to try it! Besides I\u2019m partial to that name!"
+                    },
+                    {
+                        "datepublished": "2018-03-05T14:54:56+00:00",
+                        "url": "March 5, 2018 at 2:54 pm",
+                        "text": "This looks great! I am going to have to make it gluten free though! I will be substituting (corn) orzo."
+                    },
+                    {
+                        "datepublished": "2018-03-05T14:59:35+00:00",
+                        "url": "March 5, 2018 at 2:59 pm",
+                        "text": "Yum, that sounds wonderful too!"
+                    },
+                    {
+                        "datepublished": "2018-03-05T12:20:00+00:00",
+                        "url": "March 5, 2018 at 12:20 pm",
+                        "text": "Gorgeous! I eat w/my eyes first:)\u2665"
+                    },
+                    {
+                        "datepublished": "2018-03-05T12:01:53+00:00",
+                        "url": "March 5, 2018 at 12:01 pm",
+                        "text": "I\u2019ve yet to try your copycat salad dressing, but my love a great Greek salad makes this week the perfect time! I\u2019m loving the microgreens and pearl pasta\u2014what a fun (and delicious!) twist!"
+                    },
+                    {
+                        "datepublished": "2018-03-05T10:53:35+00:00",
+                        "url": "March 5, 2018 at 10:53 am",
+                        "text": "I love the bold flavors of a Greek salad too Chris. And the added pearl couscous. Perfect meal for lunch or dinner!"
+                    },
+                    {
+                        "datepublished": "2018-03-05T07:53:34+00:00",
+                        "url": "March 5, 2018 at 7:53 am",
+                        "text": "Such a beautiful salad and I love the addition of the pearl pasta! Will be trying this!"
+                    },
+                    {
+                        "datepublished": "2018-03-04T14:43:14+00:00",
+                        "url": "March 4, 2018 at 2:43 pm",
+                        "text": "This is gorgeous! I even saved the pictures, so I can arrange it just like you did. I also went back and got the dressing recipe and saved it. You are a super food detective!"
+                    },
+                    {
+                        "datepublished": "2018-03-04T14:40:20+00:00",
+                        "url": "March 4, 2018 at 2:40 pm",
+                        "text": "I can eat salad every day! This one looks very fresh and delicious!"
+                    },
+                    {
+                        "datepublished": "2018-03-04T10:29:16+00:00",
+                        "url": "March 4, 2018 at 10:29 am",
+                        "text": "I love this combination of vegetables and pasta \u2013 I bet it really is delicious. So pretty too! Great for lunch or dinner and I wouldn\u2019t mind leftovers either. Sharing!"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "image": "https://thecafesucrefarine.com/wp-content/uploads/Christmas-Tree-Shortbread-Cookies-14-235x350.jpg",
+                        "datepublished": "2018-12-11T10:31:22+00:00"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://thecafesucrefarine.com/wp-content/uploads/Best-Ever-Greek-Salad-2.jpg"
+                    }
+                ],
+                "wpheader": [
+                    {
+                        "headline": "The Caf\u00e9 Sucre Farine",
+                        "description": "A food blog with healthy, delicious recipes."
+                    }
+                ],
+                "searchaction": [
+                    {
+                        "query-input": "name=s",
+                        "target": "https://thecafesucrefarine.com/?s={s}"
+                    }
+                ]
+            }
+        }
+    ]
+}
