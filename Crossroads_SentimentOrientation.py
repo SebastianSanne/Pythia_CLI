@@ -10,13 +10,14 @@
 # Maybe also use Twitter: https://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/
 
 
-
+from googleapiclient.discovery import build # Google API client
+import math # Maths!
+import os # use to get ENV variables
 
 # This is a small app that helps make decisions (and allows me to teach myself Python)
 # Beware of actually following this app's advice!
 
 print("I heard you had a tough decision to make? Maybe I can help.")
-
 
 ####################
 # Get Options      #
@@ -38,23 +39,9 @@ for i in range(num_options):
 positive_attribute = "great"
 negative_attribute = "bad"
 
-
 ####################
 # Query Google     #
 ####################
-
-# Importing the API client library and JSON
-from googleapiclient.discovery import build
-
-# We'll need to do some math later
-import math
-
-# import json
-# import pprint
-
-
-# We need to import this to put the API tokens in a local environmental variable to avoid it showing up on GitHub
-import os
 
 # Defining the search function
 # Return value as total restuls for the given term
@@ -69,7 +56,6 @@ for option in options:
     # Plain Positive
     num_results_google_plainpositive = google_search(positive_attribute)
     print(num_results_google_plainpositive) # Just for testing
-
 
     # Option + Positive
     num_results_google_positive = google_search(f'{option} {positive_attribute}')
@@ -87,8 +73,6 @@ for option in options:
 
     # Output the Score
     print("Sentiment Score for " + option + " is: " + str(SentimentOrientation))
-
-
 
 ####################
 # Output		   #
