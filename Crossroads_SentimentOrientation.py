@@ -56,14 +56,11 @@ import math
 # We need to import this to put the API tokens in a local environmental variable to avoid it showing up on GitHub
 import os
 
-my_api_key = os.environ['GOOGLE_CSE_API_KEY']
-my_cse_id = os.environ['GOOGLE_CSE_ID']
-
 # Defining the search function
 # Return value as total restuls for the given term
 def google_search(search_term, **kwargs):
-    service = build("customsearch", "v1", developerKey=my_api_key)
-    response = service.cse().list(q=search_term, cx=my_cse_id, **kwargs).execute()
+    service = build("customsearch", "v1", developerKey=os.getenv('GOOGLE_CSE_API_KEY'))
+    response = service.cse().list(q=search_term, cx=os.getenv('GOOGLE_CSE_ID'), **kwargs).execute()
     return int(response['searchInformation']['totalResults'])
 
 # Looping the searches for each option
