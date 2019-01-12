@@ -1,14 +1,14 @@
 # -*- coding: utf-8 -*-
-# Include the following: SO = log((n(excellent, US healthcare) / n(excellent)) / (n(poor, US healthcare) / n(excellent))
-# , where n(x) is the number of pages containing x and n(x,y) is the number of pages containing x and y.
-# https://www.linkedin.com/pulse/quick-easy-sentiment-analysis-using-google-search-result-pranab-ghosh/
+
+# This is a small app that helps make decisions (and allows me to teach myself Python)
+# Beware of actually following this app's advice!
 
 # Resources:
 # Reference of parameters: https://developers.google.com/custom-search/json-api/v1/reference/cse/list
 # API explorer: https://developers.google.com/apis-explorer/#p/customsearch/v1/search.cse.list?q=pizza+great&cx=013987910149588354017%253Aui0xnrn9hiw&_h=1&
+# Sentinment Orientation for the Poor: https://www.linkedin.com/pulse/quick-easy-sentiment-analysis-using-google-search-result-pranab-ghosh/
 
 # Maybe also use Twitter: https://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/
-
 
 from googleapiclient.discovery import build # Google API client
 import math # Maths!
