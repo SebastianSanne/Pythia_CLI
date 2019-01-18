@@ -43,11 +43,15 @@ negative_attribute = "bad"
 # Query Google     #
 ####################
 
+# The API key and Custom Search Engine are in local environment variables
+my_api_key = os.environ['GOOGLE_CSE_API_KEY']
+my_cse_id = os.environ['GOOGLE_CSE_ID']
+
 # Defining the search function
-# Return value as total restuls for the given term
+# Return value as total results for the given term
 def google_search(search_term, **kwargs):
-    service = build("customsearch", "v1", developerKey=os.getenv('GOOGLE_CSE_API_KEY'))
-    response = service.cse().list(q=search_term, cx=os.getenv('GOOGLE_CSE_ID'), **kwargs).execute()
+    service = build("customsearch", "v1", developerKey=my_api_key)
+    response = service.cse().list(q=search_term, cx=my_cse_id, **kwargs).execute()
     return int(response['searchInformation']['totalResults'])
 
 # Looping the searches for each option
