@@ -10,10 +10,14 @@
 
 # Maybe also use Twitter: https://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/
 
+from googleapiclient.discovery import build # Google API client
+import math # Maths!
+import os # use to get ENV variables
 
+# This is a small app that helps make decisions (and allows me to teach myself Python)
+# Beware of actually following this app's advice!
 
 print("I heard you had a tough decision to make? Maybe I can help.")
-
 
 ####################
 # Get Options      #
@@ -35,80 +39,44 @@ for i in range(num_options):
 positive_attribute = "great"
 negative_attribute = "bad"
 
-
 ####################
 # Query Google     #
 ####################
 
-# Importing the API client library and JSON
-from googleapiclient.discovery import build
-
-# We'll need to do some math later
-import math
-
-# import json
-# import pprint
-
-
-# We need to import this to put the API tokens in a local environmental variable to avoid them showing up on GitHub
-import os
-
+# The API key and Custom Search Engine are in local environment variables
 my_api_key = os.environ['GOOGLE_CSE_API_KEY']
 my_cse_id = os.environ['GOOGLE_CSE_ID']
 
-
 # Defining the search function
-# Important here might be the return – the string in the brackets pre-selects JSON keys
-def google_search(search_term, api_key, cse_id, **kwargs):
-    service = build("customsearch", "v1", developerKey=api_key)
-    response = service.cse().list(q=search_term, cx=cse_id, **kwargs).execute()
-    return response['searchInformation']
-
+# Return value as total results for the given term
+def google_search(search_term, **kwargs):
+    service = build("customsearch", "v1", developerKey=my_api_key)
+    response = service.cse().list(q=search_term, cx=my_cse_id, **kwargs).execute()
+    return int(response['searchInformation']['totalResults'])
 
 # Looping the searches for each option
 for option in options:
 
+    # Plain Positive
+    plainpositive_results = google_search(positive_attribute)
+    print(plainpositive_results) # Just for testing
 
-	# Plain Positive
-	# Perform the Google search
-	current_search_term = positive_attribute
-	response_google = google_search(current_search_term, my_api_key, my_cse_id)
+    # Option + Positive
+    positive_results = google_search(f'{option} {positive_attribute}')
+    print(positive_results) # Just for testing
 
-	# Extract the number of results of the Google search
-	num_results_google_plainpositive = int(response_google['totalResults'])
-	print(num_results_google_plainpositive) # Just for testing
+    # Option + Negative
+    negative_results = google_search(f'{option} {negative_attribute}')
+    print(negative_results) # Just for testing
 
+    # Calculate Sentiment Orientiation Score
+    SentimentOrientation = math.log(positive_results / plainpositive_results / negative_results / plainpositive_results)
 
-	# Option + Positive
-	# Perform the Google search
-	current_search_term = option + " " + positive_attribute
-	response_google = google_search(current_search_term, my_api_key, my_cse_id)
+    # Append list with Orientations
+    SentimentOrientations.append(SentimentOrientation)
 
-	# Extract the number of results of the Google search
-	num_results_google_positive = int(response_google['totalResults'])
-	print(num_results_google_positive) # Just for testing
-
-
-	# Option + Negative
-	# Perform the Google search
-	current_search_term = option + " " + negative_attribute
-	response_google = google_search(current_search_term, my_api_key, my_cse_id)
-
-	# Extract the number of results of the Google search
-	num_results_google_negative = int(response_google['totalResults'])
-	print(num_results_google_negative) # Just for testing
-
-
-	# Calculate Sentiment Orientiation Score
-	SentimentOrientation = math.log(num_results_google_positive / num_results_google_plainpositive / num_results_google_negative / num_results_google_plainpositive)
-
-	# Append list with Orientations
-	SentimentOrientations.append(SentimentOrientation)
-
-	# Output the Score
-	print("Sentiment Score for " + option + " is: " + str(SentimentOrientation))
-
-
+    # Output the Score
+    print("Sentiment Score for " + option + " is: " + str(SentimentOrientation))
 
 ####################
 # Output		   #

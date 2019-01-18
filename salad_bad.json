@@ -1,0 +1,1209 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - salad bad",
+                "totalResults": "88600000",
+                "searchTerms": "salad bad",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "010300063145966968924:s_c2a7abb_e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - salad bad",
+                "totalResults": "88600000",
+                "searchTerms": "salad bad",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "010300063145966968924:s_c2a7abb_e"
+            }
+        ]
+    },
+    "context": {
+        "title": "test"
+    },
+    "searchInformation": {
+        "searchTime": 0.46305,
+        "formattedSearchTime": "0.46",
+        "totalResults": "88600000",
+        "formattedTotalResults": "88,600,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Salad is more dangerous than beefburgers, leading food expert warns",
+            "htmlTitle": "<b>Salad</b> is more dangerous than beefburgers, leading food expert warns",
+            "link": "https://www.telegraph.co.uk/foodanddrink/foodanddrinknews/9948987/Salad-is-more-dangerous-than-beefburgers-leading-food-expert-warns.html",
+            "displayLink": "www.telegraph.co.uk",
+            "snippet": "Mar 22, 2013 ... Salad labelled as \"ready-to-eat\" is more dangerous than beefburgers, one of \nBritain`s top food experts has said, following a spate of\u00a0...",
+            "htmlSnippet": "Mar 22, 2013 <b>...</b> <b>Salad</b> labelled as &quot;ready-to-eat&quot; is more dangerous than beefburgers, one of <br>\nBritain`s top food experts has said, following a spate of&nbsp;...",
+            "formattedUrl": "https://www.telegraph.co.uk/.../Salad-is-more-dangerous-than-beefburgers- leading-food-expert-warns.html",
+            "htmlFormattedUrl": "https://www.telegraph.co.uk/.../<b>Salad</b>-is-more-dangerous-than-beefburgers- leading-food-expert-warns.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "284",
+                        "height": "177",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSheDqeEJVNRPM6Yyu5uA_N8vvYH5v1xSxjtFqCejcmzUah81MOg_v0n-4"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "parsely-page": "{\"title\": \"Salad is more dangerous than beefburgers, leading food expert warns \",\"link\": \"https://www.telegraph.co.uk/foodanddrink/foodanddrinknews/9948987/Salad-is-more-dangerous-than-beefburgers-leading-food-expert-warns.html\",\"image_url\": \"https://secure.i.telegraph.co.uk/multimedia/archive/02517/Packaged_salad_2517757k.jpg\",\"type\": \"post\",\"post_id\": \"9948987\", \"pub_date\": \"2013-03-22T17:42:15Z\",\"section\": \"Food and Drink\",\"authors\": [\"Amy Willis\"],\"tags\": [\"Story\",\"News\",\"UK News\",\"Health\",\"Health News\",\"Food and Drink\",\"Food and Drink News\",\"Amy Willis\"]}",
+                        "article:publisher": "143666524748",
+                        "article:subsection": "Food and Drink News",
+                        "article:section": "Food and Drink",
+                        "article:tag": "News",
+                        "article:authorname": "Amy Willis",
+                        "article:contenttype": "story",
+                        "article:imagecount": "1",
+                        "article:videocount": "0",
+                        "article:embedcount": "0",
+                        "article:internallinkcount": "4",
+                        "article:externallinkcount": "0",
+                        "article:wordcount": "739",
+                        "tmgads.zone": "foodanddrink.foodanddrinknews",
+                        "tmgads.channel": "foodanddrink",
+                        "tmgads.section": "foodanddrink-foodanddrinknews",
+                        "tmgads.articleid": "9948987",
+                        "tmgads.pagetype": "Story",
+                        "tmgads.level": "3",
+                        "tmgads.geo": "US",
+                        "dcsext.akamigeo": "US",
+                        "section-id": "4348",
+                        "last-modified": "2013-03-22",
+                        "article-id": "9948987",
+                        "title": "Salad is more dangerous than beefburgers, leading food expert warns",
+                        "gsamlc": "foodanddrink/foodanddrinknews",
+                        "gsachannel": "food_and_drink",
+                        "gsachannelname": "Food and Drink",
+                        "gsacategory": "foodanddrinknews",
+                        "gsasectionuniquename": "food_and_drink-food_and_drink_news",
+                        "gsaarticletype": "Story",
+                        "dc.date.issued": "2013-03-22",
+                        "google": "nositelinkssearchbox",
+                        "fb:app_id": "120118784736295",
+                        "fb:admins": "686953094,531239902,100002344351237",
+                        "og:description": "Salad labelled as \"ready-to-eat\" is more dangerous than beefburgers,   one of Britain`s top food experts has said, following a spate of   Cryptosporidium infections linked to the product.",
+                        "og:site_name": "Telegraph.co.uk",
+                        "og:title": "Salad is more dangerous than beefburgers, leading food expert warns",
+                        "og:url": "https://www.telegraph.co.uk/foodanddrink/foodanddrinknews/9948987/Salad-is-more-dangerous-than-beefburgers-leading-food-expert-warns.html",
+                        "og:image": "https://secure.i.telegraph.co.uk/multimedia/archive/02517/Packaged_salad_2517757k.jpg",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:site": "@Telegraph",
+                        "twitter:image:src": "https://secure.i.telegraph.co.uk/multimedia/archive/02517/Packaged_salad_2517757k.jpg"
+                    }
+                ],
+                "article": [
+                    {
+                        "headline": "Salad is more dangerous than beefburgers, leading food expert warns",
+                        "name": "Salad is more dangerous than beefburgers, leading food expert warns",
+                        "alternativeheadline": "Salad labelled as \"ready-to-eat\" is more dangerous than beefburgers, one of Britain`s top food experts has said, following a spate of Cryptosporidium infections linked to the product.",
+                        "description": "Salad labelled as \"ready-to-eat\" is more dangerous than beefburgers, one of Britain`s top food experts has said, following a spate of Cryptosporidium infections linked to the product.",
+                        "image": "https://secure.i.telegraph.co.uk/multimedia/archive/02517/Packaged_salad_2517757b.jpg",
+                        "datepublished": "2013-03-22",
+                        "articlebody": "Certain types of bacteria found in the pre-cut salad bags can be almost impossible to kill, Professor Hugh Pennington said, unless the leaves are irradiated \u2013 a process the public would oppose...."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://secure.i.telegraph.co.uk/multimedia/archive/02517/Packaged_salad_2517757b.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Why salad is so overrated - The Washington Post",
+            "htmlTitle": "Why <b>salad</b> is so overrated - The Washington Post",
+            "link": "https://www.washingtonpost.com/lifestyle/food/why-salad-is-so-overrated/2015/08/21/ecc03d7a-4677-11e5-8ab4-c73967a143d3_story.html",
+            "displayLink": "www.washingtonpost.com",
+            "snippet": "Aug 23, 2015 ... Minus their greens, left to right: the Caesar Salad With Chicken from the ... Of \ncourse, salad isn't always a bad choice, and Applebee's has a\u00a0...",
+            "htmlSnippet": "Aug 23, 2015 <b>...</b> Minus their greens, left to right: the Caesar <b>Salad</b> With Chicken from the ... Of <br>\ncourse, <b>salad</b> isn&#39;t always a <b>bad</b> choice, and Applebee&#39;s has a&nbsp;...",
+            "formattedUrl": "https://www.washingtonpost.com/...salad.../ecc03d7a-4677-11e5-8ab4- c73967a143d3_story.html",
+            "htmlFormattedUrl": "https://www.washingtonpost.com/...<b>salad</b>.../ecc03d7a-4677-11e5-8ab4- c73967a143d3_story.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "275",
+                        "height": "183",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs7xVJcXFhebAxuOw2jARlIpyVln3WAzcGFqBN2nHntPAoPwrF5Uv_1m0w"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "eomportal-uuid": "ecc03d7a-4677-11e5-8ab4-c73967a143d3",
+                        "object-hash": "1547239256",
+                        "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.5, maximum-scale=2.0",
+                        "referrer": "unsafe-url",
+                        "news_keywords": "food, recipes, recipe ideas, washington post food, Food, Washington Post, corn, agriculture, unearthed, food policy, field corn, foodherofeature",
+                        "twitter:card": "summary_large_image",
+                        "og:type": "article",
+                        "og:site_name": "Washington Post",
+                        "article:publisher": "https://www.facebook.com/washingtonpost",
+                        "fb:app_id": "41245586762",
+                        "fb:admins": "4403963",
+                        "article:content_tier": "metered",
+                        "zeusads": "true",
+                        "og:url": "https://www.washingtonpost.com/lifestyle/food/why-salad-is-so-overrated/2015/08/21/ecc03d7a-4677-11e5-8ab4-c73967a143d3_story.html",
+                        "og:image": "https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2015/08/20/Food/Images/081915_TWP_food_1861440086468.jpg?t=20170517",
+                        "og:title": "Why salad is so overrated",
+                        "og:description": "UNEARTHED | Calorically a zero, the greens are a leafy-green waste of resources that lead eaters astray.",
+                        "theme": "normal",
+                        "article:author": "https://www.facebook.com/tamar.haspel",
+                        "author": "https://www.facebook.com/tamar.haspel",
+                        "twitter:creator": "@TamarHaspel"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://www.washingtonpost.com/pb/resources/img/thewashingtonpost-white-2x.png",
+                        "width": "200",
+                        "height": "40"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "washingtonpost"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2015/08/20/Food/Images/081915_TWP_food_1861440086468.jpg?t=20170517"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bad Salad - Deep Roots [Official Music Video] - YouTube",
+            "htmlTitle": "<b>Bad Salad</b> - Deep Roots [Official Music Video] - YouTube",
+            "link": "https://www.youtube.com/watch?v=lZALLKXd4uo",
+            "displayLink": "www.youtube.com",
+            "snippet": "Dec 20, 2013 ... Bad Salad's Music Video for 'Deep Roots' (Puzzled). Progressive Rock / Metal. \nPUZZLED (EP) is available at: iTunes http://bit.ly/1HgEeuz CD\u00a0...",
+            "htmlSnippet": "Dec 20, 2013 <b>...</b> <b>Bad Salad&#39;s</b> Music Video for &#39;Deep Roots&#39; (Puzzled). Progressive Rock / Metal. <br>\nPUZZLED (EP) is available at: iTunes http://bit.ly/1HgEeuz CD&nbsp;...",
+            "cacheId": "zZkZ1LnETC0J",
+            "formattedUrl": "https://www.youtube.com/watch?v=lZALLKXd4uo",
+            "htmlFormattedUrl": "https://www.youtube.com/watch?v=lZALLKXd4uo",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXeZ9cm5VaR8FOzzCHw1FIHcpUECX0N7juFPUnHnI4bH5ukeWWNU_VQHAr"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "title": "Bad Salad - Deep Roots [Official Music Video]",
+                        "theme-color": "#ff0000",
+                        "og:site_name": "YouTube",
+                        "og:url": "https://www.youtube.com/watch?v=lZALLKXd4uo",
+                        "og:title": "Bad Salad - Deep Roots [Official Music Video]",
+                        "og:image": "https://i.ytimg.com/vi/lZALLKXd4uo/maxresdefault.jpg",
+                        "og:description": "Bad Salad's Music Video for 'Deep Roots' (Puzzled). Progressive Rock / Metal. PUZZLED (EP) is available at: iTunes http://bit.ly/1HgEeuz CD Baby http://www.c...",
+                        "al:ios:app_store_id": "544007664",
+                        "al:ios:app_name": "YouTube",
+                        "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=lZALLKXd4uo&feature=applinks",
+                        "al:android:url": "vnd.youtube://www.youtube.com/watch?v=lZALLKXd4uo&feature=applinks",
+                        "al:android:app_name": "YouTube",
+                        "al:android:package": "com.google.android.youtube",
+                        "al:web:url": "https://www.youtube.com/watch?v=lZALLKXd4uo&feature=applinks",
+                        "og:type": "video.other",
+                        "og:video:url": "https://www.youtube.com/embed/lZALLKXd4uo",
+                        "og:video:secure_url": "https://www.youtube.com/embed/lZALLKXd4uo",
+                        "og:video:type": "text/html",
+                        "og:video:width": "1280",
+                        "og:video:height": "720",
+                        "og:video:tag": "Bad Salad"
+                    }
+                ],
+                "videoobject": [
+                    {
+                        "url": "https://www.youtube.com/watch?v=lZALLKXd4uo",
+                        "name": "Bad Salad - Deep Roots [Official Music Video]",
+                        "description": "Bad Salad's Music Video for 'Deep Roots' (Puzzled). Progressive Rock / Metal. PUZZLED (EP) is available at: iTunes http://bit.ly/1HgEeuz CD Baby http://www.c...",
+                        "paid": "False",
+                        "channelid": "UCmw1QM-UkLQhsbNnZSkuYdA",
+                        "videoid": "lZALLKXd4uo",
+                        "duration": "PT8M26S",
+                        "unlisted": "False",
+                        "thumbnailurl": "https://i.ytimg.com/vi/lZALLKXd4uo/maxresdefault.jpg",
+                        "embedurl": "https://www.youtube.com/embed/lZALLKXd4uo",
+                        "playertype": "HTML5 Flash",
+                        "width": "1280",
+                        "height": "720",
+                        "isfamilyfriendly": "True",
+                        "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+                        "interactioncount": "115767",
+                        "datepublished": "2013-12-20",
+                        "genre": "Music"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://i.ytimg.com/vi/lZALLKXd4uo/maxresdefault.jpg",
+                        "width": "1280",
+                        "height": "720"
+                    }
+                ],
+                "person": [
+                    {
+                        "url": "http://www.youtube.com/user/BadSaladOfficial"
+                    },
+                    {
+                        "url": "https://plus.google.com/118346133158857760870"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i.ytimg.com/vi/lZALLKXd4uo/maxresdefault.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bad Ass Salads - Woodland Hills, CA 91367 (Menu & Order Online)",
+            "htmlTitle": "<b>Bad</b> Ass <b>Salads</b> - Woodland Hills, CA 91367 (Menu &amp; Order Online)",
+            "link": "https://badasssalads.menufy.com/",
+            "displayLink": "badasssalads.menufy.com",
+            "snippet": "Online ordering menu for Bad Ass Salads. Fresh Salads made to order by our \nSalad Chefs and delivered to you in the Woodland Hills, CA and surrounding\u00a0...",
+            "htmlSnippet": "Online ordering menu for <b>Bad</b> Ass <b>Salads</b>. Fresh <b>Salads</b> made to order by our <br>\n<b>Salad</b> Chefs and delivered to you in the Woodland Hills, CA and surrounding&nbsp;...",
+            "cacheId": "oRBuf24xeWEJ",
+            "formattedUrl": "https://badasssalads.menufy.com/",
+            "htmlFormattedUrl": "https://<b>bad</b>ass<b>salads</b>.menufy.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "270",
+                        "height": "187",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGBn5rDaksqlI5vd5A7oELmZN-oTBHEwhlCSSMWtvlYd0Qih-NLZKyEL4"
+                    }
+                ],
+                "restaurant": [
+                    {
+                        "name": "Bad Ass Salads",
+                        "description": "Fresh Salads made to order by our Salad Chefs and delivered to you in the Woodland Hills, CA and surrounding areas.",
+                        "telephone": "(818) 346-9145",
+                        "openinghours": "Su 11:00-19:00",
+                        "servescuisine": "Salads,Healthy,Gluten-Free,Low Fat,Vegetarian,Vegan,American,Chicken"
+                    }
+                ],
+                "aggregaterating": [
+                    {
+                        "ratingvalue": "94",
+                        "reviewcount": "34",
+                        "bestrating": "100",
+                        "worstrating": "0"
+                    }
+                ],
+                "postaladdress": [
+                    {
+                        "streetaddress": "21514 Victory Blvd.",
+                        "addresslocality": "Woodland Hills",
+                        "addressregion": "CA",
+                        "postalcode": "91367",
+                        "addresscountry": "USA"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=yes",
+                        "fb:page_id": "197500906955071",
+                        "fb:admins": "7727820",
+                        "og:title": "Bad Ass Salads - Woodland Hills, CA 91367 (Menu & Order Online)",
+                        "og:type": "restaurant",
+                        "og:url": "https://BadAssSalads.menufy.com",
+                        "og:image": "https://9bf6ddc20002c5f1a946-ef07da46c7e506e973e0d9fa57c693df.ssl.cf1.rackcdn.com/636379740376102933+26876.png",
+                        "og:description": "Online ordering menu for Bad Ass Salads. Fresh Salads made to order by our Salad Chefs and delivered to you in the Woodland Hills, CA and surrounding areas.",
+                        "apple-itunes-app": "app-id=962908053, app-argument=menufy://BadAssSalads.menufy.com",
+                        "google-play-app": "app-id=com.menufy.menufyportal"
+                    }
+                ],
+                "review": [
+                    {
+                        "ratingstars": "4.5",
+                        "ratingcount": "34"
+                    }
+                ],
+                "hreviewaggregate": [
+                    {
+                        "count": "34"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://9bf6ddc20002c5f1a946-ef07da46c7e506e973e0d9fa57c693df.ssl.cf1.rackcdn.com/636379740376102933+26876.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bad Salad - Pain that Binds Us [Official Music Video] - YouTube",
+            "htmlTitle": "<b>Bad Salad</b> - Pain that Binds Us [Official Music Video] - YouTube",
+            "link": "https://www.youtube.com/watch?v=4LsMrujx1Xk",
+            "displayLink": "www.youtube.com",
+            "snippet": "Dec 16, 2014 ... Bad Salad's Music Video for 'Pain that Binds Us' (Puzzled). Progressive Rock / \nMetal. PUZZLED (EP) is available at: iTunes\u00a0...",
+            "htmlSnippet": "Dec 16, 2014 <b>...</b> <b>Bad Salad&#39;s</b> Music Video for &#39;Pain that Binds Us&#39; (Puzzled). Progressive Rock / <br>\nMetal. PUZZLED (EP) is available at: iTunes&nbsp;...",
+            "cacheId": "y2JNkAQS3YkJ",
+            "formattedUrl": "https://www.youtube.com/watch?v=4LsMrujx1Xk",
+            "htmlFormattedUrl": "https://www.youtube.com/watch?v=4LsMrujx1Xk",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgzaTuGeJQJQKcuy3BQwzdWbJXNzwgw4VN7HGeeD5y2zUcx_c4B1dM-ZI"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "title": "Bad Salad - Pain that Binds Us [Official Music Video]",
+                        "theme-color": "#ff0000",
+                        "og:site_name": "YouTube",
+                        "og:url": "https://www.youtube.com/watch?v=4LsMrujx1Xk",
+                        "og:title": "Bad Salad - Pain that Binds Us [Official Music Video]",
+                        "og:image": "https://i.ytimg.com/vi/4LsMrujx1Xk/maxresdefault.jpg",
+                        "og:description": "Bad Salad's Music Video for 'Pain that Binds Us' (Puzzled). Progressive Rock / Metal. PUZZLED (EP) is available at: iTunes http://bit.ly/1HgEeuz CD Baby http...",
+                        "al:ios:app_store_id": "544007664",
+                        "al:ios:app_name": "YouTube",
+                        "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=4LsMrujx1Xk&feature=applinks",
+                        "al:android:url": "vnd.youtube://www.youtube.com/watch?v=4LsMrujx1Xk&feature=applinks",
+                        "al:android:app_name": "YouTube",
+                        "al:android:package": "com.google.android.youtube",
+                        "al:web:url": "https://www.youtube.com/watch?v=4LsMrujx1Xk&feature=applinks",
+                        "og:type": "video.other",
+                        "og:video:url": "https://www.youtube.com/embed/4LsMrujx1Xk",
+                        "og:video:secure_url": "https://www.youtube.com/embed/4LsMrujx1Xk",
+                        "og:video:type": "text/html",
+                        "og:video:width": "1280",
+                        "og:video:height": "720",
+                        "og:video:tag": "Bad Salad"
+                    }
+                ],
+                "videoobject": [
+                    {
+                        "url": "https://www.youtube.com/watch?v=4LsMrujx1Xk",
+                        "name": "Bad Salad - Pain that Binds Us [Official Music Video]",
+                        "description": "Bad Salad's Music Video for 'Pain that Binds Us' (Puzzled). Progressive Rock / Metal. PUZZLED (EP) is available at: iTunes http://bit.ly/1HgEeuz CD Baby http...",
+                        "paid": "False",
+                        "channelid": "UCmw1QM-UkLQhsbNnZSkuYdA",
+                        "videoid": "4LsMrujx1Xk",
+                        "duration": "PT13M38S",
+                        "unlisted": "False",
+                        "thumbnailurl": "https://i.ytimg.com/vi/4LsMrujx1Xk/maxresdefault.jpg",
+                        "embedurl": "https://www.youtube.com/embed/4LsMrujx1Xk",
+                        "playertype": "HTML5 Flash",
+                        "width": "1280",
+                        "height": "720",
+                        "isfamilyfriendly": "True",
+                        "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+                        "interactioncount": "72942",
+                        "datepublished": "2014-12-16",
+                        "genre": "Music"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://i.ytimg.com/vi/4LsMrujx1Xk/maxresdefault.jpg",
+                        "width": "1280",
+                        "height": "720"
+                    }
+                ],
+                "person": [
+                    {
+                        "url": "http://www.youtube.com/user/BadSaladOfficial"
+                    },
+                    {
+                        "url": "https://plus.google.com/118346133158857760870"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i.ytimg.com/vi/4LsMrujx1Xk/maxresdefault.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Diet Myth or Truth: A Salad Is the Best Diet Food",
+            "htmlTitle": "Diet Myth or Truth: A <b>Salad</b> Is the Best Diet Food",
+            "link": "https://www.webmd.com/diet/features/diet-myth-or-truth-a-salad-is-the-best-diet-food",
+            "displayLink": "www.webmd.com",
+            "snippet": "Everybody knows salads are healthy, right? People who are on a diet often opt \nfor entr\u00e9e salads, whether they're eating out or at home. But the truth is that a\u00a0...",
+            "htmlSnippet": "Everybody knows <b>salads</b> are healthy, right? People who are on a diet often opt <br>\nfor entr\u00e9e <b>salads</b>, whether they&#39;re eating out or at home. But the truth is that a&nbsp;...",
+            "cacheId": "5uGtt_xuuKMJ",
+            "formattedUrl": "https://www.webmd.com/.../diet-myth-or-truth-a-salad-is-the-best-diet-food",
+            "htmlFormattedUrl": "https://www.webmd.com/.../diet-myth-or-truth-a-<b>salad</b>-is-the-best-diet-food",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200",
+                        "height": "200",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl2YDG3KsEH8S4STzHnOzgDXxYFWIf7gBermk1PogGpEArMcrcpekkLGY"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "fb:pages": "11736558481",
+                        "og:title": "Diet Myth or Truth: A Salad Is the Best Diet Food",
+                        "og:description": "Your salad may be higher in calories than you think. WebMD's expert gives you tips for choosing healthy salads.",
+                        "og:image": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/logos/webmd/web/webmd-logo-fb.jpg",
+                        "og:url": "https://www.webmd.com/diet/features/diet-myth-or-truth-a-salad-is-the-best-diet-food",
+                        "og:site_name": "WebMD",
+                        "og:type": "article",
+                        "og:locale": "en_US",
+                        "fb:app_id": "385978254785998",
+                        "article:author": "https://www.facebook.com/WebMD",
+                        "article:publisher": "https://www.facebook.com/WebMD",
+                        "s_1stimp": "1637"
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "url": "ADD/ADHD",
+                        "name": "ADD/ADHD"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Diet & Weight Management",
+                        "name": "Diet & Weight Management",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Feature Stories",
+                        "name": "Feature Stories",
+                        "position": "2"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/logos/webmd/web/webmd-logo-fb.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bad Ass Salads Delivery - 21514 Victory Blvd Ste A Woodland Hills ...",
+            "htmlTitle": "<b>Bad</b> Ass <b>Salads</b> Delivery - 21514 Victory Blvd Ste A Woodland Hills ...",
+            "link": "https://www.grubhub.com/restaurant/bad-ass-salads-21514-victory-blvd-ste-a-woodland-hills/398597",
+            "displayLink": "www.grubhub.com",
+            "snippet": "Order delivery online from Bad Ass Salads in Woodland Hills instantly! View Bad \nAss Salads's January 2019 deals, coupons & menus. Order delivery online\u00a0...",
+            "htmlSnippet": "Order delivery online from <b>Bad</b> Ass <b>Salads</b> in Woodland Hills instantly! View <b>Bad</b> <br>\nAss <b>Salads&#39;s</b> January 2019 deals, coupons &amp; menus. Order delivery online&nbsp;...",
+            "cacheId": "b35kuIZYQ_sJ",
+            "formattedUrl": "https://www.grubhub.com/restaurant/bad-ass-salads...a.../398597",
+            "htmlFormattedUrl": "https://www.grubhub.com/restaurant/<b>bad</b>-ass-<b>salads</b>...a.../398597",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "275",
+                        "height": "183",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAQ7yUYDssDddUQcSpmIVeNt7Jr5sfFwdDRvL0vc1eut26JaBTTxmxSPxX"
+                    }
+                ],
+                "restaurant": [
+                    {
+                        "url": "https://www.grubhub.com/restaurant/bad-ass-salads-21514-victory-blvd-ste-a-woodland-hills/398597",
+                        "image": "https://res.cloudinary.com/grubhub/image/upload/w_100,h_100,f_auto,fl_lossy,q_80,c_fit/as8mmrjdabkuepp8dlbr",
+                        "name": "Bad Ass Salads",
+                        "servescuisine": "Breakfast,",
+                        "pricerange": "$$$",
+                        "telephone": "8183469145"
+                    }
+                ],
+                "aggregaterating": [
+                    {
+                        "ratingvalue": "5",
+                        "ratingcount": "51",
+                        "reviewcount": "51"
+                    }
+                ],
+                "postaladdress": [
+                    {
+                        "telephone": "8183469145"
+                    }
+                ],
+                "rating": [
+                    {
+                        "worstrating": "0",
+                        "bestrating": "5",
+                        "ratingvalue": "5"
+                    },
+                    {
+                        "worstrating": "0",
+                        "bestrating": "5",
+                        "ratingvalue": "5"
+                    },
+                    {
+                        "worstrating": "0",
+                        "bestrating": "5",
+                        "ratingvalue": "4"
+                    },
+                    {
+                        "worstrating": "0",
+                        "bestrating": "5",
+                        "ratingvalue": "5"
+                    },
+                    {
+                        "worstrating": "0",
+                        "bestrating": "5",
+                        "ratingvalue": "4"
+                    },
+                    {
+                        "worstrating": "0",
+                        "bestrating": "5",
+                        "ratingvalue": "4"
+                    },
+                    {
+                        "worstrating": "0",
+                        "bestrating": "5",
+                        "ratingvalue": "3"
+                    },
+                    {
+                        "worstrating": "0",
+                        "bestrating": "5",
+                        "ratingvalue": "5"
+                    },
+                    {
+                        "worstrating": "0",
+                        "bestrating": "5",
+                        "ratingvalue": "5"
+                    },
+                    {
+                        "worstrating": "0",
+                        "bestrating": "5",
+                        "ratingvalue": "4"
+                    },
+                    {
+                        "worstrating": "0",
+                        "bestrating": "5",
+                        "ratingvalue": "5"
+                    },
+                    {
+                        "worstrating": "0",
+                        "bestrating": "5",
+                        "ratingvalue": "5"
+                    },
+                    {
+                        "worstrating": "0",
+                        "bestrating": "5",
+                        "ratingvalue": "4"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no",
+                        "expires": "-1",
+                        "msapplication-config": "none",
+                        "fb:app_id": "127001397311144",
+                        "msvalidate.01": "3C31572664515C34822AD7692807F47D",
+                        "og:site_name": "GrubHub",
+                        "og:type": "restaurant.menu",
+                        "og:url": "https://www.grubhub.com/restaurant/bad-ass-salads-21514-victory-blvd-ste-a-woodland-hills/398597",
+                        "og:title": "Bad Ass Salads - Woodland Hills, CA",
+                        "og:description": "Order delivery online from Bad Ass Salads in Woodland Hills instantly! View Bad Ass Salads's January 2019 deals, coupons & menus. Order delivery online right now or by phone from GrubHub",
+                        "twitter:card": "summary",
+                        "twitter:site": "@Grubhub",
+                        "twitter:title": "Bad Ass Salads | 21514 Victory Blvd Ste A, Woodland Hills",
+                        "twitter:description": "Order delivery online from Bad Ass Salads in Woodland Hills instantly with Grubhub!",
+                        "restaurant:restaurant": "Bad Ass Salads",
+                        "og:image": "https://res.cloudinary.com/grubhub/image/upload/w_1200,h_800,f_auto,fl_lossy,q_80,c_fit/as8mmrjdabkuepp8dlbr",
+                        "og:image:height": "800",
+                        "og:image:width": "1200",
+                        "twitter:image": "https://res.cloudinary.com/grubhub/image/upload/w_300,h_300,f_auto,fl_lossy,q_100,c_fit/as8mmrjdabkuepp8dlbr"
+                    }
+                ],
+                "geocoordinates": [
+                    {
+                        "latitude": "34.1878362",
+                        "longitude": "-118.5995656"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Grubhub",
+                        "name": "Grubhub",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Woodland Hills",
+                        "name": "Woodland Hills",
+                        "position": "2"
+                    },
+                    {
+                        "item": "South Valley",
+                        "name": "South Valley",
+                        "position": "3"
+                    }
+                ],
+                "offer": [
+                    {
+                        "price": "$3.95"
+                    },
+                    {
+                        "price": "$8.95"
+                    },
+                    {
+                        "price": "$8.95"
+                    },
+                    {
+                        "price": "$3.95"
+                    },
+                    {
+                        "price": "$3.95"
+                    },
+                    {
+                        "price": "$3.95"
+                    },
+                    {
+                        "price": "$6.95"
+                    },
+                    {
+                        "price": "$12.95"
+                    },
+                    {
+                        "price": "$8.95"
+                    },
+                    {
+                        "price": "$7.95"
+                    },
+                    {
+                        "price": "$8.95"
+                    },
+                    {
+                        "price": "$11.95"
+                    },
+                    {
+                        "price": "$7.95"
+                    },
+                    {
+                        "price": "$9.95"
+                    },
+                    {
+                        "price": "$9.95"
+                    },
+                    {
+                        "price": "$8.95"
+                    },
+                    {
+                        "price": "$8.95"
+                    },
+                    {
+                        "price": "$9.95"
+                    },
+                    {
+                        "price": "$7.59"
+                    },
+                    {
+                        "price": "$7.59"
+                    },
+                    {
+                        "price": "$7.59"
+                    },
+                    {
+                        "price": "$7.59"
+                    },
+                    {
+                        "price": "$7.59"
+                    },
+                    {
+                        "price": "$1.29"
+                    },
+                    {
+                        "price": "$1.99"
+                    },
+                    {
+                        "price": "$1.99"
+                    },
+                    {
+                        "price": "$1.99"
+                    },
+                    {
+                        "price": "$0.99"
+                    },
+                    {
+                        "price": "$1.99"
+                    },
+                    {
+                        "price": "$1.99"
+                    },
+                    {
+                        "price": "$2.99"
+                    },
+                    {
+                        "price": "$1.79"
+                    },
+                    {
+                        "price": "$1.79"
+                    },
+                    {
+                        "price": "$1.79"
+                    },
+                    {
+                        "price": "$1.79"
+                    },
+                    {
+                        "price": "$1.99"
+                    },
+                    {
+                        "price": "$2.49"
+                    },
+                    {
+                        "price": "$2.49"
+                    },
+                    {
+                        "price": "$5.99"
+                    },
+                    {
+                        "price": "$2.19"
+                    },
+                    {
+                        "price": "$2.19"
+                    },
+                    {
+                        "price": "$2.99"
+                    },
+                    {
+                        "price": "$2.19"
+                    },
+                    {
+                        "price": "$2.29"
+                    },
+                    {
+                        "price": "$4.99"
+                    },
+                    {
+                        "price": "$3.29"
+                    },
+                    {
+                        "price": "$4.99"
+                    },
+                    {
+                        "price": "$2.99"
+                    },
+                    {
+                        "price": "$3.29"
+                    },
+                    {
+                        "price": "$3.79"
+                    },
+                    {
+                        "price": "$3.79"
+                    },
+                    {
+                        "price": "$3.79"
+                    },
+                    {
+                        "price": "$0.00"
+                    },
+                    {
+                        "price": "$0.00"
+                    },
+                    {
+                        "price": "$0.00"
+                    }
+                ],
+                "review": [
+                    {
+                        "ratingstars": "5.0",
+                        "ratingcount": "51",
+                        "pricerange": "$$$",
+                        "image_url": "https://res.cloudinary.com/grubhub/image/upload/w_100,h_100,f_auto,fl_lossy,q_80,c_fit/as8mmrjdabkuepp8dlbr"
+                    },
+                    {
+                        "author": "Miguel",
+                        "reviewbody": "Good food, good portions. Will order again."
+                    },
+                    {
+                        "author": "Steven",
+                        "reviewbody": "Great as always!"
+                    },
+                    {
+                        "author": "Jilly",
+                        "reviewbody": "Mona was super quick and efficient. I ordered Chinese chicken salad, which is good but no tangerines in it. Super disappointed that they forgot to put them in salad. I order bread. The bread..."
+                    },
+                    {
+                        "author": "Steven",
+                        "reviewbody": "Excellent Salad! We have tried them all. This is the Best ever delivered!!"
+                    },
+                    {
+                        "author": "Valerie",
+                        "reviewbody": "Was charged for a dinner roll, didn't receive it."
+                    },
+                    {
+                        "author": "kevin",
+                        "reviewbody": "They offer a good range of choices with some options you would not expect. Salad was fresh and ingredients were delicious. To be frank the salad was 5+ stars. Now here's what dropped them down;..."
+                    },
+                    {
+                        "author": "Vicky",
+                        "reviewbody": "it was ok not awesome but acceptable"
+                    },
+                    {
+                        "author": "Ralph",
+                        "reviewbody": "Best salad delivery in the Valley!"
+                    },
+                    {
+                        "author": "Parry",
+                        "reviewbody": "Delicious salad and good service"
+                    },
+                    {
+                        "author": "Brant",
+                        "reviewbody": "Salads were great but....I ordered an extra side of dressing for my salad, was charged for it but did not receive it. Simple thing but...it matters ):"
+                    },
+                    {
+                        "author": "Lauren",
+                        "reviewbody": "Fresh and delicious! Best salads in the valley."
+                    },
+                    {
+                        "author": "Dawn",
+                        "reviewbody": "First time ordering from them, and we are regular grub hub customers. I must say WOW! The food was amazing ( way better than the photos) and everything was so fresh!"
+                    },
+                    {
+                        "author": "Lisa",
+                        "reviewbody": "My salad was made to order with no problems and was great. I wish Grubhub allowed us to pick more than 1 protein (other sites do, but I've had problems with those sites in other ways so I won't..."
+                    }
+                ],
+                "hreviewaggregate": [
+                    {
+                        "pricerange": "$$$",
+                        "count": "51",
+                        "votes": "51"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://res.cloudinary.com/grubhub/image/upload/w_1200,h_800,f_auto,fl_lossy,q_80,c_fit/as8mmrjdabkuepp8dlbr"
+                    }
+                ],
+                "menusection": [
+                    {
+                        "name": "Most Popular"
+                    },
+                    {
+                        "name": "Build Your Own Salad"
+                    },
+                    {
+                        "name": "Bad Ass Salads"
+                    },
+                    {
+                        "name": "**NEW** Breakfast Sandwiches"
+                    },
+                    {
+                        "name": "Sides"
+                    },
+                    {
+                        "name": "Beverages"
+                    },
+                    {
+                        "name": "Complimentary Items"
+                    },
+                    {
+                        "name": "Boar's Head Deli Meats by the Pound"
+                    },
+                    {
+                        "name": "Boar's Head Deli Cheeses by the Pound"
+                    }
+                ],
+                "menuitem": [
+                    {
+                        "description": "Crisp romaine lettuce, red onion, cucumber, cherry tomatoes, Kalamata olives and feta cheese."
+                    },
+                    {
+                        "description": "Crisp romaine lettuce, grilled skinless chicken breast, red cabbage, grated carrots, edamame, green onion, Mandarin oranges, sliced almonds and chow mein noodles."
+                    },
+                    {
+                        "description": "Crisp romaine lettuce with garlic tortilla croutons and Parmesan cheese. Caesar dressing."
+                    },
+                    {
+                        "description": "Crisp romaine lettuce, delicious grilled shrimp, crispy bacon crumbles, hard boiled egg, avocado, corn kernels and feta cheese."
+                    },
+                    {
+                        "description": "Crisp romaine lettuce, corn kernels, black beans, tomatoes, cilantro, avocado, cheddar cheese and garlic tortilla croutons."
+                    },
+                    {
+                        "description": "Crisp romaine lettuce, grilled steak, fajita veggies (red and green bell peppers and onions) and avocado. 2 corn tortillas on the side."
+                    },
+                    {
+                        "description": "Crisp romaine lettuce, crispy bacon crumbles, sliced avocado, cherry tomatoes, corn kernels, feta cheese and garlic tortilla croutons."
+                    },
+                    {
+                        "description": "Crisp romaine lettuce, fusilli pasta, Roma tomatoes, garlic tortilla croutons and Parmesan cheese."
+                    },
+                    {
+                        "description": "Crisp romaine lettuce, grilled skinless chicken breast, shredded carrots, avocado, green onions, hard-boiled egg and Mandarin oranges."
+                    },
+                    {
+                        "description": "Crisp romaine lettuce, cherry tomatoes, corn kernels, black beans, cilantro leaves, avocado and garlic tortilla croutons."
+                    },
+                    {
+                        "description": "Crisp romaine lettuce, grilled skinless chicken breast, mozzarella cheese, cherry tomatoes and avocado."
+                    },
+                    {
+                        "description": "Crisp romaine lettuce, grilled skinless chicken breast, tomatoes, corn kernels, black beans, red onion, Monterey Jack cheese and cheddar cheese and crispy garlic tortilla strips."
+                    },
+                    {
+                        "description": "Fried or Scrambled Egg, Turkey Sausage, Mozzarella on grilled Sourdough Bread"
+                    },
+                    {
+                        "description": "Fried or Scrambled Egg, Feta Cheese & Avocado with Chipotle Gourmaise on Multigrain Wheat Bread"
+                    },
+                    {
+                        "description": "Fried or Scrambled Egg, Boar\u2019s Head Black Forest Ham, Colby Cheddar & Tomatoes. Grilled on Soft White Bread."
+                    },
+                    {
+                        "description": "Fried or Scrambled Egg, Boar\u2019s Head Bacon Slices, Provolone & Spinach on Foccacia Bread made Panini Style."
+                    },
+                    {
+                        "description": "Scrambled Egg,Grilled Steak, Grilled Peppers & Onions, Feta Cheese, Spinach & Pesto on Soft White Bread."
+                    },
+                    {
+                        "description": "Great Taste\u2026 Naturally. We craft authentic taste experiences using only the most natural, real food ingredients, the finest potatoes, best oils and craft cooking methods."
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bad Salad: Music",
+            "htmlTitle": "<b>Bad Salad</b>: Music",
+            "link": "https://badsalad.bandcamp.com/",
+            "displayLink": "badsalad.bandcamp.com",
+            "snippet": "Bad Salad. Bras\u00edlia, Brazil. Started in 2007 unpretentiously by 3 friends in a small \nrehearsal room, Bad Salad soon developed into one of Brazil's greatest names\u00a0...",
+            "htmlSnippet": "<b>Bad Salad</b>. Bras\u00edlia, Brazil. Started in 2007 unpretentiously by 3 friends in a small <br>\nrehearsal room, <b>Bad Salad</b> soon developed into one of Brazil&#39;s greatest names&nbsp;...",
+            "cacheId": "nSEgjZFSjd4J",
+            "formattedUrl": "https://badsalad.bandcamp.com/",
+            "htmlFormattedUrl": "https://<b>badsalad</b>.bandcamp.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300",
+                        "height": "141",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQU3lepAAj_aBcWWhDkvm8UQuV7leF1DLQ-L9X5WosJWY2-6l3MkVDe_AY"
+                    }
+                ],
+                "musicgroup": [
+                    {
+                        "description": "Started in 2007 unpretentiously by 3 friends in a small rehearsal room, Bad Salad soon developed into one of Brazil's greatest names of the genre, reaching and enticing fans throughout the...",
+                        "url": "Facebook"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-mobile-web-app-capable": "yes",
+                        "norton-safeweb-site-verification": "ejd7gu5uojnhaq1f4mkwkx8rbydsxtne25pyxbyv24x7e2b-voeqw8wohh9j183bfyeq109vyl4vd396-wkx1gog2vv4g21x39voxpe75a96ahp98-nookkmva7n5t7a",
+                        "title": "Bad Salad",
+                        "og:title": "Bad Salad",
+                        "og:type": "band",
+                        "og:url": "https://badsalad.bandcamp.com",
+                        "og:site_name": "Bad Salad",
+                        "og:description": "Started in 2007 unpretentiously by 3 friends in a small rehearsal room, Bad Salad soon developed into one of Brazil's greatest names of the genre, reaching and enticing fans throughout the world with a groovy mix of technicality, melody and balls.\n \nBad Salad released their debut album \"Uncivilized\" on July 2012, and the follow up EP \"Puzzled\" on October 2013, both to great critical acclaim.",
+                        "twitter:site": "@bandcamp",
+                        "twitter:card": "summary",
+                        "og:image": "https://f4.bcbits.com/img/0004177195_23.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://f4.bcbits.com/img/0004177195_23.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Salads Are a Lie | Greatist",
+            "htmlTitle": "<b>Salads</b> Are a Lie | Greatist",
+            "link": "https://greatist.com/eat/salads-are-lie",
+            "displayLink": "greatist.com",
+            "snippet": "Oct 12, 2017 ... This one's bad. Salad dressing often has more calories than the rest of the salad \nitself! For example, a lot of people order a Caesar salad as a\u00a0...",
+            "htmlSnippet": "Oct 12, 2017 <b>...</b> This one&#39;s <b>bad</b>. <b>Salad</b> dressing often has more calories than the rest of the <b>salad</b> <br>\nitself! For example, a lot of people order a Caesar <b>salad</b> as a&nbsp;...",
+            "cacheId": "UGD22i7qSvYJ",
+            "formattedUrl": "https://greatist.com/eat/salads-are-lie",
+            "htmlFormattedUrl": "https://greatist.com/eat/<b>salads</b>-are-lie",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "310",
+                        "height": "163",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDQj_PrEuwIVzrY7ZuxfbjZWJRguhFCfYhTPdxqnS2YrnB2QShhS7bXuZF"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "fb:admins": "1101180055",
+                        "fb:app_id": "338405982951793",
+                        "og:site_name": "Greatist",
+                        "og:type": "article",
+                        "og:title": "Having a Salad? Here's Why You Might As Well Eat a Burger",
+                        "og:url": "https://greatist.com/eat/salads-are-lie",
+                        "og:description": "You're forgetting salads suck.",
+                        "og:image": "https://greatist.com/sites/default/files/styles/fb-1200x630/public/strawberry-salad.jpg?itok=Gs7A-5XB",
+                        "og:image:width": "1200",
+                        "og:image:height": "630",
+                        "twitter:card": "summary_large_image",
+                        "twitter:site": "@greatist",
+                        "twitter:site:id": "241264504",
+                        "twitter:title": "Having a Salad? Here's Why You Might As Well Eat a Burger",
+                        "twitter:url": "https://greatist.com/eat/salads-are-lie",
+                        "twitter:description": "You're forgetting salads suck.",
+                        "twitter:image": "https://greatist.com/sites/default/files/styles/article_main/public/strawberry-salad.jpg?itok=3XldHyKJ",
+                        "article:publisher": "https://www.facebook.com/greatist",
+                        "article:tag": "Eat",
+                        "article:section": "Eat",
+                        "article:published_time": "2017-10-12T15:31:50-04:00",
+                        "article:modified_time": "2017-12-04T11:38:09-05:00",
+                        "msapplication-tileimage": "/sites/all/themes/greatist2x/images/favicons/mstile-144x144.png",
+                        "msapplication-square70x70logo": "/sites/all/themes/greatist2x/images/favicons/mstile-70x70.png",
+                        "msapplication-square150x150logo": "/sites/all/themes/greatist2x/images/favicons/mstile-150x150.png",
+                        "msapplication-wide310x150logo": "/sites/all/themes/greatist2x/images/favicons/mstile-310x150.png",
+                        "msapplication-square310x310logo": "/sites/all/themes/greatist2x/images/favicons/mstile-310x310.png"
+                    }
+                ],
+                "organization": [
+                    {
+                        "url": "Greatist",
+                        "logo": "https://greatist.com/sites/all/themes/greatist2x/images/design/Greatist_Logo_White.svg",
+                        "name": "Greatist"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://greatist.com/sites/default/files/styles/fb-1200x630/public/strawberry-salad.jpg?itok=Gs7A-5XB"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "When Is It Safe to Eat Salad Again? - The New York Times",
+            "htmlTitle": "When Is It Safe to Eat <b>Salad</b> Again? - The New York Times",
+            "link": "https://www.nytimes.com/2018/04/19/well/eat/romaine-lettuce-salad-food-poisoning-e-coli.html",
+            "displayLink": "www.nytimes.com",
+            "snippet": "Apr 19, 2018 ... For lovers of leafy greens, these are not salad days. .... lower risk, and at the risk \nof stating the obvious, it's generally a bad idea to use bleach in\u00a0...",
+            "htmlSnippet": "Apr 19, 2018 <b>...</b> For lovers of leafy greens, these are not <b>salad</b> days. .... lower risk, and at the risk <br>\nof stating the obvious, it&#39;s generally a <b>bad</b> idea to use bleach in&nbsp;...",
+            "formattedUrl": "https://www.nytimes.com/.../romaine-lettuce-salad-food-poisoning-e-coli. html",
+            "htmlFormattedUrl": "https://www.nytimes.com/.../romaine-lettuce-<b>salad</b>-food-poisoning-e-coli. html",
+            "pagemap": {
+                "thumbnail": [
+                    {
+                        "src": "https://static01.nyt.com/images/2018/04/18/well/romaine-salad/romaine-salad-thumbStandard.jpg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "article:published": "2018-04-19T20:05:31.000Z",
+                        "article:modified": "2018-07-10T22:42:00.955Z",
+                        "articleid": "100000005859090",
+                        "nyt_uri": "nyt://article/9b87cab6-0bfa-5bbc-979c-988158843535",
+                        "pubp_event_id": "pubp://event/f1a04624fdb24ed5911576951be6e3a4",
+                        "image": "https://static01.nyt.com/images/2018/04/18/well/romaine-salad/romaine-salad-facebookJumbo-v2.jpg",
+                        "byl": "By Tara Parker-Pope",
+                        "thumbnail": "https://static01.nyt.com/images/2018/04/18/well/romaine-salad/romaine-salad-thumbStandard.jpg",
+                        "news_keywords": "E Coli,Lettuce,Food Safety,Restaurant,Agriculture",
+                        "usageterms": "http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html",
+                        "pdate": "20180419",
+                        "og:url": "https://www.nytimes.com/2018/04/19/well/eat/romaine-lettuce-salad-food-poisoning-e-coli.html",
+                        "og:type": "article",
+                        "og:title": "When Is It Safe to Eat Salad Again?",
+                        "og:image": "https://static01.nyt.com/images/2018/04/18/well/romaine-salad/romaine-salad-facebookJumbo-v2.jpg",
+                        "og:description": "An outbreak of infections linked to bagged romaine lettuce has left salad lovers confused. Here are answers to common questions about leafy greens.",
+                        "twitter:url": "https://www.nytimes.com/2018/04/19/well/eat/romaine-lettuce-salad-food-poisoning-e-coli.html",
+                        "twitter:title": "When Is It Safe to Eat Salad Again?",
+                        "twitter:description": "An outbreak of infections linked to bagged romaine lettuce has left salad lovers confused. Here are answers to common questions about leafy greens.",
+                        "twitter:image": "https://static01.nyt.com/images/2018/04/18/well/romaine-salad/romaine-salad-videoSixteenByNineJumbo1600.jpg",
+                        "twitter:card": "summary_large_image",
+                        "article:section": "Well",
+                        "article:author": "http://www.nytimes.com/by/tara-parker-pope",
+                        "article:tag": "E Coli (Bacteria)",
+                        "cg": "well",
+                        "scg": "eat",
+                        "pt": "article",
+                        "pst": "News",
+                        "genre": "News",
+                        "url": "https://www.nytimes.com/2018/04/19/well/eat/romaine-lettuce-salad-food-poisoning-e-coli.html",
+                        "msapplication-starturl": "https://www.nytimes.com",
+                        "al:android:url": "nytimes://reader/id/100000005859090",
+                        "al:android:package": "com.nytimes.android",
+                        "al:android:app_name": "NYTimes",
+                        "twitter:app:name:googleplay": "NYTimes",
+                        "twitter:app:id:googleplay": "com.nytimes.android",
+                        "twitter:app:url:googleplay": "nytimes://reader/id/100000005859090",
+                        "al:iphone:url": "nytimes://www.nytimes.com/2018/04/19/well/eat/romaine-lettuce-salad-food-poisoning-e-coli.html",
+                        "al:iphone:app_store_id": "284862083",
+                        "al:iphone:app_name": "NYTimes",
+                        "al:ipad:url": "nytimes://www.nytimes.com/2018/04/19/well/eat/romaine-lettuce-salad-food-poisoning-e-coli.html",
+                        "al:ipad:app_store_id": "357066198",
+                        "al:ipad:app_name": "NYTimes",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "fb:app_id": "9869919170"
+                    }
+                ],
+                "newsarticle": [
+                    {
+                        "inlanguage": "en-US",
+                        "datepublished": "2018-04-19T20:05:31.000Z",
+                        "datemodified": "2018-07-10T22:42:00.955Z",
+                        "identifier": "100000005859090",
+                        "description": "An outbreak of infections linked to bagged romaine lettuce has left salad lovers confused. Here are answers to common questions about leafy greens.",
+                        "image": "https://static01.nyt.com/images/2018/04/18/well/romaine-salad/romaine-salad-facebookJumbo-v2.jpg",
+                        "thumbnailurl": "https://static01.nyt.com/images/2018/04/18/well/romaine-salad/romaine-salad-thumbStandard.jpg",
+                        "usageterms": "http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html",
+                        "articlesection": "Well",
+                        "genre": "News",
+                        "url": "https://www.nytimes.com/2018/04/19/well/eat/romaine-lettuce-salad-food-poisoning-e-coli.html",
+                        "headline": "When Is It Safe to Eat Salad Again?When Is It Safe to Eat Salad Again?",
+                        "copyrightholder": "CreditRikki Snyder for The New York Times",
+                        "name": "Tara Parker-Pope",
+                        "articlebody": "Updated Friday April 20, 4 p.m., from the Centers for Disease Control and Prevention: Based on new information, the C.D.C. is expanding its warning to consumers to cover all types of romaine...",
+                        "copyrightyear": "2019"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://static01.nyt.com/images/2018/04/18/well/romaine-salad/merlin_105496261_331ea8c4-4eb3-411b-bb02-90c15a034d13-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                        "caption": "CreditCreditRikki Snyder for The New York Times",
+                        "description": "CreditCreditRikki Snyder for The New York Times",
+                        "copyrightholder": "CreditCreditRikki Snyder for The New York Times"
+                    },
+                    {
+                        "url": "https://static01.nyt.com/images/2018/04/20/us/20xp-ecoli/merlin_136798956_857fc922-cf28-4131-93f0-e214f3315769-thumbLarge.jpg?quality=75&auto=webp&disable=upscale"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "The New York Times Company"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static01.nyt.com/images/2018/04/18/well/romaine-salad/romaine-salad-thumbStandard.jpg",
+                        "type": "1",
+                        "width": "75",
+                        "height": "75"
+                    }
+                ]
+            }
+        }
+    ]
+}

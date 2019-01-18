@@ -1,0 +1,970 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - pizza great",
+                "totalResults": "280000000",
+                "searchTerms": "pizza great",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "010300063145966968924:s_c2a7abb_e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - pizza great",
+                "totalResults": "280000000",
+                "searchTerms": "pizza great",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "010300063145966968924:s_c2a7abb_e"
+            }
+        ]
+    },
+    "context": {
+        "title": "test"
+    },
+    "searchInformation": {
+        "searchTime": 0.500202,
+        "formattedSearchTime": "0.50",
+        "totalResults": "280000000",
+        "formattedTotalResults": "280,000,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Good Pizza, Great Pizza on Steam",
+            "htmlTitle": "<b>Good Pizza</b>, <b>Great Pizza</b> on Steam",
+            "link": "https://store.steampowered.com/app/770810/Good_Pizza_Great_Pizza/",
+            "displayLink": "store.steampowered.com",
+            "snippet": "Ever wanted to know what it feels like to run your own Pizza shop? Do your best \nto fulfill pizza orders from customers while making enough money to keep your\u00a0...",
+            "htmlSnippet": "Ever wanted to know what it feels like to run your own <b>Pizza</b> shop? Do your <b>best</b> <br>\nto fulfill <b>pizza</b> orders from customers while making enough money to keep your&nbsp;...",
+            "cacheId": "Enl1IryY5c8J",
+            "formattedUrl": "https://store.steampowered.com/app/.../Good_Pizza_Great_Pizza/",
+            "htmlFormattedUrl": "https://store.steampowered.com/app/.../<b>Good</b>_<b>Pizza</b>_<b>Great</b>_<b>Pizza</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "184",
+                        "height": "103",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIy-i3s_haoSltfpsqgxlpIgvT-ISEV-QPgcnUzB2tCgt7x7bCBQbcvAQ"
+                    }
+                ],
+                "product": [
+                    {
+                        "image": "https://steamcdn-a.akamaihd.net/steam/apps/770810/capsule_231x87.jpg?t=1545372705",
+                        "name": "Good Pizza, Great Pizza"
+                    }
+                ],
+                "aggregaterating": [
+                    {
+                        "description": "Very Positive",
+                        "reviewcount": "53",
+                        "ratingvalue": "9",
+                        "bestrating": "10",
+                        "worstrating": "1"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width,initial-scale=1",
+                        "theme-color": "#171a21",
+                        "twitter:card": "summary_large_image",
+                        "twitter:site": "@steam_games",
+                        "og:title": "Good Pizza, Great Pizza on Steam",
+                        "twitter:title": "Good Pizza, Great Pizza on Steam",
+                        "fb:app_id": "105386699540688",
+                        "og:site": "Steam",
+                        "og:url": "https://store.steampowered.com/app/770810/Good_Pizza_Great_Pizza/",
+                        "og:description": "Ever wanted to know what it feels like to run your own Pizza shop? Do your best to fulfill pizza orders from customers while making enough money to keep your shop open. Upgrade your shop with new toppings and equipment to compete against your pizza rival, Alicante!",
+                        "twitter:description": "Ever wanted to know what it feels like to run your own Pizza shop? Do your best to fulfill pizza orders from customers while making enough money to keep your shop open. Upgrade your shop with new toppings and equipment to compete against your pizza rival, Alicante!",
+                        "og:image": "https://steamcdn-a.akamaihd.net/steam/apps/770810/header.jpg?t=1545372705",
+                        "twitter:image": "https://steamcdn-a.akamaihd.net/steam/apps/770810/header.jpg?t=1545372705",
+                        "og:image:secure": "https://steamcdn-a.akamaihd.net/steam/apps/770810/header.jpg?t=1545372705"
+                    }
+                ],
+                "hproduct": [
+                    {
+                        "fn": "Good Pizza, Great Pizza",
+                        "photo": "https://steamcdn-a.akamaihd.net/steam/apps/770810/capsule_231x87.jpg?t=1545372705",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    }
+                ],
+                "offer": [
+                    {
+                        "pricecurrency": "USD",
+                        "price": "14.99"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://steamcdn-a.akamaihd.net/steam/apps/256709744/movie.184x123.jpg?t=1525738508"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Good Pizza, Great Pizza - Apps on Google Play",
+            "htmlTitle": "<b>Good Pizza</b>, <b>Great Pizza</b> - Apps on Google Play",
+            "link": "https://play.google.com/store/apps/details?id=com.tapblaze.pizzabusiness&hl=en_US",
+            "displayLink": "play.google.com",
+            "snippet": "Ever wanted to know what it feels like to run your own Pizza shop? Now you can \nwith TapBlaze's newest game, Good Pizza, Great Pizza! Do your best to fulfill\u00a0...",
+            "htmlSnippet": "Ever wanted to know what it feels like to run your own <b>Pizza</b> shop? Now you can <br>\nwith TapBlaze&#39;s newest game, <b>Good Pizza</b>, <b>Great Pizza</b>! Do your <b>best</b> to fulfill&nbsp;...",
+            "cacheId": "jVIlvKn1jLkJ",
+            "formattedUrl": "https://play.google.com/store/apps/details?id...pizzabusiness&hl...",
+            "htmlFormattedUrl": "https://play.google.com/store/apps/details?id...<b>pizza</b>business&amp;hl...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "321",
+                        "height": "157",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVotQ0-GOjme1bDE7ImXmGAgLaa6n-N_iY_vXcplppaQFcmvygTdOW4h4"
+                    }
+                ],
+                "softwareapplication": [
+                    {
+                        "operatingsystem": "ANDROID",
+                        "name": "Good Pizza, Great Pizza",
+                        "url": "https://play.google.com/store/apps/details/Good_Pizza_Great_Pizza?id=com.tapblaze.pizzabusiness&hl=en_US",
+                        "image": "https://lh3.googleusercontent.com/sNirNrP-LkvgOAoPahDUMF-1xaBfg4M0vSN-tiMSMr40JiZPyO02V9h_jcC0WUl_Ecsb",
+                        "description": "Ever wanted to know what it feels like to run your own Pizza shop? Now you can with TapBlaze\u2019s newest game, Good Pizza, Great Pizza! Do your best to fulfill pizza orders from customers while...",
+                        "contentrating": "Everyone",
+                        "applicationcategory": "GAME_CASUAL"
+                    }
+                ],
+                "aggregaterating": [
+                    {
+                        "ratingvalue": "4.428345203399658",
+                        "reviewcount": "390867"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "mobile-web-app-capable": "yes",
+                        "apple-mobile-web-app-capable": "yes",
+                        "og:type": "website",
+                        "og:url": "https://play.google.com/store/apps/details?id=com.tapblaze.pizzabusiness&hl=en_US",
+                        "twitter:url": "https://play.google.com/store/apps/details?id=com.tapblaze.pizzabusiness&hl=en_US",
+                        "og:title": "Good Pizza, Great Pizza - Apps on Google Play",
+                        "twitter:title": "Good Pizza, Great Pizza - Apps on Google Play",
+                        "og:image": "https://lh3.googleusercontent.com/xJuBIpv-sqdEd4CDAv0OE0iVZ8yMpZ7EcrSODp3hFmOSGc9xidaTGPbMMfVI_d8PAIM",
+                        "twitter:image": "https://lh3.googleusercontent.com/xJuBIpv-sqdEd4CDAv0OE0iVZ8yMpZ7EcrSODp3hFmOSGc9xidaTGPbMMfVI_d8PAIM"
+                    }
+                ],
+                "offer": [
+                    {
+                        "url": "https://play.google.com/store/apps/details?id=com.tapblaze.pizzabusiness&rdid=com.tapblaze.pizzabusiness&feature=md&offerId",
+                        "price": "0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://lh3.googleusercontent.com/xJuBIpv-sqdEd4CDAv0OE0iVZ8yMpZ7EcrSODp3hFmOSGc9xidaTGPbMMfVI_d8PAIM"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Pizza Hut 4900 2nd Ave N: Carryout, Delivery, Pizza & Wings in ...",
+            "htmlTitle": "<b>Pizza</b> Hut 4900 2nd Ave N: Carryout, Delivery, <b>Pizza</b> &amp; Wings in ...",
+            "link": "https://locations.pizzahut.com/mt/great-falls/4900-2nd-ave-n",
+            "displayLink": "locations.pizzahut.com",
+            "snippet": "Visit your local Pizza Hut at 4900 2nd Ave N in Great Falls, MT to find hot and \nfresh pizza, wings, pasta and more! Order carryout or delivery for quick service.",
+            "htmlSnippet": "Visit your local <b>Pizza</b> Hut at 4900 2nd Ave N in <b>Great</b> Falls, MT to find hot and <br>\nfresh <b>pizza</b>, wings, pasta and more! Order carryout or delivery for quick service.",
+            "cacheId": "ijmpLO8cC3MJ",
+            "formattedUrl": "https://locations.pizzahut.com/mt/great-falls/4900-2nd-ave-n",
+            "htmlFormattedUrl": "https://locations.<b>pizza</b>hut.com/mt/<b>great</b>-falls/4900-2nd-ave-n",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLdfp_7tSn6NpNeITZlQktdX1yqt2trpE-0UY8Yke8vvQI4MhkviVBigM"
+                    }
+                ],
+                "fastfoodrestaurant": [
+                    {
+                        "url": "https://locations.pizzahut.com/mt/great-falls/4900-2nd-ave-n",
+                        "image": "https://dynl.mktgcdn.com/p/iCIT-XSzODzLeuDcnssobB0HtTiC8pgk3gJIAf86gW8/1.0000/240x240.png",
+                        "name": "Pizza Hut 4900 2nd Ave N",
+                        "pricerange": "$",
+                        "servescuisine": "Pizza",
+                        "telephone": "(406) 727-1775",
+                        "openinghours": "Mo 10:30-00:00",
+                        "description": "There\u2019s nothing cookie-cutter about your local Great Falls, Pizza Hut. Not our pizzas. Not our people. And definitely not the way we live life. Around here, we don\u2019t settle for anything..."
+                    }
+                ],
+                "postaladdress": [
+                    {
+                        "addresslocality": "Great Falls",
+                        "streetaddress": "4900 2nd Ave N",
+                        "addressregion": "MT",
+                        "postalcode": "59405",
+                        "addresscountry": "US"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "format-detection": "telephone=no",
+                        "msapplication-square70x70logo": "../../permanent-b0b701/assets/images/favicons/locations.pizzahut.com/windows-tile-70x70.47d88931.png",
+                        "msapplication-square150x150logo": "../../permanent-b0b701/assets/images/favicons/locations.pizzahut.com/windows-tile-150x150.e023c104.png",
+                        "msapplication-square310x310logo": "../../permanent-b0b701/assets/images/favicons/locations.pizzahut.com/windows-tile-310x310.9583f9dd.png",
+                        "msapplication-tileimage": "../../permanent-b0b701/assets/images/favicons/locations.pizzahut.com/windows-tile-144x144.fcaede39.png",
+                        "og:title": "Pizza Hut 4900 2nd Ave N: Carryout, Delivery, Pizza & Wings in Great Falls, MT",
+                        "og:description": "Visit your local Pizza Hut at 4900 2nd Ave N in Great Falls, MT to find hot and fresh pizza, wings, pasta and more! Order carryout or delivery for quick service.",
+                        "og:image": "https://dynl.mktgcdn.com/p/iCIT-XSzODzLeuDcnssobB0HtTiC8pgk3gJIAf86gW8/1.0000/240x240.png",
+                        "og:type": "website",
+                        "og:url": "https://locations.pizzahut.com/mt/great-falls/4900-2nd-ave-n",
+                        "twitter:card": "summary",
+                        "geo.position": "47.506842958017046;-111.22467569543466",
+                        "geo.placename": "Great Falls,Montana",
+                        "geo.region": "United States-MT"
+                    }
+                ],
+                "geocoordinates": [
+                    {
+                        "latitude": "47.506842958017046",
+                        "longitude": "-111.22467569543466"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "https://locations.pizzahut.com/index.html",
+                        "name": "All Stores",
+                        "position": "1"
+                    },
+                    {
+                        "item": "https://locations.pizzahut.com/mt",
+                        "name": "MT",
+                        "position": "2"
+                    },
+                    {
+                        "item": "https://locations.pizzahut.com/mt/great-falls",
+                        "name": "Great Falls",
+                        "position": "3"
+                    }
+                ],
+                "offer": [
+                    {
+                        "name": "Hut Rewards \u2122"
+                    },
+                    {
+                        "name": "Carryout"
+                    },
+                    {
+                        "name": "Delivery"
+                    },
+                    {
+                        "name": "Wingstreet \u00ae Wings"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://dynl.mktgcdn.com/p/iCIT-XSzODzLeuDcnssobB0HtTiC8pgk3gJIAf86gW8/1.0000/240x240.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Good Pizza Great Pizza! [Annoying Orange Plays] - YouTube",
+            "htmlTitle": "<b>Good Pizza Great Pizza</b>! [Annoying Orange Plays] - YouTube",
+            "link": "https://www.youtube.com/watch?v=wafc-VO87Ow",
+            "displayLink": "www.youtube.com",
+            "snippet": "Feb 27, 2018 ... NEW MERCH! http://amzn.to/annoyingorange \u25bb CHECK OUT MORE GAMING \nVIDS: http://bit.ly/2CGlrO1 \u25bb SUBSCRIBE for DAILY VIDEOS:\u00a0...",
+            "htmlSnippet": "Feb 27, 2018 <b>...</b> NEW MERCH! http://amzn.to/annoyingorange \u25bb CHECK OUT MORE GAMING <br>\nVIDS: http://bit.ly/2CGlrO1 \u25bb SUBSCRIBE for DAILY VIDEOS:&nbsp;...",
+            "cacheId": "_lqPHa5CUq8J",
+            "formattedUrl": "https://www.youtube.com/watch?v=wafc-VO87Ow",
+            "htmlFormattedUrl": "https://www.youtube.com/watch?v=wafc-VO87Ow",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUErUvifrTfuEioicdXpimPgpkzrmUnzi2KWBTRo6hLP1PkN5QXcAbsvdA"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "title": "Good Pizza Great Pizza! [Annoying Orange Plays]",
+                        "theme-color": "#ff0000",
+                        "og:site_name": "YouTube",
+                        "og:url": "https://www.youtube.com/watch?v=wafc-VO87Ow",
+                        "og:title": "Good Pizza Great Pizza! [Annoying Orange Plays]",
+                        "og:image": "https://i.ytimg.com/vi/wafc-VO87Ow/maxresdefault.jpg",
+                        "og:description": "\ud83d\udea8 NEW MERCH! http://amzn.to/annoyingorange \ud83d\udea8 \u25ba CHECK OUT MORE GAMING VIDS: http://bit.ly/2CGlrO1 \u25ba SUBSCRIBE for DAILY VIDEOS: http://bit.ly/AOGaming \u25ba AO Ma...",
+                        "al:ios:app_store_id": "544007664",
+                        "al:ios:app_name": "YouTube",
+                        "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=wafc-VO87Ow&feature=applinks",
+                        "al:android:url": "vnd.youtube://www.youtube.com/watch?v=wafc-VO87Ow&feature=applinks",
+                        "al:android:app_name": "YouTube",
+                        "al:android:package": "com.google.android.youtube",
+                        "al:web:url": "https://www.youtube.com/watch?v=wafc-VO87Ow&feature=applinks",
+                        "og:type": "video.other",
+                        "og:video:url": "https://www.youtube.com/embed/wafc-VO87Ow",
+                        "og:video:secure_url": "https://www.youtube.com/embed/wafc-VO87Ow",
+                        "og:video:type": "text/html",
+                        "og:video:width": "1280",
+                        "og:video:height": "720",
+                        "og:video:tag": "annoying orange",
+                        "fb:app_id": "87741124305",
+                        "twitter:card": "player",
+                        "twitter:site": "@youtube",
+                        "twitter:url": "https://www.youtube.com/watch?v=wafc-VO87Ow",
+                        "twitter:title": "Good Pizza Great Pizza! [Annoying Orange Plays]",
+                        "twitter:description": "\ud83d\udea8 NEW MERCH! http://amzn.to/annoyingorange \ud83d\udea8 \u25ba CHECK OUT MORE GAMING VIDS: http://bit.ly/2CGlrO1 \u25ba SUBSCRIBE for DAILY VIDEOS: http://bit.ly/AOGaming \u25ba AO Ma..."
+                    }
+                ],
+                "videoobject": [
+                    {
+                        "url": "https://www.youtube.com/watch?v=wafc-VO87Ow",
+                        "name": "Good Pizza Great Pizza! [Annoying Orange Plays]",
+                        "description": "\ud83d\udea8 NEW MERCH! http://amzn.to/annoyingorange \ud83d\udea8 \u25ba CHECK OUT MORE GAMING VIDS: http://bit.ly/2CGlrO1 \u25ba SUBSCRIBE for DAILY VIDEOS: http://bit.ly/AOGaming \u25ba AO Ma...",
+                        "paid": "False",
+                        "channelid": "UC7tHXQXWImq_0I3PCQ8Udaw",
+                        "videoid": "wafc-VO87Ow",
+                        "duration": "PT11M5S",
+                        "unlisted": "False",
+                        "thumbnailurl": "https://i.ytimg.com/vi/wafc-VO87Ow/maxresdefault.jpg",
+                        "embedurl": "https://www.youtube.com/embed/wafc-VO87Ow",
+                        "playertype": "HTML5 Flash",
+                        "width": "1280",
+                        "height": "720",
+                        "isfamilyfriendly": "True",
+                        "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+                        "interactioncount": "1967929",
+                        "datepublished": "2018-02-27",
+                        "genre": "Gaming"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://i.ytimg.com/vi/wafc-VO87Ow/maxresdefault.jpg",
+                        "width": "1280",
+                        "height": "720"
+                    }
+                ],
+                "person": [
+                    {
+                        "url": "http://www.youtube.com/user/MidgetAppleAO"
+                    },
+                    {
+                        "url": "https://plus.google.com/100956886229677355276"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i.ytimg.com/vi/wafc-VO87Ow/maxresdefault.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Fire Artisan Pizza - Great Falls | Delivery Menu",
+            "htmlTitle": "Fire Artisan <b>Pizza</b> - <b>Great</b> Falls | Delivery Menu",
+            "link": "https://www.greatfalls.express/r/52/restaurants/delivery/Pizza/Fire-Artisan-Pizza-Great-Falls",
+            "displayLink": "www.greatfalls.express",
+            "snippet": "Fire Artisan Pizza is a restaurant featuring online Pizza food ordering to Great \nFalls, MT. Browse Menus, click your items, and order your meal.",
+            "htmlSnippet": "Fire Artisan <b>Pizza</b> is a restaurant featuring online <b>Pizza</b> food ordering to <b>Great</b> <br>\nFalls, MT. Browse Menus, click your items, and order your meal.",
+            "cacheId": "XxF6ZVKPW-0J",
+            "formattedUrl": "https://www.greatfalls.express/r/.../Pizza/Fire-Artisan-Pizza-Great-Falls",
+            "htmlFormattedUrl": "https://www.<b>great</b>falls.express/r/.../<b>Pizza</b>/Fire-Artisan-<b>Pizza</b>-<b>Great</b>-Falls",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "88",
+                        "height": "220",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCr4U4qQdJO4Odzgh6V6VqtSRY1OSk7UifRKXYxvwycG1zK2VHWAwNqg"
+                    }
+                ],
+                "restaurant": [
+                    {
+                        "menu": "Closed Now. Pre-Order BarS Lounge Supper Club American Montana style restaurant offering steaks, seafood & other American eats!",
+                        "name": "BarS Lounge Supper Club",
+                        "servescuisine": "American"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order Beef N Bone Steakhouse Steak Proudly serves Montana products. Excellent cuisine!",
+                        "name": "Beef N Bone Steakhouse",
+                        "servescuisine": "Steak"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order Beef O' Brady's American From burgers and wings to pizza, flat breads and wraps, there's something for everyone on the Beef 'O' Brady's menu.",
+                        "name": "Beef O' Brady's",
+                        "servescuisine": "American"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order Best Wok Chinese Best Wok is known for serving the freshest food to customers!",
+                        "name": "Best Wok",
+                        "servescuisine": "Chinese"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order Borries American A family operation since 1938 offering homemade spaghetti sauce, salad dressings and ravioli. Handcut steaks daily.",
+                        "name": "Borries",
+                        "servescuisine": "American"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order Boston's Restaurant & Sports Bar Bar & Grill With pizza, pasta, wings and more, and the freshest ingredients, Boston's gotcha covered.",
+                        "name": "Boston's Restaurant & Sports Bar",
+                        "servescuisine": "Bar & Grill"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order Buffalo Wild Wings Bar & Grill Buffalo Wild Wings is known for world famous wings and sauces as well as great sandwiches and wraps!",
+                        "name": "Buffalo Wild Wings",
+                        "servescuisine": "Bar & Grill"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order Cafe Rio Mexican Mexican Grill",
+                        "name": "Cafe Rio",
+                        "servescuisine": "Mexican"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order CHOPZ Deli Fresh, made to order sandwiches, salads, wraps, and burritos!",
+                        "name": "CHOPZ",
+                        "servescuisine": "Deli"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order Eli's Soup and Subs Sandwiches & Deli Homemade soups and subs!",
+                        "name": "Eli's Soup and Subs",
+                        "servescuisine": "Sandwiches & Deli"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order Godfather's Pizza Pizza Pizza pies piled high with fresh quality ingredients.",
+                        "name": "Godfather's Pizza",
+                        "servescuisine": "Pizza"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order Halftime Sports Bar American American menu includes breakfast, brunch, burgers, sandwiches, salads, slow cooked baby back pork ribs, and local Taco Treat favorites.",
+                        "name": "Halftime Sports Bar",
+                        "servescuisine": "American"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order Jah T'aime Jamacian A Jamaican restaurant serving authentic Jamaican cuisine, Jerk Chicken or Pork, Curry Chicken or Shrimp, Oxtails, Salmon & more! Delicious!",
+                        "name": "Jah T'aime",
+                        "servescuisine": "Jamacian"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order Jakers Bar and Grill Bar & Grill Jakers is a great place for surf 'n' turf, burgers & pasta.",
+                        "name": "Jakers Bar and Grill",
+                        "servescuisine": "Bar & Grill"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order MacKenzie River Pizza Pizza Pizzeria serving creative pies and sandwiches. Best pie from the BIG SKY!",
+                        "name": "MacKenzie River Pizza",
+                        "servescuisine": "Pizza"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order Panda Express Chinese Panda Express prepares American Chinese food fresh from the wok, like the signature Orange Chicken!",
+                        "name": "Panda Express",
+                        "servescuisine": "Chinese"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order Perkins American American restaurant chain that serves breakfast throughout the day.",
+                        "name": "Perkins",
+                        "servescuisine": "American"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order Rikki's Italian Pizzas, pastas, salads, sandwiches and sumptuous desserts in a unique and eclectic way!",
+                        "name": "Rikki's",
+                        "servescuisine": "Italian"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order Schultes 38th St. Store Coffe Coffee Shop Local family owned coffee house featuring the best deli in town serving a variety of delicious, fresh food!",
+                        "name": "Schultes 38th St. Store Coffe",
+                        "servescuisine": "Coffee Shop"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order Striz's Coffee Shop Coffee Shop Hot or Cold Coffee!",
+                        "name": "Striz's Coffee Shop",
+                        "servescuisine": "Coffee Shop"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order T's Cocina Mexican",
+                        "name": "T's Cocina",
+                        "servescuisine": "Mexican"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order Teriyaki Kitchen Japanese A family owned restaurant that serves teriyaki, sushi, tempura, yakisoba, udon and more!",
+                        "name": "Teriyaki Kitchen",
+                        "servescuisine": "Japanese"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order Teriyaki Madness Asian Fusion Big Bowls of Awesomeness!",
+                        "name": "Teriyaki Madness",
+                        "servescuisine": "Asian Fusion"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order The Cattlemen's Cut Steak Cattlemens Cut Supper Club knows how to create the best beef dishes in Great Falls using only the best cuts of USDA Choice Beef & Certified Angus!",
+                        "name": "The Cattlemen's Cut",
+                        "servescuisine": "Steak"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order 3D International Italian Family owned and operated since 1946. The menu includes steaks, seafood, Italian, Mongolian Grill, Prime Rib and a children's menu.",
+                        "name": "3D International",
+                        "servescuisine": "Italian"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order 5th Street Diner American Classic diner fare is served six days a week. Breakfast items are always made from scratch. From cinnamon rolls, hot cakes and old fashioned...",
+                        "name": "5th Street Diner",
+                        "servescuisine": "American"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order Big Bang Brick Oven Pizza Pizza Serving up pizza with the best ingredients! Try the Calzones, Breadsticks, Pastas, and mouthwatering Wings. You wont want to miss out on...",
+                        "name": "Big Bang Brick Oven Pizza",
+                        "servescuisine": "Pizza"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order Big Mouth BBQ 3rd St Barbeque",
+                        "name": "Big Mouth BBQ 3rd St",
+                        "servescuisine": "Barbeque"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order Big Horn Bar Grill Bar & Grill Yummy burgers, pizza, chicken and an array of delectable appetizers.",
+                        "name": "Big Horn Bar Grill",
+                        "servescuisine": "Bar & Grill"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order Charlie's Coffee House Coffee Shop",
+                        "name": "Charlie's Coffee House",
+                        "servescuisine": "Coffee Shop"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order Cody Bill's Steak",
+                        "name": "Cody Bill's",
+                        "servescuisine": "Steak"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order Fire Artisan Pizza Pizza Gourmet Pizza, Salads, Appetizers!",
+                        "name": "Fire Artisan Pizza",
+                        "servescuisine": "Pizza"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order Good Time Charlie's American Breakfast, Lunch and Dinner!",
+                        "name": "Good Time Charlie's",
+                        "servescuisine": "American"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order Great Harvest Bread Co Deli Delicious sandwiches on fresh, baked bread!",
+                        "name": "Great Harvest Bread Co",
+                        "servescuisine": "Deli"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order JJ's Bakery Deli JJ's Bakery offers homemade breads, sandwiches, paninis, , soups, salads!",
+                        "name": "JJ's Bakery",
+                        "servescuisine": "Deli"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order Maria's Mexican Restaurant Mexican",
+                        "name": "Maria's Mexican Restaurant",
+                        "servescuisine": "Mexican"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order The Burger Bunker American We always start with the best ingredients like fresh Certified Angus Beef, known for its exceptional flavor and tenderness, and top it off with...",
+                        "name": "The Burger Bunker",
+                        "servescuisine": "American"
+                    },
+                    {
+                        "menu": "Closed Now. Pre-Order The Kitchen Home Cookin Soups, Salads & Sandwiches. HomeMade and Delicious!!",
+                        "name": "The Kitchen",
+                        "servescuisine": "Home Cookin"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-mobile-web-app-capable": "yes",
+                        "apple-mobile-web-app-title": "Great Falls Food Express",
+                        "apple-itunes-app": "app-id=1219647733, app-argument=myURL",
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0, minimal-ui",
+                        "og:image": "https://www.greatfalls.express/png/v_765_i52.png",
+                        "title": "Fire Artisan Pizza -  | Delivery Menu",
+                        "abstract": "Fire Artisan Pizza provides online restaurant ordering for take-out or delivery to Great Falls, MT",
+                        "distribution": "Global",
+                        "language": "English",
+                        "site_name": "About Fire Artisan Pizza",
+                        "short_title": "About Fire Artisan Pizza",
+                        "copyright": "Copyright 2002 - 2018 Data Dreamers LLC. All rights reserved.",
+                        "author": "Great Falls Food Express",
+                        "og:url": "https://www.greatfalls.express/",
+                        "og:title": "Great Falls Food Express - Online ordering, takeout, and restaurant delivery to Great Falls , MT",
+                        "og:description": "www.greatfalls.express is a restaurant delivery service featuring online food ordering to Great Falls, MT. Browse Menus, click your items, and order your meal."
+                    }
+                ],
+                "breadcrumb": [
+                    {
+                        "url": "Restaurant Delivery Great Falls",
+                        "title": "Restaurant Delivery Great Falls"
+                    },
+                    {
+                        "url": "Fire Artisan Pizza",
+                        "title": "Fire Artisan Pizza"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.greatfalls.express/png/v_765_i52.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "DOLA Pizzeria Napoletana | Great Barrington, MA",
+            "htmlTitle": "DOLA <b>Pizzeria</b> Napoletana | <b>Great</b> Barrington, MA",
+            "link": "http://www.dolapizza.com/",
+            "displayLink": "www.dolapizza.com",
+            "snippet": "$2 / ea Sopressata (Italian Salami), Proscuitto di Parma, Spicy Italian Sausage. \nWe do not recommend more than 3-4 toppings per pizza as it's a thin, delicate\u00a0...",
+            "htmlSnippet": "$2 / ea Sopressata (Italian Salami), Proscuitto di Parma, Spicy Italian Sausage. <br>\nWe do not recommend more than 3-4 toppings per <b>pizza</b> as it&#39;s a thin, delicate&nbsp;...",
+            "cacheId": "vydAyEdR0dkJ",
+            "formattedUrl": "www.dolapizza.com/",
+            "htmlFormattedUrl": "www.dola<b>pizza</b>.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "267",
+                        "height": "189",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmrQALlb5rmuJDUx2AcbKzXwlNTexa3S0HyDNm1dChiyX54Wq30-GBIkVm"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:site_name": "DOLA",
+                        "og:title": "DOLA",
+                        "og:url": "http://www.dolapizza.com/",
+                        "og:type": "website",
+                        "og:image": "http://static1.squarespace.com/static/55d49c94e4b0d679e1510191/t/5b85dc6f21c67c84b76cbc45/1535499378975/Screen+Shot+2018-08-28+at+7.35.44+PM.png?format=1500w",
+                        "og:image:width": "739",
+                        "og:image:height": "522",
+                        "twitter:title": "DOLA",
+                        "twitter:image": "http://static1.squarespace.com/static/55d49c94e4b0d679e1510191/t/5b85dc6f21c67c84b76cbc45/1535499378975/Screen+Shot+2018-08-28+at+7.35.44+PM.png?format=1500w",
+                        "twitter:url": "http://www.dolapizza.com/",
+                        "twitter:card": "summary"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "name": "DOLA",
+                        "url": "http://www.dolapizza.com/",
+                        "thumbnailurl": "http://static1.squarespace.com/static/55d49c94e4b0d679e1510191/t/5b85dc6f21c67c84b76cbc45/1535499378975/Screen+Shot+2018-08-28+at+7.35.44+PM.png?format=1500w",
+                        "image": "http://static1.squarespace.com/static/55d49c94e4b0d679e1510191/t/5b85dc6f21c67c84b76cbc45/1535499378975/Screen+Shot+2018-08-28+at+7.35.44+PM.png?format=1500w"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://static1.squarespace.com/static/55d49c94e4b0d679e1510191/t/5b85dc6f21c67c84b76cbc45/1535499378975/Screen+Shot+2018-08-28+at+7.35.44+PM.png?format=1500w"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Northwoods Pizza Company | Family Resort Dining | GreatWolf.com",
+            "htmlTitle": "Northwoods <b>Pizza</b> Company | Family Resort Dining | GreatWolf.com",
+            "link": "https://www.greatwolf.com/niagara/dining-shopping/dining/northwoods-pizza-company",
+            "displayLink": "www.greatwolf.com",
+            "snippet": "When that pizza craving hits, head to Northwoods Pizza Company right here at \nthe Niagara Falls Great Wolf Resort and enjoy all your favorites made fresh.",
+            "htmlSnippet": "When that <b>pizza</b> craving hits, head to Northwoods <b>Pizza</b> Company right here at <br>\nthe Niagara Falls <b>Great</b> Wolf Resort and enjoy all your favorites made fresh.",
+            "cacheId": "fO2wugA70v0J",
+            "formattedUrl": "https://www.greatwolf.com/niagara/.../northwoods-pizza-company",
+            "htmlFormattedUrl": "https://www.<b>great</b>wolf.com/niagara/.../northwoods-<b>pizza</b>-company",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "299",
+                        "height": "169",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRD2cVMnGdPlaN3mjcPIgaVVU5Uh0oSj3FfEWobMN_X6L1D9zUVvB58UQg"
+                    }
+                ],
+                "rating": [
+                    {
+                        "bestrating": "5",
+                        "ratingvalue": "0",
+                        "worstrating": "1"
+                    }
+                ],
+                "postaladdress": [
+                    {
+                        "streetaddress": "3950 Victoria Avenue",
+                        "addresslocality": "Niagara Falls",
+                        "addressregion": "CA",
+                        "postalcode": "L2E 7M8"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "x-yottaa-metrics": "2521cc028a7a/[8,-,-]",
+                        "x-yottaa-optimizations": "ob/1000000000100001100 si/2511cc02334d-1541541183-339140078 tts/1545462142294 ti/5b27c1ed2bb0ac3618d7ccbe ai/5b27c1ed2bb0ac3618d7cc55",
+                        "profile.id": "5b27c1ed2bb0ac3618d7cc55",
+                        "tod.id": "5b27c1ed2bb0ac3618d7ccbe",
+                        "profile.name": "Default Profile",
+                        "resource.version": "v~4b.61.0.0",
+                        "adn.id": "5b27c1ed2bb0ac3618d7cc55",
+                        "shard.size": "0",
+                        "cdn.hostname": "//cdn-us-ec.yottaa.net",
+                        "mobileoptimized": "width",
+                        "handheldfriendly": "true",
+                        "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "Item": [
+                    {
+                        "title": "Northwoods Pizza Company",
+                        "num_replies": "0",
+                        "encoded": "Everybody loves pizza, and take-out pizza doesn\u2019t get any better than this! Hand-stretched pizza, savory Italian and Chicken Parmesan sandwiches, garlic cheese bread and freshly made salads..."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://d5y2y5rl4e57i.cloudfront.net/styles/t3_banner/s3/northwoods-pizza-company-2-img2968-1200x500.jpg?itok=MwWX1nEg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Papa John's Pizza Great Falls Plz: Pizza, Breadsticks, Wings in ...",
+            "htmlTitle": "Papa John&#39;s <b>Pizza Great</b> Falls Plz: <b>Pizza</b>, Breadsticks, Wings in ...",
+            "link": "https://locations.papajohns.com/united-states/va/20165/sterling/20789-great-falls-plaza",
+            "displayLink": "locations.papajohns.com",
+            "snippet": "Contact your local Papa John's Pizza at 20789 Great Falls Plaza in Sterling, VA \nto order pizza, breadsticks, and wings for delivery or carryout near you.",
+            "htmlSnippet": "Contact your local Papa John&#39;s <b>Pizza</b> at 20789 <b>Great</b> Falls Plaza in Sterling, VA <br>\nto order <b>pizza</b>, breadsticks, and wings for delivery or carryout near you.",
+            "cacheId": "ipxA76Jxh4kJ",
+            "formattedUrl": "https://locations.papajohns.com/united.../20789-great-falls-plaza",
+            "htmlFormattedUrl": "https://locations.papajohns.com/united.../20789-<b>great</b>-falls-plaza",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqxna3tEegsMyPtp022X9gOSCLPDYFFzh5ut4gPN-QaZC-ZNhxglRmzXW0"
+                    }
+                ],
+                "fastfoodrestaurant": [
+                    {
+                        "url": "https://locations.papajohns.com/united-states/va/20165/sterling/20789-great-falls-plaza",
+                        "image": "https://dynl.mktgcdn.com/p/2hrlT2Zf37Y26futeN8-GbzY5Jx0TcSVQ-MSmtpCYJE/499x499.png",
+                        "servescuisine": "Pizza",
+                        "pricerange": "$",
+                        "name": "Papa John's Pizza Great Falls Plz",
+                        "telephone": "(703) 421-7272",
+                        "openinghours": "Th 10:00-23:00",
+                        "description": "For Papa John's Pizza in Sterling, VA, the secret to success is much like the secret to making a better pizza - the more you put into it, the more you get out of it. Whether it's our signature..."
+                    }
+                ],
+                "product": [
+                    {
+                        "image": "https://dynl.mktgcdn.com/p/XBuqESS_I0itzkoFeELnPHOEjdWC_I1dIXWhQikLpNI/600x435.jpg",
+                        "name": "XL 2-Topping",
+                        "description": "10 slices of our extra large pizza with your 2 favorite toppings.",
+                        "url": "Order Now"
+                    },
+                    {
+                        "image": "https://dynl.mktgcdn.com/p/8E2ZiO6TsgEFplmz7c8CWEErVO4Het7u0nDy2AaJwx8/600x435.jpg",
+                        "name": "Create Your Own",
+                        "description": "Select your size, crust and favorite toppings.",
+                        "url": "Order Now"
+                    },
+                    {
+                        "image": "https://dynl.mktgcdn.com/p/rDP1QproZadH8mODM0ZJ42juHjl3KhQIuMLOl-xD8d4/600x435.jpg",
+                        "name": "Cheesesticks",
+                        "description": "Fresh dough covered in garlic sauce and topped with mozzarella",
+                        "url": "Order Now"
+                    }
+                ],
+                "postaladdress": [
+                    {
+                        "addresslocality": "Sterling",
+                        "streetaddress": "20789 Great Falls Plaza",
+                        "addressregion": "VA",
+                        "postalcode": "20165",
+                        "addresscountry": "US"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "format-detection": "telephone=no",
+                        "og:title": "Papa John's Pizza Great Falls Plz: Pizza, Breadsticks, Wings in Sterling, VA",
+                        "og:description": "Contact your local Papa John's Pizza at 20789 Great Falls Plaza in Sterling, VA to order pizza, breadsticks, and wings for delivery or carryout near you.",
+                        "og:image": "https://dynl.mktgcdn.com/p/2hrlT2Zf37Y26futeN8-GbzY5Jx0TcSVQ-MSmtpCYJE/499x499.png",
+                        "og:type": "website",
+                        "og:url": "https://locations.papajohns.com/united-states/va/20165/sterling/20789-great-falls-plaza",
+                        "twitter:card": "summary",
+                        "geo.position": "39.04070335761185;-77.35818196291251",
+                        "geo.placename": "Sterling,Virginia",
+                        "geo.region": "United States-VA"
+                    }
+                ],
+                "geocoordinates": [
+                    {
+                        "latitude": "39.04070335761185",
+                        "longitude": "-77.35818196291251"
+                    },
+                    {
+                        "latitude": "39.04070335761185",
+                        "longitude": "-77.35818196291251"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "https://locations.papajohns.com/index.html",
+                        "name": "All Stores",
+                        "position": "1"
+                    },
+                    {
+                        "item": "https://locations.papajohns.com/united-states",
+                        "name": "US",
+                        "position": "2"
+                    },
+                    {
+                        "item": "https://locations.papajohns.com/united-states/va",
+                        "name": "VA",
+                        "position": "3"
+                    },
+                    {
+                        "item": "https://locations.papajohns.com/united-states/va/sterling",
+                        "name": "Sterling",
+                        "position": "4"
+                    }
+                ],
+                "place": [
+                    {
+                        "name": "Papa John's Pizza Great Falls Plz",
+                        "telephone": "(703) 421-7272",
+                        "hasmap": "https://maps.google.com/maps?cid=4353179747027965651"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://dynl.mktgcdn.com/p/2hrlT2Zf37Y26futeN8-GbzY5Jx0TcSVQ-MSmtpCYJE/499x499.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Great Alaska Pizza Company",
+            "htmlTitle": "<b>Great</b> Alaska <b>Pizza</b> Company",
+            "link": "http://www.greatalaskapizzacompany.com/",
+            "displayLink": "www.greatalaskapizzacompany.com",
+            "snippet": "\u201cGreat Pizza... Great Ingredients.\u201d ... Whether you are looking for a personal pizza \nfor yourself or you need 100 large pizzas for an event or party. You will find the\u00a0...",
+            "htmlSnippet": "\u201c<b>Great Pizza</b>... <b>Great</b> Ingredients.\u201d ... Whether you are looking for a personal <b>pizza</b> <br>\nfor yourself or you need 100 large <b>pizzas</b> for an event or party. You will find the&nbsp;...",
+            "cacheId": "y-_sGTNJK_UJ",
+            "formattedUrl": "www.greatalaskapizzacompany.com/",
+            "htmlFormattedUrl": "www.<b>great</b>alaska<b>pizza</b>company.com/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:type": "website",
+                        "og:title": "Great Alaska Pizza Company - Great Alaska Pizza Company",
+                        "og:url": "http://www.greatalaskapizzacompany.com/",
+                        "og:site_name": "Great Alaska Pizza Company",
+                        "twitter:card": "summary",
+                        "twitter:title": "Great Alaska Pizza Company - Great Alaska Pizza Company",
+                        "msapplication-tileimage": "http://www.greatalaskapizzacompany.com/wp-content/uploads/2016/06/cropped-favicon-270x270.png"
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "url": "Choose Your Location",
+                        "name": "Choose Your Location"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "text": "We produce Alaska\u2019s best pizza at the best value. Whether you are looking for a personal pizza for yourself or you need 100 large pizzas for an event or party. You will find the best value..."
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Vivaldis Pizza Great Barrington - Home - Great Barrington ...",
+            "htmlTitle": "Vivaldis <b>Pizza Great</b> Barrington - Home - <b>Great</b> Barrington ...",
+            "link": "https://www.facebook.com/vivaldispizzeria/",
+            "displayLink": "www.facebook.com",
+            "snippet": "Vivaldis Pizza Great Barrington - 325 stockbridge rd, Great Barrington, \nMassachusetts 01230 - Rated 4.7 based on 30 Reviews \"I've ordered and \nbrought...",
+            "htmlSnippet": "Vivaldis <b>Pizza Great</b> Barrington - 325 stockbridge rd, <b>Great</b> Barrington, <br>\nMassachusetts 01230 - Rated 4.7 based on 30 Reviews &quot;I&#39;ve ordered and <br>\nbrought...",
+            "formattedUrl": "https://www.facebook.com/vivaldispizzeria/",
+            "htmlFormattedUrl": "https://www.facebook.com/vivaldis<b>pizzeria</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSf5GQqCxmLyNKViePWidjV6a6In4uRbY9z_TsmvQ8PMe3FeV18jkTsWSfi"
+                    }
+                ],
+                "aggregaterating": [
+                    {
+                        "ratingvalue": "4.7",
+                        "ratingcount": "30"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "default",
+                        "al:android:app_name": "Facebook",
+                        "al:android:package": "com.facebook.katana",
+                        "al:android:url": "fb://page/180830899374460?referrer=app_link",
+                        "al:ios:app_name": "Facebook",
+                        "al:ios:app_store_id": "284882215",
+                        "al:ios:url": "fb://page/?id=180830899374460",
+                        "og:title": "Vivaldis Pizza Great Barrington",
+                        "og:description": "Vivaldis Pizza Great Barrington, Great Barrington, Massachusetts. 435 likes. Pizza Place",
+                        "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=180830899374460",
+                        "og:url": "https://www.facebook.com/vivaldispizzeria/"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Places",
+                        "name": "Places",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Great Barrington, Massachusetts",
+                        "name": "Great Barrington, Massachusetts",
+                        "position": "2"
+                    },
+                    {
+                        "item": "Pizza Place",
+                        "name": "Pizza Place",
+                        "position": "3"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=180830899374460"
+                    }
+                ],
+                "localbusiness": [
+                    {
+                        "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=180830899374460"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,838 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - pizza bad",
+                "totalResults": "119000000",
+                "searchTerms": "pizza bad",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "010300063145966968924:s_c2a7abb_e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - pizza bad",
+                "totalResults": "119000000",
+                "searchTerms": "pizza bad",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "010300063145966968924:s_c2a7abb_e"
+            }
+        ]
+    },
+    "context": {
+        "title": "test"
+    },
+    "searchInformation": {
+        "searchTime": 0.489461,
+        "formattedSearchTime": "0.49",
+        "totalResults": "119000000",
+        "formattedTotalResults": "119,000,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Bad Foods That Are Actually Good for You - Health Benefits of Pizza ...",
+            "htmlTitle": "<b>Bad</b> Foods That Are Actually Good for You - Health Benefits of <b>Pizza</b> ...",
+            "link": "https://www.goodhousekeeping.com/health/diet-nutrition/g1662/healthy-unhealthy-foods/",
+            "displayLink": "www.goodhousekeeping.com",
+            "snippet": "Nov 25, 2014 ... These foods often get a bad rap but you can make them work in a ... There are \ntwo ways to eat pizza: The unhealthy way (with extra meat like\u00a0...",
+            "htmlSnippet": "Nov 25, 2014 <b>...</b> These foods often get a <b>bad</b> rap but you can make them work in a ... There are <br>\ntwo ways to eat <b>pizza</b>: The unhealthy way (with extra meat like&nbsp;...",
+            "cacheId": "CuX317H3fnMJ",
+            "formattedUrl": "https://www.goodhousekeeping.com/.../healthy-unhealthy-foods/",
+            "htmlFormattedUrl": "https://www.goodhousekeeping.com/.../healthy-unhealthy-foods/",
+            "pagemap": {
+                "thumbnail": [
+                    {
+                        "src": "https://hips.hearstapps.com/ghk.h-cdn.co/assets/cm/15/11/768x768/54ff93e612be1-healthy-unhealthy-food-pizza-xln.jpg?resize=320:*"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "x-ua-compatible": "IE=edge,chrome=1",
+                        "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no",
+                        "msapplication-tap-highlight": "no",
+                        "theme-color": "#EC008C",
+                        "og:type": "article",
+                        "fb:app_id": "119423528138309",
+                        "article:publisher": "https://www.facebook.com/GOODHOUSEKEEPING",
+                        "fb:pages": "40241492597",
+                        "twitter:site": "@goodhousemag",
+                        "og:site_name": "Good Housekeeping",
+                        "title": "Bad Foods That Are Actually Good for You - Health Benefits of Pizza and Ice Cream",
+                        "og:title": "7 Bad Foods That Are Actually Good for You",
+                        "og:description": "They get a bad rap but you can make them work in a healthy diet.",
+                        "article:modified_time": "2018-03-21 02:21:22",
+                        "auto-publish": "evergreen",
+                        "twitter:card": "summary_large_image",
+                        "og:url": "https://www.goodhousekeeping.com/health/nutrition/healthy-unhealthy-foods",
+                        "og:image": "https://hips.hearstapps.com/ghk.h-cdn.co/assets/cm/15/11/768x384/54ff93e612be1-healthy-unhealthy-food-pizza-xln.jpg?resize=1200:*",
+                        "og:image:width": "1200",
+                        "og:image:height": "600",
+                        "twitter:image": "https://hips.hearstapps.com/ghk.h-cdn.co/assets/cm/15/11/768x384/54ff93e612be1-healthy-unhealthy-food-pizza-xln.jpg?resize=640:*",
+                        "thumbnail": "https://hips.hearstapps.com/ghk.h-cdn.co/assets/cm/15/11/768x768/54ff93e612be1-healthy-unhealthy-food-pizza-xln.jpg?resize=320:*",
+                        "article:published_time": "2014-11-25 01:05:00",
+                        "article:section": "Diet & Nutrition",
+                        "sailthru.contenttype": "gallery",
+                        "sailthru.tags": "Health,health,diet-nutrition",
+                        "sailthru.date": "2014-11-25T13:05:00Z",
+                        "sailthru.image.full": "https://hips.hearstapps.com/ghk.h-cdn.co/assets/cm/15/11/768x384/54ff93e612be1-healthy-unhealthy-food-pizza-xln.jpg",
+                        "sailthru.image.thumb": "https://hips.hearstapps.com/ghk.h-cdn.co/assets/cm/15/11/768x768/54ff93e612be1-healthy-unhealthy-food-pizza-xln.jpg",
+                        "sailthru.socialtitle": "7 Bad Foods That Are Actually Good for You",
+                        "sailthru.excerpt": "They get a bad rap but you can make them work in a healthy diet."
+                    }
+                ],
+                "hcard": [
+                    {
+                        "fn": "Jaclyn London, MS, RD, CDN, Good Housekeeping Institute",
+                        "title": "Director, Nutrition Lab",
+                        "url": "https://www.goodhousekeeping.com/author/11834/jaclyn-london-ms-rd-cdn/"
+                    }
+                ],
+                "person": [
+                    {
+                        "role": "Director, Nutrition Lab"
+                    },
+                    {
+                        "url": "Jaclyn London, MS, RD, CDN, Good Housekeeping Institute",
+                        "name": "Jaclyn London, MS, RD, CDN, Good Housekeeping Institute",
+                        "jobtitle": "Director, Nutrition Lab",
+                        "description": "A registered dietitian with a Bachelor of Arts degree from Northwestern University and a Master of Science degree in Clinical Nutrition from New York University, Jaclyn \u201cJackie\u201d London..."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://hips.hearstapps.com/ghk.h-cdn.co/assets/cm/15/11/768x768/54ff93e612be1-healthy-unhealthy-food-pizza-xln.jpg?resize=320:*",
+                        "type": "1",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Pizza Hut 790 N Van Dyke Rd: Carryout, Delivery, Pizza & Wings in ...",
+            "htmlTitle": "<b>Pizza</b> Hut 790 N Van Dyke Rd: Carryout, Delivery, <b>Pizza</b> &amp; Wings in ...",
+            "link": "https://locations.pizzahut.com/mi/bad-axe/790-n-van-dyke-rd",
+            "displayLink": "locations.pizzahut.com",
+            "snippet": "Visit your local Pizza Hut at 790 N Van Dyke Rd in Bad Axe, MI to find hot and \nfresh pizza, wings, pasta and more! Order carryout or delivery for quick service.",
+            "htmlSnippet": "Visit your local <b>Pizza</b> Hut at 790 N Van Dyke Rd in <b>Bad</b> Axe, MI to find hot and <br>\nfresh <b>pizza</b>, wings, pasta and more! Order carryout or delivery for quick service.",
+            "cacheId": "RbfFNAiYZToJ",
+            "formattedUrl": "https://locations.pizzahut.com/mi/bad-axe/790-n-van-dyke-rd",
+            "htmlFormattedUrl": "https://locations.<b>pizza</b>hut.com/mi/<b>bad</b>-axe/790-n-van-dyke-rd",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLdfp_7tSn6NpNeITZlQktdX1yqt2trpE-0UY8Yke8vvQI4MhkviVBigM"
+                    }
+                ],
+                "fastfoodrestaurant": [
+                    {
+                        "url": "https://locations.pizzahut.com/mi/bad-axe/790-n-van-dyke-rd",
+                        "image": "https://dynl.mktgcdn.com/p/iCIT-XSzODzLeuDcnssobB0HtTiC8pgk3gJIAf86gW8/1.0000/240x240.png",
+                        "name": "Pizza Hut 790 N Van Dyke Rd",
+                        "pricerange": "$",
+                        "servescuisine": "Pizza",
+                        "telephone": "(989) 269-2291",
+                        "openinghours": "Mo 11:00-22:00",
+                        "description": "There\u2019s nothing cookie-cutter about your local Bad Axe, Pizza Hut. Not our pizzas. Not our people. And definitely not the way we live life. Around here, we don\u2019t settle for anything less..."
+                    }
+                ],
+                "postaladdress": [
+                    {
+                        "addresslocality": "Bad Axe",
+                        "streetaddress": "790 N Van Dyke Rd",
+                        "addressregion": "MI",
+                        "postalcode": "48413",
+                        "addresscountry": "US"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "format-detection": "telephone=no",
+                        "msapplication-square70x70logo": "../../permanent-b0b701/assets/images/favicons/locations.pizzahut.com/windows-tile-70x70.47d88931.png",
+                        "msapplication-square150x150logo": "../../permanent-b0b701/assets/images/favicons/locations.pizzahut.com/windows-tile-150x150.e023c104.png",
+                        "msapplication-square310x310logo": "../../permanent-b0b701/assets/images/favicons/locations.pizzahut.com/windows-tile-310x310.9583f9dd.png",
+                        "msapplication-tileimage": "../../permanent-b0b701/assets/images/favicons/locations.pizzahut.com/windows-tile-144x144.fcaede39.png",
+                        "og:title": "Pizza Hut 790 N Van Dyke Rd: Carryout, Delivery, Pizza & Wings in Bad Axe, MI",
+                        "og:description": "Visit your local Pizza Hut at 790 N Van Dyke Rd in Bad Axe, MI to find hot and fresh pizza, wings, pasta and more! Order carryout or delivery for quick service.",
+                        "og:image": "https://dynl.mktgcdn.com/p/iCIT-XSzODzLeuDcnssobB0HtTiC8pgk3gJIAf86gW8/1.0000/240x240.png",
+                        "og:type": "website",
+                        "og:url": "https://locations.pizzahut.com/mi/bad-axe/790-n-van-dyke-rd",
+                        "twitter:card": "summary",
+                        "geo.position": "43.81411703448053;-83.00017207860947",
+                        "geo.placename": "Bad Axe,Michigan",
+                        "geo.region": "United States-MI"
+                    }
+                ],
+                "geocoordinates": [
+                    {
+                        "latitude": "43.81411703448053",
+                        "longitude": "-83.00017207860947"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "https://locations.pizzahut.com/index.html",
+                        "name": "All Stores",
+                        "position": "1"
+                    },
+                    {
+                        "item": "https://locations.pizzahut.com/mi",
+                        "name": "MI",
+                        "position": "2"
+                    },
+                    {
+                        "item": "https://locations.pizzahut.com/mi/bad-axe",
+                        "name": "Bad Axe",
+                        "position": "3"
+                    }
+                ],
+                "offer": [
+                    {
+                        "name": "Hut Rewards \u2122"
+                    },
+                    {
+                        "name": "Carryout"
+                    },
+                    {
+                        "name": "Delivery"
+                    },
+                    {
+                        "name": "Wingstreet \u00ae Wings"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://dynl.mktgcdn.com/p/iCIT-XSzODzLeuDcnssobB0HtTiC8pgk3gJIAf86gW8/1.0000/240x240.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Is pizza healthy? - CNN",
+            "htmlTitle": "Is <b>pizza</b> healthy? - CNN",
+            "link": "https://www.cnn.com/2017/05/05/health/pizza-healthy-food-drayer/index.html",
+            "displayLink": "www.cnn.com",
+            "snippet": "May 5, 2017 ... Depending on the type of crust, the amount of cheese and the toppings used, \npizza can rank anywhere from nutritionally decent to a diet\u00a0...",
+            "htmlSnippet": "May 5, 2017 <b>...</b> Depending on the type of crust, the amount of cheese and the toppings used, <br>\n<b>pizza</b> can rank anywhere from nutritionally decent to a diet&nbsp;...",
+            "formattedUrl": "https://www.cnn.com/2017/05/05/health/pizza-healthy-food.../index.html",
+            "htmlFormattedUrl": "https://www.cnn.com/2017/05/05/health/<b>pizza</b>-healthy-food.../index.html",
+            "pagemap": {
+                "thumbnail": [
+                    {
+                        "src": "https://cdn.cnn.com/cnnnext/dam/assets/170407162621-naples-pizza-super-tease.jpg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+                        "section": "health",
+                        "referrer": "unsafe-url",
+                        "og:pubdate": "2017-05-05T07:41:58Z",
+                        "pubdate": "2017-05-05T07:41:58Z",
+                        "lastmod": "2017-05-05T09:56:09Z",
+                        "og:url": "https://www.cnn.com/2017/05/05/health/pizza-healthy-food-drayer/index.html",
+                        "author": "Lisa Drayer, CNN",
+                        "og:title": "Is pizza healthy?",
+                        "twitter:title": "Is pizza healthy?",
+                        "og:description": "The popular meal option delivers calcium and disease-fighting lycopene, but the devil is in the topping details.",
+                        "twitter:description": "The popular meal option delivers calcium and disease-fighting lycopene, but the devil is in the topping details.",
+                        "og:site_name": "CNN",
+                        "twitter:card": "summary_large_image",
+                        "og:type": "article",
+                        "og:image": "https://cdn.cnn.com/cnnnext/dam/assets/170407162621-naples-pizza-super-tease.jpg",
+                        "og:image:width": "1100",
+                        "og:image:height": "619",
+                        "thumbnail": "https://cdn.cnn.com/cnnnext/dam/assets/170407162621-naples-pizza-super-tease.jpg",
+                        "twitter:image": "https://cdn.cnn.com/cnnnext/dam/assets/170407162621-naples-pizza-super-tease.jpg",
+                        "vr:canonical": "https://www.cnn.com/2017/05/05/health/pizza-healthy-food-drayer/index.html",
+                        "fb:app_id": "80401312489",
+                        "fb:pages": "5550296508,18793419640",
+                        "template-top": "health,art-img",
+                        "theme-color": "#000000"
+                    }
+                ],
+                "newsarticle": [
+                    {
+                        "ispartof": "health",
+                        "articlesection": "health",
+                        "datecreated": "2017-05-05T07:41:58Z",
+                        "datepublished": "2017-05-05T07:41:58Z",
+                        "datemodified": "2017-05-05T09:56:09Z",
+                        "url": "https://www.cnn.com/2017/05/05/health/pizza-healthy-food-drayer/index.html",
+                        "author": "Lisa Drayer, CNN",
+                        "headline": "Is pizza healthy? - CNN",
+                        "description": "The popular meal option delivers calcium and disease-fighting lycopene, but the devil is in the topping details.",
+                        "keywords": "health, Is pizza healthy? - CNN",
+                        "image": "https://cdn.cnn.com/cnnnext/dam/assets/170407162621-naples-pizza-super-tease.jpg",
+                        "thumbnailurl": "https://cdn.cnn.com/cnnnext/dam/assets/170407162621-naples-pizza-super-tease.jpg",
+                        "alternativeheadline": "Is pizza healthy?",
+                        "articlebody": "Story highlightsPizza offers calcium from cheese and disease-fighting lycopene from tomatoesPepperoni, sausage and extra cheese can boost a pizza's saturated fat, sodium and calories (CNN)Pizza..."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn.cnn.com/cnnnext/dam/assets/170407162621-naples-pizza-super-tease.jpg",
+                        "type": "1",
+                        "width": "299",
+                        "height": "168"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Why Pizza is EXTREMELY Unhealthy ! | Health tips | Boldsky ...",
+            "htmlTitle": "Why <b>Pizza</b> is EXTREMELY Unhealthy ! | Health tips | Boldsky ...",
+            "link": "https://www.youtube.com/watch?v=ImSMLSSSlXE",
+            "displayLink": "www.youtube.com",
+            "snippet": "Jun 29, 2017 ... Pizza is the best gift to your tongue but a bad substance to your health! If you are \nhealthy, eating a slice once a month may not kill you but if you\u00a0...",
+            "htmlSnippet": "Jun 29, 2017 <b>...</b> <b>Pizza</b> is the best gift to your tongue but a <b>bad</b> substance to your health! If you are <br>\nhealthy, eating a slice once a month may not kill you but if you&nbsp;...",
+            "cacheId": "K82D99suUEYJ",
+            "formattedUrl": "https://www.youtube.com/watch?v=ImSMLSSSlXE",
+            "htmlFormattedUrl": "https://www.youtube.com/watch?v=ImSMLSSSlXE",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSc99DXvaE6eFaAruV4ZyPMBbaZPRVJVDga7y7RDpYu5dNtUFaUqazUtcU"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "title": "Why Pizza is EXTREMELY Unhealthy ! | Health tips | Boldsky",
+                        "theme-color": "#ff0000",
+                        "og:site_name": "YouTube",
+                        "og:url": "https://www.youtube.com/watch?v=ImSMLSSSlXE",
+                        "og:title": "Why Pizza is EXTREMELY Unhealthy ! | Health tips | Boldsky",
+                        "og:image": "https://i.ytimg.com/vi/ImSMLSSSlXE/maxresdefault.jpg",
+                        "og:description": "Pizza is the best gift to your tongue but a bad substance to your health! If you are healthy, eating a slice once a month may not kill you but if you make it...",
+                        "al:ios:app_store_id": "544007664",
+                        "al:ios:app_name": "YouTube",
+                        "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=ImSMLSSSlXE&feature=applinks",
+                        "al:android:url": "vnd.youtube://www.youtube.com/watch?v=ImSMLSSSlXE&feature=applinks",
+                        "al:android:app_name": "YouTube",
+                        "al:android:package": "com.google.android.youtube",
+                        "al:web:url": "https://www.youtube.com/watch?v=ImSMLSSSlXE&feature=applinks",
+                        "og:type": "video.other",
+                        "og:video:url": "https://www.youtube.com/embed/ImSMLSSSlXE",
+                        "og:video:secure_url": "https://www.youtube.com/embed/ImSMLSSSlXE",
+                        "og:video:type": "text/html",
+                        "og:video:width": "640",
+                        "og:video:height": "360",
+                        "og:video:tag": "Pizza",
+                        "fb:app_id": "87741124305",
+                        "twitter:card": "player",
+                        "twitter:site": "@youtube",
+                        "twitter:url": "https://www.youtube.com/watch?v=ImSMLSSSlXE",
+                        "twitter:title": "Why Pizza is EXTREMELY Unhealthy ! | Health tips | Boldsky",
+                        "twitter:description": "Pizza is the best gift to your tongue but a bad substance to your health! If you are healthy, eating a slice once a month may not kill you but if you make it...",
+                        "twitter:image": "https://i.ytimg.com/vi/ImSMLSSSlXE/maxresdefault.jpg",
+                        "twitter:app:name:iphone": "YouTube"
+                    }
+                ],
+                "videoobject": [
+                    {
+                        "url": "https://www.youtube.com/watch?v=ImSMLSSSlXE",
+                        "name": "Why Pizza is EXTREMELY Unhealthy ! | Health tips | Boldsky",
+                        "description": "Pizza is the best gift to your tongue but a bad substance to your health! If you are healthy, eating a slice once a month may not kill you but if you make it...",
+                        "paid": "False",
+                        "channelid": "UCp0PDmU9L_rqiD4nDH-P2Tg",
+                        "videoid": "ImSMLSSSlXE",
+                        "duration": "PT2M33S",
+                        "unlisted": "False",
+                        "thumbnailurl": "https://i.ytimg.com/vi/ImSMLSSSlXE/maxresdefault.jpg",
+                        "embedurl": "https://www.youtube.com/embed/ImSMLSSSlXE",
+                        "playertype": "HTML5 Flash",
+                        "width": "640",
+                        "height": "360",
+                        "isfamilyfriendly": "True",
+                        "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+                        "interactioncount": "7918",
+                        "datepublished": "2017-06-29",
+                        "genre": "Howto & Style"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://i.ytimg.com/vi/ImSMLSSSlXE/maxresdefault.jpg",
+                        "width": "1280",
+                        "height": "720"
+                    }
+                ],
+                "person": [
+                    {
+                        "url": "http://www.youtube.com/channel/UCp0PDmU9L_rqiD4nDH-P2Tg"
+                    },
+                    {
+                        "url": "https://plus.google.com/101367024219165721700"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i.ytimg.com/vi/ImSMLSSSlXE/maxresdefault.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Papa John's sales are down because of bad pizza, not the NFL",
+            "htmlTitle": "Papa John&#39;s sales are down because of <b>bad pizza</b>, not the NFL",
+            "link": "https://www.courier-journal.com/story/opinion/columnists/2017/11/02/papa-johns-sales-down-bad-pizza/824450001/",
+            "displayLink": "www.courier-journal.com",
+            "snippet": "Nov 2, 2017 ... John Schnatter says that the NFL's inability to deal with anthem protests is \ncausing his sales to drop, but it may be because his pizza is trash.",
+            "htmlSnippet": "Nov 2, 2017 <b>...</b> John Schnatter says that the NFL&#39;s inability to deal with anthem protests is <br>\ncausing his sales to drop, but it may be because his <b>pizza</b> is trash.",
+            "cacheId": "v9FriHGhpnAJ",
+            "formattedUrl": "https://www.courier-journal.com/story/...bad-pizza/824450001/",
+            "htmlFormattedUrl": "https://www.courier-journal.com/story/...<b>bad</b>-<b>pizza</b>/824450001/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "310",
+                        "height": "163",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXO_5UEwiKmZWRu43MAsgCSi0UR1DUM8lUJ3iTRFK19v74hzEq7rux-BXz"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "content-type": "text/html; charset=UTF-8",
+                        "google": "notranslate",
+                        "apple-itunes-app": "app-id=525811534",
+                        "fb:app_id": "128534137209813",
+                        "fb:pages": "6271782579,6566864515,6581478870,7197664863,7850621533,8031989578,9812439851,10482066215,11277320498,13642915529,13652355666,14073085963,16511263815,17540977705,18884137648,19125738813,23332504801,25003338948,31185662683,36808884697,37412800032,41044579289,42128399297,43612894510,46050757230,47020221001,47692649063,48490808881,48958576760,48976713989,49060990988,49607602899,49680588265,49896855793,50095226239,50978409031,52929678682,54660221594,55529405081,56434454301,56732457944,62464848082,62811590881,63475094632,63475094632,63582312713,65299040658,66049156099,66281684861,68903794473,69357466992,70423731350,70657021294,71807382333,72088679443,72139486384,73736978810,74475819815,76240820015,76276576343,77475586904,79333461561,79437403137,80117331717,80335432797,81086717085,81320873283,81668556783,81917682064,82415033847,83300095936,83563566820,87171906471,87448932499,87448932499,88584644204,90329609573,94480694479,94700656192,95712466848,95926318753,97657252278,99020906334,100825602361,101112717264,103261740",
+                        "og:site_name": "The Courier-Journal",
+                        "og:image": "https://www.gannett-cdn.com/-mm-/da9c0dc340e77d5735613a547d47bf2165665e54/c=0-63-3595-2094/local/-/media/2017/01/25/Louisville/Louisville/636209759435366601-Papa-John-talks-entrepreneurship-at-GLI--PEARL-04.jpg?width=3200&height=1680&fit=crop",
+                        "og:image:width": "3200",
+                        "og:image:height": "1680",
+                        "twitter:card": "summary_large_image",
+                        "twitter:image": "https://www.gannett-cdn.com/-mm-/da9c0dc340e77d5735613a547d47bf2165665e54/c=0-63-3595-2094/local/-/media/2017/01/25/Louisville/Louisville/636209759435366601-Papa-John-talks-entrepreneurship-at-GLI--PEARL-04.jpg?width=1600&height=800&fit=crop",
+                        "twitter:site": "@courierjournal",
+                        "twitter:creator": "@courierjournal",
+                        "twitter:title": "Here's the real reason Papa John's sales are down: The pizza tastes like 'salty upholstery'",
+                        "twitter:description": "John Schnatter says that the NFL's inability to deal with anthem protests is causing his sales to drop, but it may be because his pizza is trash.",
+                        "og:title": "Here's the real reason Papa John's sales are down: The pizza tastes like 'salty upholstery'",
+                        "og:description": "John Schnatter says that the NFL's inability to deal with anthem protests is causing his sales to drop, but it may be because his pizza is trash.",
+                        "og:url": "https://www.courier-journal.com/story/opinion/columnists/2017/11/02/papa-johns-sales-down-bad-pizza/824450001/",
+                        "og:type": "article",
+                        "news_keywords": "Papa John, John Schnatter, NFL, Papa John's, Roger Goodell, anthem protests, NASDAQ, Twitter, Pizza Hut, best pizza chains, Louisville businesses",
+                        "article:author": "facebook.com/jeffrey.l.puckett",
+                        "viewport": "width=1070"
+                    }
+                ],
+                "videoobject": [
+                    {
+                        "name": "Papa John's CEO: NFL protests hurting sales",
+                        "image": "https://www.gannett-cdn.com/-mm-/cf530564dc7eac7761d1eb71386dae3040268aa7/c=0-68-2996-1761&r=1280x720/local/-/media/2017/11/01/USATODAY/USATODAY/636451414490202421-GettyImages-150054593.jpg?width=540&height=304&fit=crop",
+                        "thumbnailurl": "https://www.gannett-cdn.com/-mm-/35e3cf5c6ae31442fcce3e01370568dd95f22368/c=170-0-2830-2000&r=115x86/local/-/media/2017/11/01/USATODAY/USATODAY/636451414490202421-GettyImages-150054593.jpg",
+                        "uploaddate": "2017-11-01T22:29:34",
+                        "duration": "PT00M43S",
+                        "description": "The founder of Papa John's pizza says the national anthem protests that have been prevalent in the National Football League this season is hurting business, and blames the league's leadership..."
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://www.gannett-cdn.com/-mm-/ec8f05545cb52c46157018714d9671d26018f9c9/c=3-0-2397-1800/local/-/media/2017/11/02/Louisville/Louisville/636452106753137469-IMG-6455.JPG?width=534&height=401&fit=crop",
+                        "name": "636452106753137469-IMG-6455.JPG"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.gannett-cdn.com/-mm-/da9c0dc340e77d5735613a547d47bf2165665e54/c=0-63-3595-2094/local/-/media/2017/01/25/Louisville/Louisville/636209759435366601-Papa-John-talks-entrepreneurship-at-GLI--PEARL-04.jpg?width=3200&height=1680&fit=crop"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "DOMINO'S PIZZA BAD SERVICE 2016 - YouTube",
+            "htmlTitle": "DOMINO&#39;S <b>PIZZA BAD</b> SERVICE 2016 - YouTube",
+            "link": "https://www.youtube.com/watch?v=CAMsNZvOkPw",
+            "displayLink": "www.youtube.com",
+            "snippet": "Aug 13, 2016 ... Atrocious service at this Cullen location in Houston Tx. They decided to refund \nmy cash on my card bc I pulled out my smartphone and begin\u00a0...",
+            "htmlSnippet": "Aug 13, 2016 <b>...</b> Atrocious service at this Cullen location in Houston Tx. They decided to refund <br>\nmy cash on my card bc I pulled out my smartphone and begin&nbsp;...",
+            "cacheId": "jZB9R2V-LVMJ",
+            "formattedUrl": "https://www.youtube.com/watch?v=CAMsNZvOkPw",
+            "htmlFormattedUrl": "https://www.youtube.com/watch?v=CAMsNZvOkPw",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqb-uCsF-zm84YIvEt5zevnXR19CP0LTNr0ZNjeWLCrH9F6T924eIYip9-"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "title": "DOMINO'S PIZZA BAD SERVICE 2016",
+                        "theme-color": "#ff0000",
+                        "og:site_name": "YouTube",
+                        "og:url": "https://www.youtube.com/watch?v=CAMsNZvOkPw",
+                        "og:title": "DOMINO'S PIZZA BAD SERVICE 2016",
+                        "og:image": "https://i.ytimg.com/vi/CAMsNZvOkPw/maxresdefault.jpg",
+                        "og:description": "Atrocious service at this Cullen location in Houston Tx. They decided to refund my cash on my card bc I pulled out my smartphone and begin recording them in ...",
+                        "al:ios:app_store_id": "544007664",
+                        "al:ios:app_name": "YouTube",
+                        "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=CAMsNZvOkPw&feature=applinks",
+                        "al:android:url": "vnd.youtube://www.youtube.com/watch?v=CAMsNZvOkPw&feature=applinks",
+                        "al:android:app_name": "YouTube",
+                        "al:android:package": "com.google.android.youtube",
+                        "al:web:url": "https://www.youtube.com/watch?v=CAMsNZvOkPw&feature=applinks",
+                        "og:type": "video.other",
+                        "og:video:url": "https://www.youtube.com/embed/CAMsNZvOkPw",
+                        "og:video:secure_url": "https://www.youtube.com/embed/CAMsNZvOkPw",
+                        "og:video:type": "text/html",
+                        "og:video:width": "960",
+                        "og:video:height": "720",
+                        "fb:app_id": "87741124305",
+                        "twitter:card": "player",
+                        "twitter:site": "@youtube",
+                        "twitter:url": "https://www.youtube.com/watch?v=CAMsNZvOkPw",
+                        "twitter:title": "DOMINO'S PIZZA BAD SERVICE 2016",
+                        "twitter:description": "Atrocious service at this Cullen location in Houston Tx. They decided to refund my cash on my card bc I pulled out my smartphone and begin recording them in ...",
+                        "twitter:image": "https://i.ytimg.com/vi/CAMsNZvOkPw/maxresdefault.jpg",
+                        "twitter:app:name:iphone": "YouTube",
+                        "twitter:app:id:iphone": "544007664",
+                        "twitter:app:name:ipad": "YouTube",
+                        "twitter:app:id:ipad": "544007664",
+                        "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/watch?v=CAMsNZvOkPw&feature=applinks",
+                        "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/watch?v=CAMsNZvOkPw&feature=applinks",
+                        "twitter:app:name:googleplay": "YouTube",
+                        "twitter:app:id:googleplay": "com.google.android.youtube",
+                        "twitter:app:url:googleplay": "https://www.youtube.com/watch?v=CAMsNZvOkPw",
+                        "twitter:player": "https://www.youtube.com/embed/CAMsNZvOkPw",
+                        "twitter:player:width": "960",
+                        "twitter:player:height": "720"
+                    }
+                ],
+                "videoobject": [
+                    {
+                        "url": "https://www.youtube.com/watch?v=CAMsNZvOkPw",
+                        "name": "DOMINO'S PIZZA BAD SERVICE 2016",
+                        "description": "Atrocious service at this Cullen location in Houston Tx. They decided to refund my cash on my card bc I pulled out my smartphone and begin recording them in ...",
+                        "paid": "False",
+                        "channelid": "UCmBf0enV8yXTKqfsql30DXg",
+                        "videoid": "CAMsNZvOkPw",
+                        "duration": "PT2M16S",
+                        "unlisted": "False",
+                        "thumbnailurl": "https://i.ytimg.com/vi/CAMsNZvOkPw/maxresdefault.jpg",
+                        "embedurl": "https://www.youtube.com/embed/CAMsNZvOkPw",
+                        "playertype": "HTML5 Flash",
+                        "width": "960",
+                        "height": "720",
+                        "isfamilyfriendly": "True",
+                        "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+                        "interactioncount": "530728",
+                        "datepublished": "2016-08-13",
+                        "genre": "Entertainment"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://i.ytimg.com/vi/CAMsNZvOkPw/maxresdefault.jpg",
+                        "width": "1280",
+                        "height": "720"
+                    }
+                ],
+                "person": [
+                    {
+                        "url": "http://www.youtube.com/user/1985mensah"
+                    },
+                    {
+                        "url": "https://plus.google.com/113255913523435101789"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i.ytimg.com/vi/CAMsNZvOkPw/maxresdefault.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Dying for a Pizza? The Worst Foods for Your Heart",
+            "htmlTitle": "Dying for a <b>Pizza</b>? The Worst Foods for Your Heart",
+            "link": "http://www.cardiovascularsolutionsinstitute.com/dying-for-a-pizza-the-worst-foods-for-your-heart/",
+            "displayLink": "www.cardiovascularsolutionsinstitute.com",
+            "snippet": "Aug 4, 2015 ... pizza Over 2,000 US citizens die from heart disease every day. ... However, \nprocessed meats are often bad news for our hearts. They're full of\u00a0...",
+            "htmlSnippet": "Aug 4, 2015 <b>...</b> <b>pizza</b> Over 2,000 US citizens die from heart disease every day. ... However, <br>\nprocessed meats are often <b>bad</b> news for our hearts. They&#39;re full of&nbsp;...",
+            "cacheId": "ghvzHe13MlgJ",
+            "formattedUrl": "www.cardiovascularsolutionsinstitute.com/dying-for-a-pizza-the-worst-foods- for-your-heart/",
+            "htmlFormattedUrl": "www.cardiovascularsolutionsinstitute.com/dying-for-a-<b>pizza</b>-the-worst-foods- for-your-heart/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "275",
+                        "height": "183",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQkeHCGlbZngktGoMAhHj6yh9LBwyy6r8DFaCKYwdEY3bqhoRreqLyISvw"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "user-scalable=no, width=device-width, maximum-scale=1, minimum-scale=1"
+                    }
+                ],
+                "article": [
+                    {
+                        "headline": "Dying for a Pizza? The Worst Foods for Your Heart",
+                        "datepublished": "2015-08-04T07:40:50+00:00",
+                        "text": "Over 2,000 US citizens die from heart disease every day. The sad fact is that many of those deaths could have been avoided, had the individual eaten a healthier diet. Many cases of heart disease,..."
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "url": "\u2190 Traveling with a Heart Condition: Staying Safe This Summer"
+                    }
+                ],
+                "person": [
+                    {
+                        "url": "Best Edge SEM",
+                        "name": "Best Edge SEM"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.cardiovascularsolutionsinstitute.com/wp-content/uploads/2015/08/pizza.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bad pizza GIFs - Get the best GIF on GIPHY",
+            "htmlTitle": "<b>Bad pizza</b> GIFs - Get the best GIF on GIPHY",
+            "link": "https://giphy.com/explore/bad-pizza",
+            "displayLink": "giphy.com",
+            "snippet": "Explore and share the best Bad Pizza GIFs and most popular animated GIFs here \non GIPHY. Find Funny GIFs, Cute GIFs, Reaction GIFs and more.",
+            "htmlSnippet": "Explore and share the best <b>Bad Pizza</b> GIFs and most popular animated GIFs here <br>\non GIPHY. Find Funny GIFs, Cute GIFs, Reaction GIFs and more.",
+            "cacheId": "kSSzPk0M6nEJ",
+            "formattedUrl": "https://giphy.com/explore/bad-pizza",
+            "htmlFormattedUrl": "https://giphy.com/explore/<b>bad</b>-<b>pizza</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "302",
+                        "height": "167",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR12GaK6r4busdgdDPVhIwvMCohf4vnKG0SrIOxK2tPNz8eUzZ4fuVwEyo"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msvalidate.01": "F8A7FDC3D369E857ACB67C4AB8EBD9A4",
+                        "alexaverifyid": "HMyPJIK-pLEheM5ACWFf6xvnA2U",
+                        "fb:admins": "548288355",
+                        "p:domain_verify": "61a9a962d47f10756a14a44c1b44d7c8",
+                        "viewport": "width=device-width, user-scalable=1, initial-scale=1.0",
+                        "fb:app_id": "406655189415060",
+                        "og:site_name": "GIPHY",
+                        "og:url": "https://giphy.com/explore/bad-pizza",
+                        "og:title": "Bad Pizza GIFs - Get the best GIF on GIPHY",
+                        "og:description": "Explore and share the best Bad Pizza GIFs and most popular animated GIFs here on GIPHY. Find Funny GIFs, Cute GIFs, Reaction GIFs and more.",
+                        "og:type": "website",
+                        "og:image": "https://media.giphy.com/media/l0IypogPjl72aNFGo/giphy.gif",
+                        "og:image:type": "image/gif",
+                        "og:image:width": "480",
+                        "og:image:height": "266",
+                        "og:video": "https://media.giphy.com/media/l0IypogPjl72aNFGo/giphy.mp4",
+                        "og:video:secure_url": "https://media.giphy.com/media/l0IypogPjl72aNFGo/giphy.mp4",
+                        "og:video:type": "video/mp4",
+                        "og:video:width": "480",
+                        "og:video:height": "266",
+                        "twitter:account_id": "1020383864",
+                        "twitter:card": "player",
+                        "twitter:title": "Bad Pizza GIFs - Get the best GIF on GIPHY",
+                        "twitter:creator": "@much",
+                        "twitter:site": "@giphy",
+                        "twitter:description": "Explore and share the best Bad Pizza GIFs and most popular animated GIFs here on GIPHY. Find Funny GIFs, Cute GIFs, Reaction GIFs and more.",
+                        "twitter:image:src": "https://media.giphy.com/media/l0IypogPjl72aNFGo/giphy-facebook_s.jpg",
+                        "twitter:image": "https://media.giphy.com/media/l0IypogPjl72aNFGo/giphy-facebook_s.jpg",
+                        "twitter:domain": "giphy.com",
+                        "twitter:player": "https://giphy.com/embed/twitter/search/bad-pizza",
+                        "twitter:player:width": "435",
+                        "twitter:player:height": "241",
+                        "author": "GIPHY",
+                        "pinterest": "nohover",
+                        "apple-mobile-web-app-title": "GIPHY"
+                    }
+                ],
+                "organization": [
+                    {
+                        "url": "https://giphy.com/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://media.giphy.com/media/l0IypogPjl72aNFGo/giphy.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "MOD Pizza - Bad company, judgmental, and hostile. | Glassdoor",
+            "htmlTitle": "MOD <b>Pizza</b> - <b>Bad</b> company, judgmental, and hostile. | Glassdoor",
+            "link": "https://www.glassdoor.com/Reviews/Employee-Review-MOD-Pizza-RVW10260467.htm",
+            "displayLink": "www.glassdoor.com",
+            "snippet": "Apr 13, 2016 ... Cons. Absolutely the worst company I have ever worked for! I was harassed, \nconstantly criticized, and singled out every day. I was cussed at by\u00a0...",
+            "htmlSnippet": "Apr 13, 2016 <b>...</b> Cons. Absolutely the worst company I have ever worked for! I was harassed, <br>\nconstantly criticized, and singled out every day. I was cussed at by&nbsp;...",
+            "cacheId": "5A81Lu-iejEJ",
+            "formattedUrl": "https://www.glassdoor.com/.../Employee-Review-MOD-Pizza- RVW10260467.htm",
+            "htmlFormattedUrl": "https://www.glassdoor.com/.../Employee-Review-MOD-<b>Pizza</b>- RVW10260467.htm",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "180",
+                        "height": "180",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKIj96KNoe6jctam1hkwNR32zFDNJdxF8YkOz0km24Mh9O_rK57qROcqc"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "theme-color": "#0caa41",
+                        "msapplication-navbutton-color": "#0caa41",
+                        "apple-mobile-web-app-capable": "yes",
+                        "apple-mobile-web-app-status-bar-style": "#0caa41",
+                        "referrer": "origin",
+                        "al:ios:app_store_id": "589698942",
+                        "al:ios:app_name": "Glassdoor",
+                        "og:title": "MOD Pizza - Bad company, judgmental, and hostile.",
+                        "og:type": "website",
+                        "og:site_name": "Glassdoor",
+                        "fb:app_id": "129253937150340",
+                        "og:url": "https://www.glassdoor.com/Reviews/Employee-Review-MOD-Pizza-RVW10260467.htm",
+                        "og:image": "https://media.glassdoor.com/sqll/366264/mod-pizza-squarelogo-1522452262025.png",
+                        "og:description": "Great Customers and health benefits.",
+                        "apple-itunes-app": "app-id=589698942",
+                        "google-play-app": "app-id=com.glassdoor.app"
+                    }
+                ],
+                "review": [
+                    {
+                        "reviewer": "Former Employee - MOD",
+                        "reviewdate": "2016-04-13",
+                        "ratingstars": "1.0"
+                    }
+                ],
+                "hreview": [
+                    {
+                        "summary": "\"Bad company, judgmental, and hostile.\"",
+                        "dtreviewed": "2016-04-13",
+                        "description": "ProsGreat Customers and health benefits.ConsAbsolutely the worst company I have ever worked for! I was harassed, constantly criticized, and singled out every day. I was cussed at by my captain..."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://media.glassdoor.com/sqll/366264/mod-pizza-squarelogo-1522452262025.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bad Astma + Ymers Pizza | no lagos musique",
+            "htmlTitle": "<b>Bad</b> Astma + Ymers <b>Pizza</b> | no lagos musique",
+            "link": "https://nolagosmusique.bandcamp.com/album/bad-astma-ymers-pizza",
+            "displayLink": "nolagosmusique.bandcamp.com",
+            "snippet": "Bad Astma + Ymers Pizza by no lagos musique, released 04 May 2017 1. bad \nastma (I) 2. bad astma (II) 3. ymers pizza BAD ASTMA is Maria Bertel : Trombone\n\u00a0...",
+            "htmlSnippet": "<b>Bad</b> Astma + Ymers <b>Pizza</b> by no lagos musique, released 04 May 2017 1. <b>bad</b> <br>\nastma (I) 2. <b>bad</b> astma (II) 3. ymers <b>pizza BAD</b> ASTMA is Maria Bertel : Trombone<br>\n&nbsp;...",
+            "cacheId": "om779BtU8jQJ",
+            "formattedUrl": "https://nolagosmusique.bandcamp.com/album/bad-astma-ymers-pizza",
+            "htmlFormattedUrl": "https://nolagosmusique.bandcamp.com/album/<b>bad</b>-astma-ymers-<b>pizza</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUiHp53JnNkKljpDQsnKBJ4ACwQ1PeR8pAYNASM_CHPYutLG99Sz3FN9Vv"
+                    }
+                ],
+                "musicrecording": [
+                    {
+                        "url": "bad astma (I)",
+                        "name": "bad astma (I)",
+                        "duration": "P00H05M58S"
+                    },
+                    {
+                        "url": "bad astma (II)",
+                        "name": "bad astma (II)",
+                        "duration": "P00H08M26S"
+                    },
+                    {
+                        "url": "ymers pizza",
+                        "name": "ymers pizza",
+                        "duration": "P00H14M20S"
+                    }
+                ],
+                "musicgroup": [
+                    {
+                        "name": "no lagos musique",
+                        "description": "thomas.afrogoth@gmail.com NO LAGOS MUSIQUE noshrine.tumblr.com Micro-label actif depuis le printemps 2014 en r\u00e9gion parisienne, no lagos musique sort des cassettes, des cd-r et des vinyles...."
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-mobile-web-app-capable": "yes",
+                        "norton-safeweb-site-verification": "ejd7gu5uojnhaq1f4mkwkx8rbydsxtne25pyxbyv24x7e2b-voeqw8wohh9j183bfyeq109vyl4vd396-wkx1gog2vv4g21x39voxpe75a96ahp98-nookkmva7n5t7a",
+                        "title": "Bad Astma + Ymers Pizza, by no lagos musique",
+                        "og:title": "Bad Astma + Ymers Pizza, by no lagos musique",
+                        "og:type": "album",
+                        "og:site_name": "no lagos musique",
+                        "og:description": "3 track album",
+                        "twitter:site": "@bandcamp",
+                        "twitter:card": "player",
+                        "og:image": "https://f4.bcbits.com/img/a3878818146_5.jpg",
+                        "og:url": "https://nolagosmusique.bandcamp.com/album/bad-astma-ymers-pizza",
+                        "medium": "video",
+                        "video_height": "120",
+                        "video_width": "400",
+                        "video_type": "application/x-shockwave-flash",
+                        "og:video": "https://bandcamp.com/EmbeddedPlayer/v=2/album=623035697/size=large/tracklist=false/artwork=small/",
+                        "og:video:secure_url": "https://bandcamp.com/EmbeddedPlayer/v=2/album=623035697/size=large/tracklist=false/artwork=small/",
+                        "og:video:type": "text/html",
+                        "og:video:height": "120",
+                        "og:video:width": "400",
+                        "twitter:player": "https://bandcamp.com/EmbeddedPlayer/v=2/album=623035697/size=large/linkcol=0084B4/notracklist=true/twittercard=true/",
+                        "twitter:player:height": "467",
+                        "twitter:player:width": "350"
+                    }
+                ],
+                "musicalbum": [
+                    {
+                        "name": "Bad Astma + Ymers Pizza",
+                        "byartist": "no lagos musique",
+                        "image": "https://f4.bcbits.com/img/a3878818146_16.jpg",
+                        "description": "BAD ASTMA is Maria Bertel : Trombone Thomas Eiler : Drums www.youtube.com/watch?v=1JHmP1R5ZS8 ***************** YMERS PIZZA is Maria Bertel www.youtube.com/watch?v=v8fpu0RWtac ******************...",
+                        "datepublished": "20170504",
+                        "keywords": "experimental"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://f4.bcbits.com/img/a3878818146_5.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}
